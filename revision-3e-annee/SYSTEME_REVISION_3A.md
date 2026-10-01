@@ -5,6 +5,8 @@
 
 Document construit le **jeudi 01/10/2026**. Le programme démarre **demain, vendredi 02/10/2026**.
 
+> **Version 2 (01/10/2026)** · **Recouchage de l'unité sur 14 jours** (J-14 = jeu 26/11 → mer 09/12) · **Arrêt total des modules à partir du milieu de S7** (dernières séances sam 14/11 et dim 15/11 ; stop du lun 16/11 à l'examen du 10/12) · **Parcours thématique des modules** (Partie 6) · **Pack d'import Notion** (dossier `notion/`).
+
 **Sources analysées (5 documents) :**
 
 | Code | Document | Ce qu'il apporte |
@@ -17,9 +19,16 @@ Document construit le **jeudi 01/10/2026**. Le programme démarre **demain, vend
 
 **Ce que les sources ne contiennent PAS** (donc je ne l'invente pas) : nombre de pages des cours, difficulté des cours (sauf la Parasitologie, que tu m'as déclarée difficile), tombabilité des modules (Micro/Para/Pharma), dates des stages, dates de vacances, ta section (A/B/C/D), ton service de sémiologie, l'ordre réel de présentation des cours à l'hôpital, la liste des cours de l'UEI 2.
 
-**Fichiers associés (dans ce dossier) :**
-- `suivi_cardio.csv` — tracker des 50 cours de l'UEI 1 (importable dans Google Sheets / Excel / Notion)
-- `suivi_modules.csv` — tracker des 73 cours de Micro / Para / Pharma
+**Fichiers associés — dossier `notion/` (pack d'import Notion, aussi en `notion_S1_import.zip`) :**
+- `00 🏠 Tableau de bord S1.md` — page d'accueil (compte à rebours, priorités, routines)
+- `01 🫀 UEI1 …csv` — base **Contrôle & progression** des 50 cours de l'UEI 1
+- `02 🧠 UEI2 …csv` — même base pour l'UEI 2 (modèle : liste des cours non fournie)
+- `03 🦠 Modules S1 …csv` — base **Contrôle & progression** des 73 cours de modules
+- `04 🧩 Parcours thématique des modules.csv` — les 21 thèmes
+- `05 📅 Tableau de bord hebdomadaire.csv` — S1 → examens de février
+- `06 🔁 Recouchage J-14 UEI1.csv` — les 14 jours de recouchage
+- `10/11/12 Tracker Microbiologie / Parasitologie / Pharmacologie.md` — objectifs, règles, parcours, couches, fin de semestre
+- `99 ⚙️ Guide d'installation Notion.md` — import, types de propriétés, formules, vues
 
 ---
 
@@ -135,7 +144,7 @@ Modules Micro / Para / Pharma : enseignés sur les 19 semaines (27/09 → 05/02)
 ### Hiérarchie
 
 **1. CARDIO (UEI 1)** — objectif : *maîtrise progressive et profonde* avant le 10/12.
-**2. PARASITOLOGIE / MICROBIOLOGIE / PHARMACOLOGIE** — objectif : *suivre le rythme sans jamais décrocher, puis prendre de l'avance dès que Cardio s'allège* (S8–S9, 11–13/12, vacances).
+**2. PARASITOLOGIE / MICROBIOLOGIE / PHARMACOLOGIE** — objectif : *suivre le rythme sans jamais décrocher jusqu'à mi-S7*, puis **arrêt total du lun 16/11 au 10/12** (Cardio seul), puis **sprint thématique** dès le 12/12 (et pendant d'éventuelles vacances).
 **3. Le reste selon le calendrier** — UEI 2 à partir du 14/12 ; S2 (UEI 3, UEI 4, ACP, Immuno) plus tard.
 
 ### Ce que « prendre de l'avance » veut dire concrètement (avance ciblée)
@@ -148,7 +157,7 @@ Modules Micro / Para / Pharma : enseignés sur les 19 semaines (27/09 → 05/02)
 | **Psychologie** | Avance automatique dès S5 | 7 cours pour 10 semaines ; faible poids → C1 ciblée |
 | **Radiologie** | Synchronisée (léger retard possible S2–S3, rattrapé S4) | 10 cours en 10 semaines, poids moyen |
 | **Pharmacologie** | Au rythme de l'amphi (19 cours/19 sem.) | Module le plus léger en nombre de cours |
-| **Microbiologie** | Au rythme ±2 cours, **avance réelle à partir de S8** | 29 cours/19 sem. = 1,5/sem. → impossible d'être en avance sans sacrifier Cardio |
+| **Microbiologie** | Au rythme ±2 cours jusqu'à mi-S7, puis arrêt ; avance pendant le sprint post-examen | 29 cours/19 sem. = 1,5/sem. → impossible d'être en avance sans sacrifier Cardio |
 | **Parasitologie** | Au rythme ±3 cours (module difficile → petites doses), **avance pendant les jours libres** | 25 cours/19 sem. = 1,3/sem. |
 
 > **Décision de directeur pédagogique :** pendant l'UEI 1, l'avance sur les modules n'est réaliste que pour la Pharmacologie. Pour la Micro et la Para, l'objectif est *« ne jamais décrocher »* ; l'avance se construit pendant les périodes où Cardio s'allège. Je préfère te le dire maintenant plutôt que te donner un planning qui paraît beau sur papier.
@@ -225,9 +234,11 @@ Pas de score décimal (les sources ne le permettent pas). Un niveau P1–P4 bas�
 |---|---|---|---:|
 | **A. Lancement** | **S1** : 02/10 → 08/10 | Mise en place du système, rattrapage des 2 cours vus, premiers cours étudiés | 7 (dont 3 légers) |
 | **B. Montée** | **S2–S3** : 09/10 → 22/10 | Se synchroniser avec l'hôpital (3 sémio/sem.) | 6–7 |
-| **C. Croisière + avance** | **S4–S8** : 23/10 → 26/11 | 1 cours d'avance en sémio et en physio ; C3 des premiers cours | 4–7 |
-| **D. Maîtrise** | **S9** : 27/11 → 03/12 | **0 nouveau cours** : C3 de tout ce qui reste, cas cliniques, QCM par matière | 0 |
-| **E. Pré-examen** | **S10** : 04/12 → 09/12 | C4 (P1, P2, n.i.) · flash pour P3/P4 · veille légère | 0 |
+| **C. Croisière + avance** | **S4–S6** : 23/10 → 12/11 | 1 cours d'avance en sémio et en physio ; C3 des premiers cours | 6–7 |
+| **C'. Arrêt des modules** | **S7** : 13/11 → 19/11 | Modules jusqu'au dim 15/11, puis **Cardio seul** : le temps libéré va aux **C3 anticipées** | 6 |
+| **C'. Fin des C1** | **S8** : ven 20/11 → mer 25/11 | 4 dernières C1 **avant mer 25/11** + C3 · 0 module | 4 |
+| **D. Recouchage — passage 1 (C3)** | **jeu 26/11 (J-14) → jeu 03/12 (J-7)** | Repasser **toute** l'unité en C3 + 6 cas cliniques (25 QCS) | 0 |
+| **E. Recouchage — passage 2 (C4)** | **ven 04/12 (J-6) → mer 09/12 (J-1)** | C4 de toute l'unité · passage éclair P1 la veille | 0 |
 | **EXAMEN** | **jeu 10/12/2026** | | |
 
 ### 5.2 Plan de référence semaine par semaine (couche 1)
@@ -242,10 +253,10 @@ Pas de score décimal (les sources ne le permettent pas). Un niveau P1–P4 bas�
 | **S4** | 23/10–29/10 | 10 (P1, 2 blocs), 11 | 05, 06 | 03, 04 (P4) | — | — | **Synthèse respiratoire** · **Infection & température** : choc septique ↔ thermorégulation ↔ fièvre (rappel SEM03) | 6 | 6,5 |
 | **S5** | 30/10–05/11 *(01/11 férié)* | 12, 13 | **07 (P1)** | 05 | **04 (P1)** le dim 01/11 | 04 | **Douleur thoracique ↔ athérosclérose** (précordialgies ↔ BIO04) · **Eau-sodium ↔ œdèmes** (rappel SEM02) | 6 | 7 |
 | **S6** | 06/11–12/11 | 14, 15 | 08 | 06 | 05 | 05 + 06 (P4, regroupés) | **Examen physique du cœur** · **HTA** · **Stress oxydant ↔ athérosclérose** (rappel BIO04) | 7 | 6 |
-| **S7** | 13/11–19/11 | **16 (P1)**, 17 (P4) | 09 | 07, 08 | — | 07 (P4) | **Vaisseaux** : sémio artérielle et veineuse ↔ MTE (↔ rappel HTA) · **Signes radiologiques** | 6 | 5,5 |
-| **S8** | 20/11–26/11 | **18 (P1, 2 blocs)** | — | 09, 10 (P4) | 06 | — | **Synthèse CV** · **Plèvre ↔ liquides d'épanchement ↔ atélectasie** · début des C3 | 4 | 4,5 |
-| **S9** | 27/11–03/12 | — | — | — | — | — | **Maîtrise** : C3, 25 QCS de cas cliniques, QCM par matière | 0 | — |
-| **S10** | 04/12–09/12 | — | — | — | — | — | **Pré-examen** (C4) | 0 | — |
+| **S7** | 13/11–19/11 | **16 (P1)**, 17 (P4) | 09 | 07, 08 | — | 07 (P4) | **Vaisseaux** : sémio artérielle et veineuse ↔ MTE (↔ rappel HTA) · **Signes radiologiques** · ⛔ modules arrêtés lun 16/11 → C3 anticipées | 6 | 5,5 |
+| **S8** | 20/11–26/11 | **18 (P1, 2 blocs)** | — | 09, 10 (P4) | 06 | — | **Synthèse CV** · **Plèvre ↔ liquides d'épanchement ↔ atélectasie** · **C1 terminées mer 25/11** · jeu 26/11 = J-14 | 4 | 4,5 |
+| **S9** | 27/11–03/12 | — | — | — | — | — | **Recouchage passage 1 (C3)** (commencé jeu 26/11) + cas cliniques | 0 | — |
+| **S10** | 04/12–09/12 | — | — | — | — | — | **Recouchage passage 2 (C4)** + passage éclair | 0 | — |
 
 ### 5.3 Position par rapport à l'hôpital (si l'hôpital suit la numérotation)
 
@@ -260,57 +271,109 @@ Pas de score décimal (les sources ne le permettent pas). Un niveau P1–P4 bas�
 
 **Règle :** dès que la vraie position est connue, la priorité de la semaine va à la matière **la plus en retard pondérée par son poids** (un retard d'1 cours de Sémio est plus grave qu'un retard d'1 cours de Psycho).
 
-### 5.4 Semaine de pré-examen S10 (C4)
+### 5.4 Recouchage de l'unité : 14 jours (J-14 → J-1)
 
-| Jour | Contenu (C4) | Charge |
-|---|---|---|
-| Ven 04/12 *(faible)* | Psychologie complète (flash + QCM) · P4 de toutes les matières (flash) | Légère |
-| Sam 05/12 | Sémiologie respiratoire SEM01→10 (focus SEM10 = 73) | Élevée |
-| Dim 06/12 | Sémiologie cardio-vasculaire SEM11→18 (focus SEM14-15, 16, 18) + cas cliniques | Élevée |
-| Lun 07/12 | Physiopathologie complète (focus PHY07, chocs) + cas cliniques | Normale |
-| Mar 08/12 | Radiologie + Biochimie (focus BIO04, RAD05, RAD08) | Normale |
-| Mer 09/12 | QCM mixtes chronométrés · **ta liste d'erreurs fréquentes** · relecture des fiches P1 · **coucher tôt** | Légère |
-| **Jeu 10/12** | **EXAMEN UEI 1** | |
+Règles : **aucun nouveau cours** à partir du jeu 26/11 · **aucun module** · deux passages complets sur les 50 cours (C3 puis C4) · la Sémiologie reçoit ~40 % du temps · repos réduit à **½ journée/semaine** (vendredis matin 27/11 et 04/12).
 
-Le jeudi 03/12 (dernier jour d'enseignement / début de la révision officielle) sert de **tampon** pour finir les C3 en retard.
+| J- | Jour | Type | Passage | Contenu | Cours | Objectif | Charge |
+|---|---|---|---|---|---|---|---|
+| J-14 | Jeu 26/11 | SOIR | Passage 1 · C3 | Physiopathologie : les chocs | PHY01–PHY05 | Restituer les 4 chocs en 1 tableau comparatif | Normale |
+| J-13 | Ven 27/11 | FAIBLE (matin repos) | Passage 1 · C3 | Psychologie complète + Biochimie (bases) | PSY01–07 · BIO01–03 | C3 rapide, P4 en flashcards | Légère |
+| J-12 | Sam 28/11 | FORT | Passage 1 · C3 | Sémiologie respiratoire | SEM01–SEM09 | Page blanche par cours + QCM | Élevée |
+| J-11 | Dim 29/11 | SOIR | Passage 1 · C3 | Synthèse respiratoire + imagerie thoracique | SEM10 · RAD05–RAD08 | SEM10 = 73 QCM : priorité absolue | Normale |
+| J-10 | Lun 30/11 | SOIR | Passage 1 · C3 | Physiopathologie (suite) | PHY06–PHY09 | PHY07 (P1) en premier | Normale |
+| J-9 | Mar 01/12 | SOIR | Passage 1 · C3 | Biochimie + imagerie (techniques) | BIO04–06 · RAD01–RAD04 | BIO04 (P1) en premier | Normale |
+| J-8 | Mer 02/12 | SOIR | Passage 1 · C3 | Sémiologie cardiaque | SEM11–SEM15 | SP cardiaques (48) + SF cardiaques (36) | Normale |
+| J-7 | Jeu 03/12 | SOUPLE → début révision officielle | Passage 1 · C3 | Fin du passage 1 + cas cliniques | SEM16–18 · RAD09–10 · 6 cas cliniques (25 QCS) | Plus aucun cours nouveau | Élevée |
+| J-6 | Ven 04/12 | FAIBLE (matin repos) | Passage 2 · C4 | Psychologie + tous les P4 (flash) | PSY01–07 · SEM17 · RAD04 · RAD10 · BIO03 | Flash + QCM | Légère |
+| J-5 | Sam 05/12 | FORT (journée) | Passage 2 · C4 | Sémiologie respiratoire | SEM01–SEM10 | QCM chronométrés + carnet d'erreurs | Élevée |
+| J-4 | Dim 06/12 | FORT (journée) | Passage 2 · C4 | Sémiologie cardio-vasculaire + cas cliniques | SEM11–SEM18 | SEM14–15, 16, 18 en priorité | Élevée |
+| J-3 | Lun 07/12 | FORT (journée) | Passage 2 · C4 | Physiopathologie complète + cas cliniques | PHY01–PHY09 | Mécanismes → signes | Normale |
+| J-2 | Mar 08/12 | FORT (journée) | Passage 2 · C4 | Radiologie + Biochimie | RAD01–10 · BIO01–06 | BIO04, RAD05, RAD08 en priorité | Normale |
+| J-1 | Mer 09/12 | LÉGER | Passage éclair | P1 + carnet d'erreurs + QCM mixtes (matin) · après-midi léger · coucher tôt | SEM10 · SEM16 · SEM18 · PHY07 · BIO04 | Confiance, pas de nouveauté | Légère |
+| J0 | Jeu 10/12 | EXAMEN | — | EXAMEN UEI 1 | — | — | — |
+
+Du 26/11 au 03/12, l'hôpital et les amphis continuent : ce sont des soirs à 2 blocs (samedi = 4–5 blocs). Du 04/12 au 09/12 (révision officielle), journées complètes. Les C3 déjà faites en S4–S8 rendent le passage 1 plus rapide pour les premiers cours.
 
 ---
 
 ## PARTIE 6 — PLAN DES MODULES
 
-### 6.1 Cadence par mode
+### 6.1 Cadence et règle d'arrêt
 
-| Module | Mode semestre (UEI 1) | Mode « Cardio allégé » (S8–S9) | Mode vacances / jours libres |
-|---|---|---|---|
-| **Pharmacologie** | 1 nouveau/sem. | 1–2/sem. | 3–4/sem. |
-| **Microbiologie** | 1 nouveau/sem., **2 une semaine sur deux** (≈1,5) | 2/sem. | 5–6/sem. |
-| **Parasitologie** | **1 nouveau/sem. en séance COURTE** + 2 micro-reprises de 15 min | 1–2/sem. | 3 nouveaux max/sem. + reprises quotidiennes |
-| **Total nouveaux modules** | **3–4/sem.** | 4–5/sem. | ~12/sem. |
+| Période | Pharmacologie | Microbiologie | Parasitologie | Total/sem. |
+|---|---|---|---|---:|
+| S1–S6 (mode semestre) | 1/sem. | 1–2/sem. | 1/sem. (séance courte) + 2 micro-reprises | 3–4 |
+| **S7 : sam 14/11 + dim 15/11** | PHA10 | VIR02 | — | 2 |
+| **⛔ lun 16/11 → jeu 10/12** | **0** | **0** | **0** | **0** — Cardio seul |
+| 12/12 → 27/01 (sprint + UEI 2) | ~2/sem. (finie en S15) | ~2–3/sem. | ~2–3/sem. | **6 + 1 le vendredi** |
+| 28/01 → 11/02 (recouchage UEI 2) | C3 | C3 | C3 (prioritaire) | 1 bloc/jour |
+| 12/02 → 18/02 | C4 → examen 16/02 | C4 → examen 14/02 | C4 → examen 18/02 | modules seuls |
 
-### 6.2 Plan de référence des modules pendant l'UEI 1
+Pendant l'arrêt, **aucune séance de module** (pas même des flashcards) : c'est ta règle. Les cartes de modules sont simplement **suspendues** dans Anki et réactivées le 12/12.
+
+### 6.2 Plan des modules pendant l'UEI 1 (parcours thématique)
 
 | Sem. | Pharmacologie | Microbiologie | Parasitologie | Total |
 |---|---|---|---|---:|
 | S1 | PHA01 | — | — | 1 |
-| S2 | PHA02 | MIC-1 | PAR01 | 3 |
-| S3 | PHA03 | MIC-2 | PAR02 | 3 |
-| S4 | PHA04 | MIC-3, MIC-4 | PAR03 | 4 |
-| S5 | PHA05 | MIC-5, MIC-6 | PAR04 | 4 |
-| S6 | PHA06 | MIC-7 | PAR05 | 3 |
-| S7 | PHA07 | MIC-8, MIC-9 | PAR06 | 4 |
-| S8 | PHA08 | MIC-10, MIC-11 | PAR07 | 4 |
-| S9 | PHA09 | MIC-12, MIC-13 | PAR08 | 4 |
-| S10 | flashcards seulement (10–15 min/j, surtout Para) | | | 0 |
-| **11–13/12** | PHA10 | MIC-14 | PAR09 | 3 |
-| **Au 13/12** | **10 / 19** | **14 / 29** | **9 / 25** | **33 / 73** |
+| S2 | PHA02 | BAC01 | PAR01 | 3 |
+| S3 | PHA03 | BAC02 | PAR02 | 3 |
+| S4 | PHA04 | BAC05, BAC06 | PAR03 | 4 |
+| S5 | PHA08 | BAC03, BAC04 | PAR04 | 4 |
+| S6 | PHA09 | VIR01 | PAR07 | 3 |
+| S7 (sam 14/11 · dim 15/11) | PHA10 (dim) | VIR02 (sam) | — | 2 |
+| S7 (dès lun 16/11) → S10 | ⛔ | ⛔ | ⛔ | 0 |
+| **12–13/12** (après l'examen) | PHA14 (dim) | VIR03 (sam) · BAC07 (dim) | — | 3 |
+| **Au 13/12** | **8 / 19** | **10 / 29** | **5 / 25** | **23 / 73** |
 
-*MIC-n = n-ième cours de la file Micro. Ta fiche liste la Virologie (VIR01–10) avant la Bactériologie (BAC01–19), mais l'ordre réel de l'amphi est inconnu → **la file Micro suit l'amphi**. Dis-moi quel cours de Micro a été présenté en premier.*
+### 6.2 bis Parcours thématique complet (programme proposé)
 
-**Honnêteté sur les chiffres :** au 13/12, il restera ~40 cours de modules pour l'UEI 2 (≈ 5/sem. en plus de l'UEI 2). **C'est le risque n°1 du semestre.** Les seuls vrais leviers :
-1. **Des vacances d'hiver** si l'administration en annonce → Mode vacances = ~12 cours de modules/semaine → problème réglé.
-2. Dès que Psycho est finie (S7), le créneau léger du vendredi passe aux modules (Pharma ou Para).
-3. Le jeudi matin tampon, quand tu es à jour, sert à une reprise de Para.
-4. Pour l'UEI 2, j'aurai besoin de sa liste de cours pour équilibrer.
+Les modules sont étudiés **par thème** : les cours qui se ressemblent (même mécanisme, même famille, même organe) sont placés à quelques jours d'intervalle, souvent **entre deux modules différents** (ex. Antibiotiques en Micro + Pharma la même semaine), et alignés quand c'est possible sur l'unité en cours (Cardio-respiratoire jusqu'en novembre, Neuro-locomoteur-cutané ensuite). Les fondations passent toujours en premier. Si l'amphi présente un cours plus tôt, il passe 🟡 et garde sa place dans le parcours (ou avance si tu préfères).
+
+| Thème | Cours | Fenêtre | Lien avec l'unité | À produire |
+|---|---|---|---|---|
+| **T01 · Fondations pharmaco** | PHA01, PHA02, PHA03, PHA04 | S1 / S2 / S3 / S4 | Prérequis de toute la pharmaco | Schéma ADME + courbe concentration/temps + tableau agoniste/antagoniste |
+| **T02 · Bases bactériennes** | BAC01, BAC02, BAC05, BAC06 | S2 / S3 / S4 | Prépare les antibiotiques (T08) | Tableau Gram+ / Gram− (paroi, coloration, exemples) |
+| **T03 · Hôte ↔ microbes** | PAR01, BAC03, BAC04 | S2 / S5 | PHY05 Choc septique · SEM03 Fièvre | Schéma « microbiote → conflit → sepsis » |
+| **T04 · Protozoaires intestinaux** | PAR02, PAR03, PAR04 | S3 / S4 / S5 | — | Tableau comparatif Para (agent · transmission · cycle · clinique · diagnostic · traitement) |
+| **T05 · SNA I — cœur & vaisseaux** | PHA08, PHA09, PHA10 | S5 / S6 / S7 (dim 15/11) | PHY02–05 Chocs · PHY04 Anaphylaxie (adrénaline) · PHY08 HTA | Tableau récepteurs α/β → effets → médicaments |
+| **T06 · Virus : bases** | VIR01, VIR02, VIR03 | S6 / S7 (sam 14/11) / 12/12 | SEM03 Fièvre · PHY05 | Schéma du cycle viral |
+| **T07 · Fièvre & paludisme** | PAR07 | S6 | SEM03 Fièvre · PHY06 Thermorégulation (S4) | Schéma du cycle + tableau des espèces |
+| **T08 · Antibiotiques (Micro + Pharma)** | BAC07, PHA14, PHA15, BAC08, BAC09 | 13/12 / S11 | PHY05 Choc septique | UN SEUL tableau commun Micro + Pharma |
+| **T09 · Toxicité & vigilance** | PHA05, PHA06, PHA07 | S12 | PSY05 Psychologie de la prescription | Arbre « effet indésirable → que faire » |
+| **T10 · Peau & muqueuses** | BAC15, VIR04, PAR17, PAR18, PAR20, PAR22, VIR05 | S12 / S13 | UEI 2 (cutané) | Tableau « lésion → agents possibles → diagnostic » |
+| **T11 · SNA II — neuro & muscle** | PHA11, PHA12, PHA13 | S13 / S14 | UEI 2 (neurologique, locomoteur) | Tableau muscarinique/nicotinique → effets → médicaments |
+| **T12 · Vecteurs & protozoaires sanguins/tissulaires** | PAR16, PAR05, PAR06, PAR08 | S14 | UEI 2 (neuro : toxo, trypano · cutané : leishmaniose) · rappel PAR07 | Tableau vecteur/parasite (avec PAR07) |
+| **T13 · Virus respiratoires & éruptifs** | VIR08 | S14 | UEI 1 respiratoire · UEI 2 cutané | Tableau virus → clinique → prévention |
+| **T14 · Inflammation, allergie & hormones** | PHA16, PHA17, PHA18, PHA19 | S15 | PHY04 Anaphylaxie · PSY06 Douleur · UEI 2 locomoteur | Tableau AINS vs corticoïdes + antihistaminiques |
+| **T15 · Plathelminthes (cestodes & trématodes)** | PAR09, PAR10, PAR11, PAR12 | S15 / S16 | UEI 1 thorax (kyste hydatique) · UEI 2 neuro (cysticercose) | Tableau comparatif des plathelminthes |
+| **T16 · Bactéries pathogènes (agents)** | BAC16, BAC17, BAC18, BAC11 | S16 / S18 | UEI 1 respiratoire (mycobactéries, légionelles) · UEI 2 neuro (Listeria, anaérobies) | Fiche par famille bactérienne |
+| **T17 · Nématodes** | PAR13, PAR14, PAR15 | S16 / S17 | UEI 2 cutané (larva migrans, onchocercose) | Tableau comparatif des nématodes |
+| **T18 · Virus à ARN & hépatites** | VIR06, VIR07 | S17 | UEI 4 digestif (plus tard) · T21 | Tableau des hépatites A–E |
+| **T19 · Mycoses profondes** | PAR19, PAR21, PAR23, PAR24 | S17 / S18 | UEI 1 respiratoire (pneumocystose, aspergillose) | Tableau des mycoses profondes |
+| **T20 · Prévention, hygiène & diagnostic** | BAC10, BAC12, BAC13, BAC14, VIR10, BAC19, VIR09 | Ven S12 / Ven S13 / Ven S14 / Ven S15 / Ven S16 / Ven S17 / S18 | BIO03 Pièges · BIO06 Liquides d'épanchement | Fiche « du prélèvement au résultat » |
+| **T21 · Immunodéprimé (synthèse)** | PAR25 | S18 | Rappels VIR07, PAR04, PAR08, PAR18, PAR19 | Tableau « déficit → agents » |
+
+**Bilan honnête :** l'arrêt à mi-S7 libère ~1,5 semaine de Cardio (plus de couches), mais repousse **~50 cours de modules** après le 12/12 : ≈ **6 par semaine + 1 le vendredi** en plus de l'UEI 2. C'est le prix de ta règle, et c'est le **risque n°1 du semestre**. Leviers, dans l'ordre :
+1. **Vacances d'hiver** si l'administration en annonce → Mode vacances (~12 cours de modules/semaine) → problème réglé.
+2. **Statistiques Medspace des modules** → on passe les cours peu tombables en couche 1 ciblée (½ bloc).
+3. Les cours conceptuels de T20 (prévention, hygiène, diagnostic) vont le **vendredi** (jour faible).
+4. La liste des cours de l'UEI 2 → j'équilibre semaine par semaine.
+
+### 6.2 ter Fin de semestre des modules (proposition)
+
+| Dates | Microbiologie | Pharmacologie | Parasitologie |
+|---|---|---|---|
+| 28/01 → 11/02 (recouchage UEI 2) | C3 · 1 bloc tous les 2 jours | C3 rapide · 1 bloc tous les 3 jours | **C3 prioritaire** chaque jour |
+| Ven 12/02 · Sam 13/02 | **C4** (bases + virologie, puis bactériologie + antibiotiques) | — | — |
+| **Dim 14/02** | **EXAMEN** | C4 l'après-midi (fondements + SNA) | — |
+| Lun 15/02 | — | **C4** (classes thérapeutiques + QCM) | — |
+| **Mar 16/02** | — | **EXAMEN** | C4 l'après-midi (protozoaires + entomologie) |
+| Mer 17/02 | — | — | **C4** (helminthes + mycologie + QCM) |
+| **Jeu 18/02** | — | — | **EXAMEN** |
+
+Pour l'UEI 2, un arrêt total des modules pendant le recouchage est **impossible** : leurs examens tombent 3 à 7 jours après. D'où le bloc modules quotidien entre le 28/01 et le 11/02.
 
 ### 6.3 Stratégie par module
 
@@ -356,7 +419,7 @@ Semaine type vacances : **5 jours de travail + 1,5 jour de repos**, **3 blocs + 
 
 Total/semaine ≈ **Micro 6 · Para 3 + 2 reprises · Pharma 3–4 ≈ 12 nouveaux** (≈ 40/34/26 % du temps, proportionnel au volume). **Préparation de l'unité suivante** : 1 bloc tous les 2 jours dès que j'ai la liste des cours de l'UEI 2.
 
-**Mini-mode vacances 11–13/12** (après l'examen UEI 1) : ven 11/12 **repos complet** · sam 12/12 : MIC-14 + PAR09 · dim 13/12 : PHA10 + C2 Micro. L'UEI 2 démarre lun 14/12.
+**Mini-mode vacances 11–13/12** (après l'examen UEI 1) : ven 11/12 **repos complet** · sam 12/12 : VIR03 (fin des bases virales) + réactivation des flashcards de modules · dim 13/12 : BAC07 + PHA14 (début du bloc Antibiotiques, Micro + Pharma ensemble). L'UEI 2 démarre lun 14/12.
 
 ---
 
@@ -468,7 +531,7 @@ Tes fiches imprimées ont 5 cases (C1–C5) + Q. Voici comment les cocher avec t
 
 **Ajustement par le volume :** un cours au volume « élevé » (> 25 p.) reçoit un **rappel intermédiaire de plus** (flashcards ciblées entre C2 et C3).
 
-**Ajustement par l'examen :** à partir de J-21 (19/11), toutes les C3 restantes passent avant tout nouveau cours de module.
+**Ajustement par l'examen :** dès le lun 16/11, plus aucun module : le temps libéré va aux C3 de Cardio. À J-14 (jeu 26/11), plus aucun nouveau cours : recouchage (Partie 5.4).
 
 ---
 
@@ -508,7 +571,7 @@ Règles : une carte = une idée ; question → réponse courte ; privilégier le
 
 | Bloc | Contenu | Type | Priorité | Volume | Objectif |
 |---|---|---|---|---|---|
-| 1 | **Mise en place** : rassembler tous les supports de l'UEI 1 + modules ; **noter le nombre de pages de chaque cours** dans `suivi_cardio.csv` ; imprimer/préparer les fiches | Organisation | Élevée | — | Mesurer le volume réel (donnée manquante) |
+| 1 | **Mise en place** : rassembler tous les supports de l'UEI 1 + modules ; **noter le nombre de pages de chaque cours** dans la base Notion 🫀 UEI1 (colonne « Pages ») ; imprimer/préparer les fiches | Organisation | Élevée | — | Mesurer le volume réel (donnée manquante) |
 | 2 | **SEM01** Introduction à la sémiologie + anamnèse | Nouveau (C1) | n.i. → P2 | à mesurer | Comprendre la démarche clinique |
 | 3 | Flashcards SEM01 | Création | — | Faible | Mémoire |
 
@@ -604,9 +667,9 @@ Règles : une carte = une idée ; question → réponse courte ; privilégier le
 | Créneau | Contenu |
 |---|---|
 | VEN 09 *(faible)* | PSY02 (C1) · C2 de PSY01 + PHA01 · **bilan S1 + pages relevées → je recalcule** |
-| SAM 10 | PHY03 IC aiguë · SEM04 Topographie (si non faite) · MIC-1 |
+| SAM 10 | PHY03 IC aiguë · SEM04 Topographie (si non faite) · BAC01 Introduction au monde microbien |
 | DIM 11 | BIO02 Biomarqueurs cardiaques · C3 de PHY02 (J+8) |
-| LUN 12 | SEM05 SF respiratoires I · PHA02 ADME · *(C3 SEM01)* |
+| LUN 12 | SEM05 SF respiratoires I · PHA02 ADME (T01 Fondations pharmaco) · *(C3 SEM01)* |
 | MAR 13 | RAD01 Tube RX · PAR01 Introduction (courte) · *(C3 SEM02, PHY02 → en flashcards ciblées)* |
 | MER 14 | SEM06 SF respiratoires II · rappel intégré « Cœur aigu » (PHY02-03 + BIO02) |
 | JEU 15 | Tampon · soir repos |
@@ -617,67 +680,67 @@ S2 est **la semaine la plus chargée** du plan (rattrapage : 3 sémio + 3 module
 
 ## PARTIE 12 — TABLEAUX DE SUIVI
 
+Tous ces tableaux existent en **bases de données Notion** dans le dossier `notion/` (avec vues, formules et calendriers : voir le guide). Ci-dessous, leur version lisible.
+
 Légende des états : ⬜ Non commencé · 🟡 Vu à l'hôpital mais non étudié · 🔵 Couche 1 · 🟢 Couche 2 · 🟣 Couche 3 · ✅ Couche 4 / pré-examen · 🔥 À revoir rapidement
 Maîtrise : 1 = fragile · 2 = correct · 3 = solide (auto-évaluation après QCM).
 
-Les versions modifiables de ces tableaux sont dans `suivi_cardio.csv` et `suivi_modules.csv`.
-
 ### 12.1 Tableau central de contrôle — UEI 1 Cardio-respiratoire
 
-*Tombabilité = chiffre brut de la fiche [CARDIO] (Medspace 2019-25). Part UEI 1 = chiffre ÷ 894 (calcul). Volume et difficulté : non fournis par les sources → à remplir.*
+*Tombabilité = chiffre brut de la fiche [CARDIO] (Medspace 2019-25). Part UEI 1 = chiffre ÷ 894 (calcul). Volume (pages) et difficulté : non fournis par les sources → à remplir. P1/P2 = dates de recouchage.*
 
-| ID | Cours | Matière | Volume | Difficulté | Tombabilité (QCM 2019-25) | Part UEI 1 | Importance | C1 prévue | Révisions programmées | Couche actuelle | Priorité |
-|---|---|---|---|---|---:|---:|---|---|---|---|---|
-| SEM01 | Introduction à la sémiologie médicale + anamnèse | Sémiologie | à mesurer · prévu 1 bloc | à auto-évaluer | non indiquée | — | n.i. → P2 par défaut | S1 | C1 ven 02/10 → C2 mar 06/10 → C3 lun 12/10 | Vu (🟡) | P2 (défaut) |
-| SEM02 | Sémiologie pondérale | Sémiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 43 (commun 02+03) | 4,8 % | P2 | S1 | C1 sam 03/10 → C2 dim 04/10 → C3 mar 13/10 | — | P2 |
-| SEM03 | Fièvre | Sémiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 43 (commun 02+03) | 4,8 % | P2 | S1 | C1 dim 04/10 → C2 mar 06/10 → C3 mer 14/10 | — | P2 |
-| SEM04 | Topographie du thorax | Sémiologie | à mesurer · prévu 1 bloc | à auto-évaluer | non indiquée | — | n.i. → P2 par défaut | S1 (tampon) / S2 | calculées à partir de la date de C1 (règles Partie 9) | — | P2 (défaut) |
-| SEM05 | SF respiratoires I : dyspnée, douleurs thoraciques | Sémiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 46 (commun 05+06) | 5,1 % | P2 | S2 | calculées à partir de la date de C1 (règles Partie 9) | — | P2 |
-| SEM06 | SF respiratoires II : toux, expectoration, vomique, hémoptysie, troubles de la voix | Sémiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 46 (commun 05+06) | 5,1 % | P2 | S2 | calculées à partir de la date de C1 (règles Partie 9) | — | P2 |
-| SEM07 | Examen physique de l'appareil respiratoire I | Sémiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 27 (commun 07+08) | 3,0 % | P3 | S3 | calculées à partir de la date de C1 (règles Partie 9) | — | P3 |
-| SEM08 | Examen physique de l'appareil respiratoire II | Sémiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 27 (commun 07+08) | 3,0 % | P3 | S3 | calculées à partir de la date de C1 (règles Partie 9) | — | P3 |
-| SEM09 | Explorations respiratoires | Sémiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 22 | 2,5 % | P2 | S3 | calculées à partir de la date de C1 (règles Partie 9) | — | P2 |
-| SEM10 | Étude synthétique de l'appareil respiratoire | Sémiologie | à mesurer · prévu 2 blocs (synthèse) | à auto-évaluer | 73 | 8,2 % | P1 | S4 | calculées à partir de la date de C1 (règles Partie 9) | — | P1 |
-| SEM11 | Hémodynamique intracardiaque | Sémiologie | à mesurer · prévu 1 bloc | à auto-évaluer | non indiquée | — | n.i. → P2 par défaut | S4 | calculées à partir de la date de C1 (règles Partie 9) | — | P2 (défaut) |
-| SEM12 | SF cardiaques I : dyspnée, précordialgies | Sémiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 36 (commun 12+13) | 4,0 % | P3 | S5 | calculées à partir de la date de C1 (règles Partie 9) | — | P3 |
-| SEM13 | SF cardiaques II : palpitations, syncopes, lipothymies | Sémiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 36 (commun 12+13) | 4,0 % | P3 | S5 | calculées à partir de la date de C1 (règles Partie 9) | — | P3 |
-| SEM14 | Signes physiques cardiaques I : palpation, inspection | Sémiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 48 (commun 14+15) | 5,4 % | P2 | S6 | calculées à partir de la date de C1 (règles Partie 9) | — | P2 |
-| SEM15 | Signes physiques cardiaques II : percussion, auscultation | Sémiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 48 (commun 14+15) | 5,4 % | P2 | S6 | calculées à partir de la date de C1 (règles Partie 9) | — | P2 |
-| SEM16 | Sémiologie artérielle et veineuse | Sémiologie | à mesurer · prévu 1,5–2 blocs | à auto-évaluer | 39 | 4,4 % | P1 | S7 | calculées à partir de la date de C1 (règles Partie 9) | — | P1 |
-| SEM17 | Exploration cardiaque | Sémiologie | à mesurer · prévu ½ bloc (C1 ciblée) | à auto-évaluer | 2 | 0,2 % | P4 | S7 | calculées à partir de la date de C1 (règles Partie 9) | — | P4 |
-| SEM18 | Étude synthétique de l'appareil cardio-vasculaire | Sémiologie | à mesurer · prévu 2 blocs (synthèse) | à auto-évaluer | 37 | 4,1 % | P1 | S8 | calculées à partir de la date de C1 (règles Partie 9) | — | P1 |
-| PHY01 | Choc hypovolémique | Physiopathologie | à mesurer · prévu 1 bloc | à auto-évaluer | 13 | 1,5 % | P3 | S1 | C1 sam 03/10 → C2 lun 05/10 → C3 sam 17/10 | Vu (🟡) | P3 |
-| PHY02 | Choc cardiogénique | Physiopathologie | à mesurer · prévu 1 bloc | à auto-évaluer | 22 | 2,5 % | P2 | S1 | C1 sam 03/10 → C2 lun 05/10 → C3 mar 13/10 | — | P2 |
-| PHY03 | Insuffisance cardiaque aiguë | Physiopathologie | à mesurer · prévu 1 bloc | à auto-évaluer | 18 | 2,0 % | P3 | S2 | calculées à partir de la date de C1 (règles Partie 9) | — | P3 |
-| PHY04 | Choc anaphylactique | Physiopathologie | à mesurer · prévu 1 bloc | à auto-évaluer | 20 | 2,2 % | P2 | S3 | calculées à partir de la date de C1 (règles Partie 9) | — | P2 |
-| PHY05 | Choc septique | Physiopathologie | à mesurer · prévu 1 bloc | à auto-évaluer | 23 | 2,6 % | P2 | S4 | calculées à partir de la date de C1 (règles Partie 9) | — | P2 |
-| PHY06 | Thermorégulation | Physiopathologie | à mesurer · prévu 1 bloc | à auto-évaluer | 18 | 2,0 % | P3 | S4 | calculées à partir de la date de C1 (règles Partie 9) | — | P3 |
-| PHY07 | Troubles hydro-sodés | Physiopathologie | à mesurer · prévu 1,5–2 blocs | à auto-évaluer | 36 | 4,0 % | P1 | S5 | calculées à partir de la date de C1 (règles Partie 9) | — | P1 |
-| PHY08 | Hypertension artérielle | Physiopathologie | à mesurer · prévu 1 bloc | à auto-évaluer | 17 | 1,9 % | P3 | S6 | calculées à partir de la date de C1 (règles Partie 9) | — | P3 |
-| PHY09 | Maladie thromboembolique | Physiopathologie | à mesurer · prévu 1 bloc | à auto-évaluer | 18 | 2,0 % | P3 | S7 | calculées à partir de la date de C1 (règles Partie 9) | — | P3 |
-| RAD01 | Tube à rayons X, formation de l'image radiologique | Radiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 19 | 2,1 % | P3 | S2 | calculées à partir de la date de C1 (règles Partie 9) | — | P3 |
-| RAD02 | Initiation à l'imagerie en coupe : TDM et IRM | Radiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 15 | 1,7 % | P3 | S3 | calculées à partir de la date de C1 (règles Partie 9) | — | P3 |
-| RAD03 | Échographie | Radiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 15 | 1,7 % | P3 | S4 | calculées à partir de la date de C1 (règles Partie 9) | — | P3 |
-| RAD04 | Exploration du cœur et des gros vaisseaux | Radiologie | à mesurer · prévu ½ bloc (C1 ciblée) | à auto-évaluer | 3 | 0,3 % | P4 | S4 | calculées à partir de la date de C1 (règles Partie 9) | — | P4 |
-| RAD05 | Techniques d'examens radiologiques du thorax | Radiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 26 | 2,9 % | P2 | S5 | calculées à partir de la date de C1 (règles Partie 9) | — | P2 |
-| RAD06 | Anatomie lobaire et segmentaire | Radiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 15 | 1,7 % | P3 | S6 | calculées à partir de la date de C1 (règles Partie 9) | — | P3 |
-| RAD07 | Signe du bronchogramme aérique | Radiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 12 | 1,3 % | P3 | S7 | calculées à partir de la date de C1 (règles Partie 9) | — | P3 |
-| RAD08 | Signe de la silhouette | Radiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 21 | 2,3 % | P2 | S7 | calculées à partir de la date de C1 (règles Partie 9) | — | P2 |
-| RAD09 | Atélectasie lobaire et segmentaire | Radiologie | à mesurer · prévu 1 bloc | à auto-évaluer | 19 | 2,1 % | P3 | S8 | calculées à partir de la date de C1 (règles Partie 9) | — | P3 |
-| RAD10 | Pathologie pleurale et extra-pleurale | Radiologie | à mesurer · prévu ½ bloc (C1 ciblée) | à auto-évaluer | 8 | 0,9 % | P4 | S8 | calculées à partir de la date de C1 (règles Partie 9) | — | P4 |
-| BIO01 | Biochimie de l'homme sain | Biochimie | à mesurer · prévu 1 bloc | à auto-évaluer | 13 | 1,5 % | P3 | S1 | C1 lun 05/10 → C2 mer 07/10 → C3 lun 19/10 | — | P3 |
-| BIO02 | Biomarqueurs cardiaques | Biochimie | à mesurer · prévu 1 bloc | à auto-évaluer | 24 | 2,7 % | P2 | S2 | calculées à partir de la date de C1 (règles Partie 9) | — | P2 |
-| BIO03 | L'acte biochimique et pièges d'interprétation | Biochimie | à mesurer · prévu ½ bloc (C1 ciblée) | à auto-évaluer | 9 | 1,0 % | P4 | S3 | calculées à partir de la date de C1 (règles Partie 9) | — | P4 |
-| BIO04 | Dyslipidémies et athérosclérose | Biochimie | à mesurer · prévu 1,5–2 blocs | à auto-évaluer | 35 | 3,9 % | P1 | S5 | calculées à partir de la date de C1 (règles Partie 9) | — | P1 |
-| BIO05 | Stress oxydant | Biochimie | à mesurer · prévu 1 bloc | à auto-évaluer | 21 | 2,3 % | P2 | S6 | calculées à partir de la date de C1 (règles Partie 9) | — | P2 |
-| BIO06 | Liquides d'épanchement | Biochimie | à mesurer · prévu 1 bloc | à auto-évaluer | 13 | 1,5 % | P3 | S8 | calculées à partir de la date de C1 (règles Partie 9) | — | P3 |
-| PSY01 | Aspects communicationnels de la rencontre avec le malade et sa famille, examen mental | Psychologie | à mesurer · prévu 1 bloc | à auto-évaluer | 24 | 2,7 % | P2 | S1 | C1 mar 06/10 → C2 ven 09/10 → C3 ven 16/10 | — | P2 |
-| PSY02 | Problèmes particuliers de l'entrevue | Psychologie | à mesurer · prévu 1 bloc | à auto-évaluer | 11 | 1,2 % | P3 | S2 | calculées à partir de la date de C1 (règles Partie 9) | — | P3 |
-| PSY03 | Stress et maladies psychosomatiques | Psychologie | à mesurer · prévu ½ bloc (C1 ciblée) | à auto-évaluer | 7 | 0,8 % | P4 | S3 | calculées à partir de la date de C1 (règles Partie 9) | — | P4 |
-| PSY04 | Fonctionnement de la personnalité | Psychologie | à mesurer · prévu 1 bloc | à auto-évaluer | 11 | 1,2 % | P3 | S5 | calculées à partir de la date de C1 (règles Partie 9) | — | P3 |
-| PSY05 | Psychologie de la prescription | Psychologie | à mesurer · prévu ½ bloc (C1 ciblée) | à auto-évaluer | 4 | 0,4 % | P4 | S6 | calculées à partir de la date de C1 (règles Partie 9) | — | P4 |
-| PSY06 | Psychologie de la douleur | Psychologie | à mesurer · prévu ½ bloc (C1 ciblée) | à auto-évaluer | 7 | 0,8 % | P4 | S6 | calculées à partir de la date de C1 (règles Partie 9) | — | P4 |
-| PSY07 | L'annonce d'une maladie grave | Psychologie | à mesurer · prévu ½ bloc (C1 ciblée) | à auto-évaluer | 4 | 0,4 % | P4 | S7 | calculées à partir de la date de C1 (règles Partie 9) | — | P4 |
+| ID | Cours | Matière | Thème intégré | Volume | Difficulté | Tombabilité | Part UEI 1 | Priorité | C1 prévue | Dernière révision | Prochaine révision | Couche actuelle | Recouchage P1 · P2 |
+|---|---|---|---|---|---|---:|---:|---|---|---|---|---|---|
+| SEM01 | Introduction à la sémiologie médicale + anamnèse | Sémiologie | Rencontre avec le patient | ? p. · 1 bloc | à évaluer | non indiquée | — | P2 (défaut) | S1 · 02/10 | — | C2 06/10 | 🟡 Vu | 28/11 · 05/12 |
+| SEM02 | Sémiologie pondérale | Sémiologie | Volume, eau & sodium | ? p. · 1 bloc | à évaluer | 43 (commun 02+03) | 4,8 % | P2 | S1 · 03/10 | — | C2 04/10 | ⬜ | 28/11 · 05/12 |
+| SEM03 | Fièvre | Sémiologie | Fièvre & infection | ? p. · 1 bloc | à évaluer | 43 (commun 02+03) | 4,8 % | P2 | S1 · 04/10 | — | C2 06/10 | ⬜ | 28/11 · 05/12 |
+| SEM04 | Topographie du thorax | Sémiologie | Respiratoire clinique | ? p. · 1 bloc | à évaluer | non indiquée | — | P2 (défaut) | S2 | — | selon date de C1 | ⬜ | 28/11 · 05/12 |
+| SEM05 | SF respiratoires I : dyspnée, douleurs thoraciques | Sémiologie | Respiratoire clinique | ? p. · 1 bloc | à évaluer | 46 (commun 05+06) | 5,1 % | P2 | S2 | — | selon date de C1 | ⬜ | 28/11 · 05/12 |
+| SEM06 | SF respiratoires II : toux, expectoration, vomique, hémoptysie, troubles de la voix | Sémiologie | Respiratoire clinique | ? p. · 1 bloc | à évaluer | 46 (commun 05+06) | 5,1 % | P2 | S2 | — | selon date de C1 | ⬜ | 28/11 · 05/12 |
+| SEM07 | Examen physique de l'appareil respiratoire I | Sémiologie | Respiratoire clinique | ? p. · 1 bloc | à évaluer | 27 (commun 07+08) | 3,0 % | P3 | S3 | — | selon date de C1 | ⬜ | 28/11 · 05/12 |
+| SEM08 | Examen physique de l'appareil respiratoire II | Sémiologie | Respiratoire clinique | ? p. · 1 bloc | à évaluer | 27 (commun 07+08) | 3,0 % | P3 | S3 | — | selon date de C1 | ⬜ | 28/11 · 05/12 |
+| SEM09 | Explorations respiratoires | Sémiologie | Respiratoire clinique | ? p. · 1 bloc | à évaluer | 22 | 2,5 % | P2 | S3 | — | selon date de C1 | ⬜ | 28/11 · 05/12 |
+| SEM10 | Étude synthétique de l'appareil respiratoire | Sémiologie | Respiratoire clinique | ? p. · 2 blocs (synthèse) | à évaluer | 73 | 8,2 % | P1 | S4 | — | selon date de C1 | ⬜ | 29/11 · 05/12 |
+| SEM11 | Hémodynamique intracardiaque | Sémiologie | Chocs & cœur aigu | ? p. · 1 bloc | à évaluer | non indiquée | — | P2 (défaut) | S4 | — | selon date de C1 | ⬜ | 02/12 · 06/12 |
+| SEM12 | SF cardiaques I : dyspnée, précordialgies | Sémiologie | Cœur clinique | ? p. · 1 bloc | à évaluer | 36 (commun 12+13) | 4,0 % | P3 | S5 | — | selon date de C1 | ⬜ | 02/12 · 06/12 |
+| SEM13 | SF cardiaques II : palpitations, syncopes, lipothymies | Sémiologie | Cœur clinique | ? p. · 1 bloc | à évaluer | 36 (commun 12+13) | 4,0 % | P3 | S5 | — | selon date de C1 | ⬜ | 02/12 · 06/12 |
+| SEM14 | Signes physiques cardiaques I : palpation, inspection | Sémiologie | Cœur clinique | ? p. · 1 bloc | à évaluer | 48 (commun 14+15) | 5,4 % | P2 | S6 | — | selon date de C1 | ⬜ | 02/12 · 06/12 |
+| SEM15 | Signes physiques cardiaques II : percussion, auscultation | Sémiologie | Cœur clinique | ? p. · 1 bloc | à évaluer | 48 (commun 14+15) | 5,4 % | P2 | S6 | — | selon date de C1 | ⬜ | 02/12 · 06/12 |
+| SEM16 | Sémiologie artérielle et veineuse | Sémiologie | Vaisseaux & athérosclérose | ? p. · 1,5–2 blocs | à évaluer | 39 | 4,4 % | P1 | S7 | — | selon date de C1 | ⬜ | 03/12 · 06/12 |
+| SEM17 | Exploration cardiaque | Sémiologie | Cœur clinique | ? p. · ½ bloc (C1 ciblée) | à évaluer | 2 | 0,2 % | P4 | S7 | — | selon date de C1 | ⬜ | 03/12 · 06/12 |
+| SEM18 | Étude synthétique de l'appareil cardio-vasculaire | Sémiologie | Cœur clinique | ? p. · 2 blocs (synthèse) | à évaluer | 37 | 4,1 % | P1 | S8 | — | selon date de C1 | ⬜ | 03/12 · 06/12 |
+| PHY01 | Choc hypovolémique | Physiopathologie | Volume, eau & sodium | ? p. · 1 bloc | à évaluer | 13 | 1,5 % | P3 | S1 · 03/10 | — | C2 05/10 | 🟡 Vu | 26/11 · 07/12 |
+| PHY02 | Choc cardiogénique | Physiopathologie | Chocs & cœur aigu | ? p. · 1 bloc | à évaluer | 22 | 2,5 % | P2 | S1 · 03/10 | — | C2 05/10 | ⬜ | 26/11 · 07/12 |
+| PHY03 | Insuffisance cardiaque aiguë | Physiopathologie | Chocs & cœur aigu | ? p. · 1 bloc | à évaluer | 18 | 2,0 % | P3 | S2 | — | selon date de C1 | ⬜ | 26/11 · 07/12 |
+| PHY04 | Choc anaphylactique | Physiopathologie | Chocs & cœur aigu | ? p. · 1 bloc | à évaluer | 20 | 2,2 % | P2 | S3 | — | selon date de C1 | ⬜ | 26/11 · 07/12 |
+| PHY05 | Choc septique | Physiopathologie | Fièvre & infection | ? p. · 1 bloc | à évaluer | 23 | 2,6 % | P2 | S4 | — | selon date de C1 | ⬜ | 26/11 · 07/12 |
+| PHY06 | Thermorégulation | Physiopathologie | Fièvre & infection | ? p. · 1 bloc | à évaluer | 18 | 2,0 % | P3 | S4 | — | selon date de C1 | ⬜ | 30/11 · 07/12 |
+| PHY07 | Troubles hydro-sodés | Physiopathologie | Volume, eau & sodium | ? p. · 1,5–2 blocs | à évaluer | 36 | 4,0 % | P1 | S5 | — | selon date de C1 | ⬜ | 30/11 · 07/12 |
+| PHY08 | Hypertension artérielle | Physiopathologie | Vaisseaux & athérosclérose | ? p. · 1 bloc | à évaluer | 17 | 1,9 % | P3 | S6 | — | selon date de C1 | ⬜ | 30/11 · 07/12 |
+| PHY09 | Maladie thromboembolique | Physiopathologie | Vaisseaux & athérosclérose | ? p. · 1 bloc | à évaluer | 18 | 2,0 % | P3 | S7 | — | selon date de C1 | ⬜ | 30/11 · 07/12 |
+| RAD01 | Tube à rayons X, formation de l'image radiologique | Radiologie | Imagerie : bases & techniques | ? p. · 1 bloc | à évaluer | 19 | 2,1 % | P3 | S2 | — | selon date de C1 | ⬜ | 01/12 · 08/12 |
+| RAD02 | Initiation à l'imagerie en coupe : TDM et IRM | Radiologie | Imagerie : bases & techniques | ? p. · 1 bloc | à évaluer | 15 | 1,7 % | P3 | S3 | — | selon date de C1 | ⬜ | 01/12 · 08/12 |
+| RAD03 | Échographie | Radiologie | Imagerie : bases & techniques | ? p. · 1 bloc | à évaluer | 15 | 1,7 % | P3 | S4 | — | selon date de C1 | ⬜ | 01/12 · 08/12 |
+| RAD04 | Exploration du cœur et des gros vaisseaux | Radiologie | Imagerie : bases & techniques | ? p. · ½ bloc (C1 ciblée) | à évaluer | 3 | 0,3 % | P4 | S4 | — | selon date de C1 | ⬜ | 01/12 · 08/12 |
+| RAD05 | Techniques d'examens radiologiques du thorax | Radiologie | Imagerie : bases & techniques | ? p. · 1 bloc | à évaluer | 26 | 2,9 % | P2 | S5 | — | selon date de C1 | ⬜ | 29/11 · 08/12 |
+| RAD06 | Anatomie lobaire et segmentaire | Radiologie | Thorax : imagerie, plèvre & épanchements | ? p. · 1 bloc | à évaluer | 15 | 1,7 % | P3 | S6 | — | selon date de C1 | ⬜ | 29/11 · 08/12 |
+| RAD07 | Signe du bronchogramme aérique | Radiologie | Thorax : imagerie, plèvre & épanchements | ? p. · 1 bloc | à évaluer | 12 | 1,3 % | P3 | S7 | — | selon date de C1 | ⬜ | 29/11 · 08/12 |
+| RAD08 | Signe de la silhouette | Radiologie | Thorax : imagerie, plèvre & épanchements | ? p. · 1 bloc | à évaluer | 21 | 2,3 % | P2 | S7 | — | selon date de C1 | ⬜ | 29/11 · 08/12 |
+| RAD09 | Atélectasie lobaire et segmentaire | Radiologie | Thorax : imagerie, plèvre & épanchements | ? p. · 1 bloc | à évaluer | 19 | 2,1 % | P3 | S8 | — | selon date de C1 | ⬜ | 03/12 · 08/12 |
+| RAD10 | Pathologie pleurale et extra-pleurale | Radiologie | Thorax : imagerie, plèvre & épanchements | ? p. · ½ bloc (C1 ciblée) | à évaluer | 8 | 0,9 % | P4 | S8 | — | selon date de C1 | ⬜ | 03/12 · 08/12 |
+| BIO01 | Biochimie de l'homme sain | Biochimie | Volume, eau & sodium | ? p. · 1 bloc | à évaluer | 13 | 1,5 % | P3 | S1 · 05/10 | — | C2 07/10 | ⬜ | 27/11 · 08/12 |
+| BIO02 | Biomarqueurs cardiaques | Biochimie | Chocs & cœur aigu | ? p. · 1 bloc | à évaluer | 24 | 2,7 % | P2 | S2 | — | selon date de C1 | ⬜ | 27/11 · 08/12 |
+| BIO03 | L'acte biochimique et pièges d'interprétation | Biochimie | Biologie : interprétation | ? p. · ½ bloc (C1 ciblée) | à évaluer | 9 | 1,0 % | P4 | S3 | — | selon date de C1 | ⬜ | 27/11 · 08/12 |
+| BIO04 | Dyslipidémies et athérosclérose | Biochimie | Vaisseaux & athérosclérose | ? p. · 1,5–2 blocs | à évaluer | 35 | 3,9 % | P1 | S5 | — | selon date de C1 | ⬜ | 01/12 · 08/12 |
+| BIO05 | Stress oxydant | Biochimie | Vaisseaux & athérosclérose | ? p. · 1 bloc | à évaluer | 21 | 2,3 % | P2 | S6 | — | selon date de C1 | ⬜ | 01/12 · 08/12 |
+| BIO06 | Liquides d'épanchement | Biochimie | Thorax : imagerie, plèvre & épanchements | ? p. · 1 bloc | à évaluer | 13 | 1,5 % | P3 | S8 | — | selon date de C1 | ⬜ | 01/12 · 08/12 |
+| PSY01 | Aspects communicationnels de la rencontre avec le malade et sa famille, examen mental | Psychologie | Rencontre avec le patient | ? p. · 1 bloc | à évaluer | 24 | 2,7 % | P2 | S1 · 06/10 | — | C2 09/10 | ⬜ | 27/11 · 04/12 |
+| PSY02 | Problèmes particuliers de l'entrevue | Psychologie | Rencontre avec le patient | ? p. · 1 bloc | à évaluer | 11 | 1,2 % | P3 | S2 | — | selon date de C1 | ⬜ | 27/11 · 04/12 |
+| PSY03 | Stress et maladies psychosomatiques | Psychologie | Rencontre avec le patient | ? p. · ½ bloc (C1 ciblée) | à évaluer | 7 | 0,8 % | P4 | S3 | — | selon date de C1 | ⬜ | 27/11 · 04/12 |
+| PSY04 | Fonctionnement de la personnalité | Psychologie | Rencontre avec le patient | ? p. · 1 bloc | à évaluer | 11 | 1,2 % | P3 | S5 | — | selon date de C1 | ⬜ | 27/11 · 04/12 |
+| PSY05 | Psychologie de la prescription | Psychologie | Prescription & douleur | ? p. · ½ bloc (C1 ciblée) | à évaluer | 4 | 0,4 % | P4 | S6 | — | selon date de C1 | ⬜ | 27/11 · 04/12 |
+| PSY06 | Psychologie de la douleur | Psychologie | Prescription & douleur | ? p. · ½ bloc (C1 ciblée) | à évaluer | 7 | 0,8 % | P4 | S6 | — | selon date de C1 | ⬜ | 27/11 · 04/12 |
+| PSY07 | L'annonce d'une maladie grave | Psychologie | Rencontre avec le patient | ? p. · ½ bloc (C1 ciblée) | à évaluer | 4 | 0,4 % | P4 | S7 | — | selon date de C1 | ⬜ | 27/11 · 04/12 |
 
 ### 12.2 Tableau de progression — UEI 1
 
@@ -734,95 +797,131 @@ Les versions modifiables de ces tableaux sont dans `suivi_cardio.csv` et `suivi_
 | Psychologie | PSY06 Psychologie de la douleur | ⬜ | ? p. | ☐ | ☐ | ☐ | — (flash) | ☐ | ☐ | –/3 |
 | Psychologie | PSY07 L'annonce d'une maladie grave | ⬜ | ? p. | ☐ | ☐ | ☐ | — (flash) | ☐ | ☐ | –/3 |
 
-### 12.3 Tableau de progression — Modules (Micro · Para · Pharma)
+### 12.3 Tableau central + progression — UEI 2 Neuro-locomoteur-cutané
+
+*Enseignement 14/12/2026 → 05/02/2027 · révision 05/02 → 11/02 · **examen jeu 11/02/2027** · recouchage J-14 dès **jeu 28/01/2027**. **La liste des cours de l'UEI 2 n'est pas dans tes sources** : la structure est prête (même colonnes que l'UEI 1), envoie la fiche et je la remplis.*
+
+| ID | Cours | Matière | Volume | Difficulté | Tombabilité | Priorité | État | C1 | C2 | C3 | C4 | Flashcards | QCM | Maîtrise | Prochaine révision |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| UEI2-01 | *à compléter* |  |  |  |  |  | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |  |
+| UEI2-02 | *à compléter* |  |  |  |  |  | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |  |
+
+### 12.4 Tableau central + progression — Modules (ordre du parcours thématique)
 
 *Tombabilité : non indiquée dans les sources pour les trois modules. VIR = Virologie, BAC = Bactériologie.*
 
-| Matière | Cours | État | Volume | Couche 1 | Couche 2 | Couche 3 | Couche 4 | Flashcards | QCM | Maîtrise |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Microbiologie | VIR01 Virus : définition, structure et classification | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | VIR02 Multiplication des virus dans l'organisme | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | VIR03 Physiopathologie des infections virales | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | VIR04 Virus à ADN (I) : herpesviridae | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | VIR05 Virus à ADN (II) : adénovirus, papillomavirus, hepadnavirus | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | VIR06 Virus à ARN (I) : virus des hépatites C, A, D et E | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | VIR07 Virus à ARN (II) : picornaviridae, rétroviridae | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | VIR08 Virus à ARN (III) : orthomyxoviridae, paramyxoviridae | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | VIR09 Diagnostic virologique | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | VIR10 Traitement et prévention des infections virales | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC01 Introduction au monde microbien | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC02 Structure bactérienne | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC03 Microbiote humain | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC04 Manifestation du conflit hôte–bactérie | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC05 Physiologie bactérienne | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC06 Génétique bactérienne | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC07 Les antibiotiques : classification | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC08 Les antibiotiques : résistance | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC09 Rôle du laboratoire dans le suivi du traitement antibiotique | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC10 Antiseptiques, désinfectants et stérilisation | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC11 Les bactéries anaérobies | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC12 Les vaccins bactériens | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC13 Hygiène hospitalière | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC14 Biosécurité et biosûreté dans un laboratoire de microbiologie | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC15 Cocci à Gram (+) et Gram (–) | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC16 Bacilles à Gram (–) I : entérobactéries, Pseudomonas, vibrionaceae | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC17 Bacilles à Gram (–) II : Haemophilus, Bordetella, Brucella, Campylobacter, Helicobacter, légionelles | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC18 Bacilles à Gram (+) : Listeria, Corynebacterium, Bacillus, mycobactéries | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Microbiologie | BAC19 Diagnostic bactériologique | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR01 Introduction à la parasitologie | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR02 Amibes, amoebose, amibes libres | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR03 Flagellés intestinaux et urogénitaux, ciliés | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR04 Cryptosporidiose, isosporose, sarcocystose, cyclosporose, blastocytose | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR05 Flagellés sanguicoles et tissulaires I : leishmanies et leishmanioses | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR06 Flagellés sanguicoles et tissulaires II : trypanosomes – trypanosomoses | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR07 Plasmodiums – paludisme | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR08 Toxoplasme – toxoplasmose | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR09 Généralités sur les helminthes, cestodes adultes | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR10 Cestodes à l'état larvaire | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR11 Douves – distomatoses | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR12 Schistosomes – schistosomoses | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR13 Nématodes à transmission per-os | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR14 Nématodes à transmission transcutanée | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR15 Filaires – filarioses | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR16 Notion d'entomologie médicale | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR17 Introduction à la mycologie | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR18 Candida – candidoses, malasseziose | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR19 Cryptococcose, pneumocystose, microsporidioses | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR20 Dermatophytes – dermatophyties | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR21 Aspergillus – aspergilloses | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR22 Mycétomes, sporotrichose | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR23 Histoplasmoses, blastomycoses, coccidioïdomycose, paracoccidioïdomycose | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR24 Mucormycoses, fusarioses, zygomycoses | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Parasitologie | PAR25 SIDA et parasitoses, SIDA et mycoses | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA01 Introduction à la pharmacologie | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA02 ADME | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA03 Pharmacocinétique | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA04 Pharmacodynamie | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA05 Toxicologie générale | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA06 Effets secondaires et médicaments | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA07 Pharmacovigilance | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA08 Présentation du SNA | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA09 Sympathomimétiques | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA10 Sympatholytiques | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA11 Parasympathomimétiques | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA12 Parasympatholytiques | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA13 Myorelaxants | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA14 Introduction à l'étude des antibiotiques | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA15 Les antibiotiques | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA16 Les anti-inflammatoires non stéroïdiens | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA17 Les corticoïdes | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA18 Les antidiabétiques | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Pharmacologie | PHA19 Les antihistaminiques | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| # | Cours | Module | Thème | Semaine | État | C1 | C2 | C3 | C4 | Flashcards | QCM | Maîtrise |
+|---:|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | PHA01 Introduction à la pharmacologie | Pharmacologie | T01 Fondations pharmaco | S1 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 2 | PHA02 ADME | Pharmacologie | T01 Fondations pharmaco | S2 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 3 | PHA03 Pharmacocinétique | Pharmacologie | T01 Fondations pharmaco | S3 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 4 | PHA04 Pharmacodynamie | Pharmacologie | T01 Fondations pharmaco | S4 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 5 | BAC01 Introduction au monde microbien | Microbiologie | T02 Bases bactériennes | S2 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 6 | BAC02 Structure bactérienne | Microbiologie | T02 Bases bactériennes | S3 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 7 | BAC05 Physiologie bactérienne | Microbiologie | T02 Bases bactériennes | S4 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 8 | BAC06 Génétique bactérienne | Microbiologie | T02 Bases bactériennes | S4 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 9 | PAR01 Introduction à la parasitologie | Parasitologie | T03 Hôte ↔ microbes | S2 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 10 | BAC03 Microbiote humain | Microbiologie | T03 Hôte ↔ microbes | S5 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 11 | BAC04 Manifestation du conflit hôte–bactérie | Microbiologie | T03 Hôte ↔ microbes | S5 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 12 | PAR02 Amibes, amoebose, amibes libres | Parasitologie | T04 Protozoaires intestinaux | S3 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 13 | PAR03 Flagellés intestinaux et urogénitaux, ciliés | Parasitologie | T04 Protozoaires intestinaux | S4 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 14 | PAR04 Cryptosporidiose, isosporose, sarcocystose, cyclosporose, blastocytose | Parasitologie | T04 Protozoaires intestinaux | S5 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 15 | PHA08 Présentation du SNA | Pharmacologie | T05 SNA I — cœur & vaisseaux | S5 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 16 | PHA09 Sympathomimétiques | Pharmacologie | T05 SNA I — cœur & vaisseaux | S6 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 17 | PHA10 Sympatholytiques | Pharmacologie | T05 SNA I — cœur & vaisseaux | S7 (dim 15/11) | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 18 | VIR01 Virus : définition, structure et classification | Microbiologie | T06 Virus : bases | S6 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 19 | VIR02 Multiplication des virus dans l'organisme | Microbiologie | T06 Virus : bases | S7 (sam 14/11) | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 20 | VIR03 Physiopathologie des infections virales | Microbiologie | T06 Virus : bases | 12/12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 21 | PAR07 Plasmodiums – paludisme | Parasitologie | T07 Fièvre & paludisme | S6 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 22 | BAC07 Les antibiotiques : classification | Microbiologie | T08 Antibiotiques (Micro + Pharma) | 13/12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 23 | PHA14 Introduction à l'étude des antibiotiques | Pharmacologie | T08 Antibiotiques (Micro + Pharma) | 13/12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 24 | PHA15 Les antibiotiques | Pharmacologie | T08 Antibiotiques (Micro + Pharma) | S11 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 25 | BAC08 Les antibiotiques : résistance | Microbiologie | T08 Antibiotiques (Micro + Pharma) | S11 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 26 | BAC09 Rôle du laboratoire dans le suivi du traitement antibiotique | Microbiologie | T08 Antibiotiques (Micro + Pharma) | S11 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 27 | PHA05 Toxicologie générale | Pharmacologie | T09 Toxicité & vigilance | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 28 | PHA06 Effets secondaires et médicaments | Pharmacologie | T09 Toxicité & vigilance | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 29 | PHA07 Pharmacovigilance | Pharmacologie | T09 Toxicité & vigilance | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 30 | BAC15 Cocci à Gram (+) et Gram (–) | Microbiologie | T10 Peau & muqueuses | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 31 | VIR04 Virus à ADN (I) : herpesviridae | Microbiologie | T10 Peau & muqueuses | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 32 | PAR17 Introduction à la mycologie | Parasitologie | T10 Peau & muqueuses | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 33 | PAR18 Candida – candidoses, malasseziose | Parasitologie | T10 Peau & muqueuses | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 34 | PAR20 Dermatophytes – dermatophyties | Parasitologie | T10 Peau & muqueuses | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 35 | PAR22 Mycétomes, sporotrichose | Parasitologie | T10 Peau & muqueuses | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 36 | VIR05 Virus à ADN (II) : adénovirus, papillomavirus, hepadnavirus | Microbiologie | T10 Peau & muqueuses | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 37 | PHA11 Parasympathomimétiques | Pharmacologie | T11 SNA II — neuro & muscle | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 38 | PHA12 Parasympatholytiques | Pharmacologie | T11 SNA II — neuro & muscle | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 39 | PHA13 Myorelaxants | Pharmacologie | T11 SNA II — neuro & muscle | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 40 | PAR16 Notion d'entomologie médicale | Parasitologie | T12 Vecteurs & protozoaires sanguins/tissulaires | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 41 | PAR05 Flagellés sanguicoles et tissulaires I : leishmanies et leishmanioses | Parasitologie | T12 Vecteurs & protozoaires sanguins/tissulaires | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 42 | PAR06 Flagellés sanguicoles et tissulaires II : trypanosomes – trypanosomoses | Parasitologie | T12 Vecteurs & protozoaires sanguins/tissulaires | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 43 | PAR08 Toxoplasme – toxoplasmose | Parasitologie | T12 Vecteurs & protozoaires sanguins/tissulaires | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 44 | VIR08 Virus à ARN (III) : orthomyxoviridae, paramyxoviridae | Microbiologie | T13 Virus respiratoires & éruptifs | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 45 | PHA16 Les anti-inflammatoires non stéroïdiens | Pharmacologie | T14 Inflammation, allergie & hormones | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 46 | PHA17 Les corticoïdes | Pharmacologie | T14 Inflammation, allergie & hormones | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 47 | PHA18 Les antidiabétiques | Pharmacologie | T14 Inflammation, allergie & hormones | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 48 | PHA19 Les antihistaminiques | Pharmacologie | T14 Inflammation, allergie & hormones | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 49 | PAR09 Généralités sur les helminthes, cestodes adultes | Parasitologie | T15 Plathelminthes (cestodes & trématodes) | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 50 | PAR10 Cestodes à l'état larvaire | Parasitologie | T15 Plathelminthes (cestodes & trématodes) | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 51 | PAR11 Douves – distomatoses | Parasitologie | T15 Plathelminthes (cestodes & trématodes) | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 52 | PAR12 Schistosomes – schistosomoses | Parasitologie | T15 Plathelminthes (cestodes & trématodes) | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 53 | BAC16 Bacilles à Gram (–) I : entérobactéries, Pseudomonas, vibrionaceae | Microbiologie | T16 Bactéries pathogènes (agents) | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 54 | BAC17 Bacilles à Gram (–) II : Haemophilus, Bordetella, Brucella, Campylobacter, Helicobacter, légionelles | Microbiologie | T16 Bactéries pathogènes (agents) | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 55 | BAC18 Bacilles à Gram (+) : Listeria, Corynebacterium, Bacillus, mycobactéries | Microbiologie | T16 Bactéries pathogènes (agents) | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 56 | BAC11 Les bactéries anaérobies | Microbiologie | T16 Bactéries pathogènes (agents) | S18 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 57 | PAR13 Nématodes à transmission per-os | Parasitologie | T17 Nématodes | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 58 | PAR14 Nématodes à transmission transcutanée | Parasitologie | T17 Nématodes | S17 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 59 | PAR15 Filaires – filarioses | Parasitologie | T17 Nématodes | S17 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 60 | VIR06 Virus à ARN (I) : virus des hépatites C, A, D et E | Microbiologie | T18 Virus à ARN & hépatites | S17 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 61 | VIR07 Virus à ARN (II) : picornaviridae, rétroviridae | Microbiologie | T18 Virus à ARN & hépatites | S17 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 62 | PAR19 Cryptococcose, pneumocystose, microsporidioses | Parasitologie | T19 Mycoses profondes | S17 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 63 | PAR21 Aspergillus – aspergilloses | Parasitologie | T19 Mycoses profondes | S17 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 64 | PAR23 Histoplasmoses, blastomycoses, coccidioïdomycose, paracoccidioïdomycose | Parasitologie | T19 Mycoses profondes | S18 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 65 | PAR24 Mucormycoses, fusarioses, zygomycoses | Parasitologie | T19 Mycoses profondes | S18 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 66 | BAC10 Antiseptiques, désinfectants et stérilisation | Microbiologie | T20 Prévention, hygiène & diagnostic | Ven S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 67 | BAC12 Les vaccins bactériens | Microbiologie | T20 Prévention, hygiène & diagnostic | Ven S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 68 | BAC13 Hygiène hospitalière | Microbiologie | T20 Prévention, hygiène & diagnostic | Ven S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 69 | BAC14 Biosécurité et biosûreté dans un laboratoire de microbiologie | Microbiologie | T20 Prévention, hygiène & diagnostic | Ven S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 70 | VIR10 Traitement et prévention des infections virales | Microbiologie | T20 Prévention, hygiène & diagnostic | Ven S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 71 | BAC19 Diagnostic bactériologique | Microbiologie | T20 Prévention, hygiène & diagnostic | Ven S17 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 72 | VIR09 Diagnostic virologique | Microbiologie | T20 Prévention, hygiène & diagnostic | S18 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 73 | PAR25 SIDA et parasitoses, SIDA et mycoses | Parasitologie | T21 Immunodéprimé (synthèse) | S18 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
 
-### 12.4 Tableau de bord hebdomadaire (à remplir chaque vendredi)
+### 12.5 Tableau de bord hebdomadaire (à remplir chaque vendredi)
 
-| Semaine | Nouveaux prévus | Nouveaux faits | C2 prévues/faites | C3 prévues/faites | Flashcards (jours /7) | QCM (% moyen) | 🔥 ouverts | Repos pris ? | Énergie (1–3) | Décision pour la semaine suivante |
-|---|---|---|---|---|---|---|---|---|---|---|
-| S1 | 8 | | | | | | | | | |
-| S2 | 10 | | | | | | | | | |
-| S3 | 10 | | | | | | | | | |
+| Semaine | Dates | Phase | Objectif principal | Unité (nouveaux) | Modules (nouveaux) | Faits | C2 | C3 | Flashcards /7 | QCM % | 🔥 | Repos | Énergie | Décision |
+|---|---|---|---|---:|---:|---|---|---|---|---|---|---|---|---|
+| **S1** | 02/10 → 08/10 | A · Lancement | Lancer Cardio : 7 cours (dont 3 vus/légers) + PHA01 | 7 | 1 |  |  |  |  |  |  | ☐ |  |  |
+| **S2** | 09/10 → 15/10 | B · Montée | Se synchroniser : 3 sémio · semaine la plus chargée (soupape : PSY02 → S3) | 7 | 3 |  |  |  |  |  |  | ☐ |  |  |
+| **S3** | 16/10 → 22/10 | B · Montée | 1 cours d'avance en sémio | 7 | 3 |  |  |  |  |  |  | ☐ |  |  |
+| **S4** | 23/10 → 29/10 | C · Croisière + avance | SEM10 (P1, 73) en 2 blocs · thème Infection & température | 6 | 4 |  |  |  |  |  |  | ☐ |  |  |
+| **S5** | 30/10 → 05/11 | C · Croisière + avance | Dim 01/11 férié = jour fort → BIO04 (P1) | 6 | 4 |  |  |  |  |  |  | ☐ |  |  |
+| **S6** | 06/11 → 12/11 | C · Croisière + avance | Examen physique du cœur · HTA | 7 | 3 |  |  |  |  |  |  | ☐ |  |  |
+| **S7** | 13/11 → 19/11 | C' · Arrêt des modules mi-S7 | Modules jusqu'au dim 15/11 puis STOP · temps libéré → C3 anticipées | 6 | 2 |  |  |  |  |  |  | ☐ |  |  |
+| **S8** | 20/11 → 26/11 | C' · Fin des C1 + C3 | Dernières C1 avant mer 25/11 · jeu 26/11 = J-14 : début du recouchage | 4 | 0 |  |  |  |  |  |  | ☐ |  |  |
+| **S9** | 27/11 → 03/12 | D · Recouchage passage 1 (C3) | Repasser TOUTE l'unité en C3 + 6 cas cliniques | 0 | 0 |  |  |  |  |  |  | ☐ |  |  |
+| **S10** | 04/12 → 09/12 · EXAMEN jeu 10/12 | E · Recouchage passage 2 (C4) | C4 complète + passage éclair P1 · examen jeu 10/12 | 0 | 0 |  |  |  |  |  |  | ☐ |  |  |
+| **S11** | 11/12 → 17/12 | Repos + sprint modules + début UEI2 (lun 14/12) | Ven 11/12 repos · 12–13/12 VIR03, BAC07, PHA14 · bloc Antibiotiques | ? | 6 |  |  |  |  |  |  | ☐ |  |  |
+| **S12** | 18/12 → 24/12 | UEI2 + modules | Toxicité & vigilance · Peau & muqueuses | ? | 7 |  |  |  |  |  |  | ☐ |  |  |
+| **S13** | 25/12 → 31/12 | UEI2 + modules | Peau (mycoses) · SNA II | ? | 7 |  |  |  |  |  |  | ☐ |  |  |
+| **S14** | 01/01 → 07/01 (01/01 férié) | UEI2 + modules | Vecteurs & protozoaires sanguins · myorelaxants | ? | 7 |  |  |  |  |  |  | ☐ |  |  |
+| **S15** | 08/01 → 14/01 (12/01 férié) | UEI2 + modules | Inflammation & hormones · cestodes · Pharmaco terminée | ? | 7 |  |  |  |  |  |  | ☐ |  |  |
+| **S16** | 15/01 → 21/01 | UEI2 + modules | Trématodes · nématodes · bactéries agents | ? | 7 |  |  |  |  |  |  | ☐ |  |  |
+| **S17** | 22/01 → 28/01 | UEI2 + modules · J-14 UEI2 jeu 28/01 | Fin des C1 modules prévues (sauf liste S18) | ? | 7 |  |  |  |  |  |  | ☐ |  |  |
+| **S18** | 29/01 → 04/02 | Recouchage UEI2 + modules 1 bloc/j | C1 rapides restantes (5 cours) puis C3 modules | 0 | 5 |  |  |  |  |  |  | ☐ |  |  |
+| **S19** | 05/02 → 11/02 · EXAMEN UEI2 jeu 11/02 | Révision UEI2 + modules 1 bloc/j | C4 UEI2 · modules C3 courtes | 0 | 0 |  |  |  |  |  |  | ☐ |  |  |
+| **Examens modules** | 12/02 → 18/02 | C4 modules | Micro dim 14/02 · Pharma mar 16/02 · Para jeu 18/02 | 0 | 0 |  |  |  |  |  |  | ☐ |  |  |
 
-### 12.5 Journal quotidien (modèle)
+### 12.6 Trackers des modules
+
+Chaque module a sa page dans `notion/` : **objectifs chiffrés par jalon**, règles du module, **parcours thématique en cases à cocher**, suivi par couches, plan de fin de semestre, tableaux comparatifs à produire.
+
+| Module | Au 15/11 (arrêt) | Au 13/12 | Au 31/12 | Au 14/01 | Au 27/01 | Au 04/02 | C3 complète | Examen |
+|---|---:|---:|---:|---:|---:|---:|---|---|
+| Microbiologie | 8/29 | 10/29 | 17/29 | 20/29 | 27/29 | 29/29 | avant le 11/02 | **dim 14/02** |
+| Pharmacologie | 7/19 | 8/19 | 14/19 | 19/19 | 19/19 | 19/19 | avant le 11/02 | **mar 16/02** |
+| Parasitologie | 5/25 | 5/25 | 9/25 | 15/25 | 22/25 | 25/25 | avant le 11/02 | **jeu 18/02** |
+
+### 12.7 Journal quotidien (modèle)
 
 ```
 Date :            Type de jour : FAIBLE / FORT / SOIR / SOUPLE / STAGE
@@ -859,8 +958,8 @@ Non fait :        ...  → envoyé au tampon / vendredi
 | **Pages relevées** | Volume faible → ½ bloc ; élevé → 2 blocs sur 2 jours ; je recalcule les semaines. |
 | **Retard > 1 semaine dans une matière** | Le créneau Bio/Psy du dimanche passe à la matière en retard (pondérée par son poids) jusqu'au rattrapage. |
 | **Vacances annoncées** | Mode vacances (Partie 6.5). |
-| **Examen à J-21** (19/11) | Les C3 Cardio passent avant les nouveaux cours de modules. |
-| **Examen à J-7** (03/12) | Plus aucun nouveau cours ; uniquement C3/C4. |
+| **Mi-S7** (lun 16/11) | **Arrêt total des modules** jusqu'au 10/12. Créneaux modules → C3 Cardio. |
+| **J-14** (jeu 26/11) | Plus aucun nouveau cours ; recouchage en 2 passages (C3 puis C4). Si une C1 n'est pas finie le 25/11 : C1 ciblée le 26/11 au lieu de sa C3. |
 
 ### 13.3 Contrôle automatique de chaque semaine (avant de la valider)
 
@@ -891,7 +990,8 @@ Envoie-moi simplement, par exemple :
 
 **Points faibles assumés :**
 - **S2 est lourde** (10 nouveaux cours) : c'est la seule. Soupape : PSY02 → S3.
-- **Les modules ne seront pas en avance au 10/12** (≈ 33/73 au 13/12). C'est le risque n°1 du semestre (examens de février juste après l'UEI 2 + probable début de Ramadan). Il faudra des vacances, ou la liste de l'UEI 2 pour équilibrer.
+- **Les modules ne seront pas en avance au 10/12** (≈ 23/73 au 13/12, à cause de l'arrêt à mi-S7). C'est le risque n°1 du semestre : ~6–7 cours de modules/semaine pendant l'UEI 2, examens de février juste après l'UEI 2, probable début de Ramadan. Il faudra des vacances, les stats Medspace des modules, ou la liste de l'UEI 2 pour équilibrer.
+- **Le gain** : 14 jours pleins de recouchage + ~1,5 semaine de C3 anticipées → chaque cours de Cardio passe au moins 4 fois (C1, C2, C3, C4), les P1 5 fois (+ passage éclair).
 - **Le volume réel (pages) est inconnu** : le temps par cours est provisoire jusqu'à ton relevé de vendredi.
 
 **Version de survie** (semaine malade / imprévu) : Sémio ×2 + Physio ×1 + 1 module (priorité Para) + flashcards chaque jour. On coupe dans cet ordre : Psycho → P4 → C2 des modules (sauf Para) → Radio P3. **On ne coupe jamais : Sémio, flashcards, repos.**
