@@ -23,7 +23,7 @@ Arrêt **total** des modules du **lundi 16/11** au **jeudi 10/12** (examen UEI 1
 
 ## 📏 Règles du module
 
-- Module **plus léger** : placé le **vendredi** (jour faible), jamais le lundi soir (après l'amphi des sections C/D).
+- Module **plus léger** : placé le **lundi soir après la Sémio B** ou le vendredi.
 - PHA01–04 (fondements) d'abord : tout le reste en dépend.
 - Bloc Antibiotiques (T08) avec la **Micro** la même semaine.
 - Terminé en C1 dès **S15** → S16–S17 servent aux C2/C3.

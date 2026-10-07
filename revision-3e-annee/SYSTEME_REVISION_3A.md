@@ -148,7 +148,7 @@ Modules Micro / Para / Pharma : enseignés sur les 19 semaines (27/09 → 05/02)
 **Conclusions :**
 1. **Cardio : la fréquence est juste.** Elle respecte le rythme officiel (2 sémio + 1 de chaque autre matière par semaine) et le dépasse légèrement pour rattraper ta convalescence. Seule la Radio reste en retard sur l'amphi jusqu'en S7 : pour ces cours, l'amphi sert de **première lecture** (🟡) et ton étude vient ensuite.
 2. **Modules : ta cadence de base « 1 cours/semaine » est trop lente pour la Micro et la Para** (l'amphi en fait ~1,5 par séance). C'est connu et assumé pendant l'UEI 1 (priorité Cardio + arrêt à mi-S7) ; le rattrapage se fait après le 12/12 (Partie 6).
-3. **Correction appliquée — ordre des jours de la semaine type (Partie 7.2)** : la Radiologie était étudiée le **mardi soir**, donc toujours **après** son amphi du mardi, et la Pharmacologie le **lundi soir**, donc après l'amphi du lundi des sections C/D. Nouvelle répartition : **Radio le lundi**, **Pharma le vendredi** (module léger, jour faible), **Para le mardi**. Désormais, chaque matière de Cardio est étudiée **avant** son amphi, quelle que soit ta section.
+3. **Ordre des jours de la semaine : conservé (ton choix).** À savoir : la Radiologie est étudiée le **mardi soir**, donc après l'amphi d'imagerie du mardi, et la Pharmacologie le **lundi soir**, après l'amphi du lundi si tu es en section C/D. Pour ces deux matières, l'amphi sert de première lecture et ton étude vient juste après.
 
 ### 2.5 Contenu des unités disponibles dans les sources
 
@@ -415,7 +415,7 @@ Pour l'UEI 2, un arrêt total des modules pendant le recouchage est **impossible
 - Les cours « agents » (BAC15–18, VIR04–08) se révisent en **tableaux** : agent · pouvoir pathogène · diagnostic · traitement.
 
 **Pharmacologie (module plus léger, utilisable après un cours lourd)**
-- Placée le **vendredi** (jour faible) : c'est le module léger, et le lundi soir tomberait après l'amphi des sections C/D.
+- Placée le **lundi soir après la Sémio B** (bloc plus léger) ou le **vendredi**.
 - PHA01–04 (bases : ADME, PK, PD) : à bien comprendre, tout le reste en dépend.
 
 ### 6.4 Liens entre modules et Cardio (proposés à partir des intitulés des cours)
@@ -465,39 +465,24 @@ Les jours ne portent **pas** de matière fixe : ils portent un **type** et des *
 
 **Repos protégé : jeudi soir + vendredi matin + samedi soir (+ jeudi matin si tu es à jour) ≈ 1 à 1,5 jour/semaine.**
 
-### 7.2 Semaine type (corrigée après vérification des fréquences)
+### 7.2 Semaine type
 
 | Créneau | Bloc 1 | Bloc 2 | Bloc 3 | Flashcards (15–20 min) | Nb de cours |
 |---|---|---|---|---|---:|
-| **VEN — FAIBLE** | **Pharmacologie** (module léger) ou cours P4 / Psy court | **Rappel intégré** de la semaine passée (QCM + restitution) + C3 | Bilan 20 min + plan de la semaine | ☐ réviser | 2 |
+| **VEN — FAIBLE** | Cours léger (Psy, P4) ou rattrapage | **Rappel intégré** du thème de la semaine passée (QCM + restitution) + C3 | Bilan 20 min + plan de la semaine | ☐ réviser | 2 |
 | **SAM — FORT** | **Physiopathologie** (thème de la semaine) | **Sémiologie A** (même thème) | **Microbiologie** | ☐ créer ×3 | 3 |
 | **DIM — SOIR** | **Biochimie** ou **Psycho** (standard) | Révisions C2 (J+1/J+2 du samedi) | — | ☐ créer + réviser | 2 |
-| **LUN — SOIR** | **Sémiologie B** | **Radiologie** (la veille de l'amphi du mardi) | — | ☐ créer ×2 | 2 |
-| **MAR — SOIR** | **Parasitologie** (séance courte 45–60 min) | C2 de la Sémio B + Radio | — | ☐ créer + réviser | 2 |
+| **LUN — SOIR** | **Sémiologie B** | **Pharmacologie** (plus léger après le lourd) | — | ☐ créer ×2 | 2 |
+| **MAR — SOIR** | **Radiologie** (même thème si possible) | **Parasitologie** (séance courte 45–60 min) | — | ☐ créer ×2 | 2 |
 | **MER — SOIR** | **Rappel intégré** du thème : Physio → Bio → Sémio → Radio (QCM mixte) | Micro n°2 (semaines à 2 cours) **ou** C2 modules + micro-reprise Para 15 min | — | ☐ réviser | 2 (+ petits cours en révision) |
 | **JEU — SOUPLE** | Matin : **TAMPON** (rattrapage) | — | — | (optionnel) | 0–1 |
-
-**Chaque matière de Cardio passe avant son amphi, quelle que soit ta section :**
-
-| Matière | Amphi sections A/B | Amphi sections C/D | Jour d'étude | Avant l'amphi ? |
-|---|---|---|---|---|
-| Physiopathologie | lundi | jeudi | samedi | ✅ / ✅ |
-| Sémiologie A / B | 2 matinées entre dim et mer (selon service) | idem | samedi / lundi | ✅ (A avant la 1re séance, B avant la 2e) |
-| Biochimie | mardi | mardi | dimanche | ✅ / ✅ |
-| Radiologie | mardi | mardi | **lundi** (avant : mardi ❌) | ✅ / ✅ |
-| Psychologie | lundi | jeudi | dimanche ou vendredi | ✅ / ✅ |
-| Pharmacologie | jeudi | lundi | **vendredi** (avant : lundi ❌ pour C/D) | ✅ / ✅ |
-| Microbiologie | dimanche | mercredi | samedi (+ mercredi) | ✅ / ✅ |
-| Parasitologie | dimanche | mercredi | mardi | ❌ / ✅ |
-
-*Pour les modules, l'ordre des jours compte peu pendant l'UEI 1 : tu es volontairement derrière l'amphi (priorité Cardio). Pour la Para en section A/B, l'amphi du dimanche sert de première lecture.*
 
 **Bilan d'une semaine normale :** nouveaux cours = Sémio 2 · Physio 1 · Radio 1 · Bio/Psy 1–2 · Micro 1–2 · Para 1 · Pharma 1 ≈ **8–9** · révisions ≈ 3–4 blocs · **~14 blocs ≈ 17–18 h + ~2 h de flashcards**.
 
 ### 7.3 La séquence intégrée (ta 2e stratégie)
 
 Même thème clinique, **réparti sur plusieurs jours** :
-**SAM** Physiopathologie → **DIM** Biochimie → **LUN** Sémiologie + Radiologie → **MER** Rappel intégré.
+**SAM** Physiopathologie → **DIM** Biochimie → **LUN** Sémiologie → **MAR** Radiologie → **MER** Rappel intégré.
 Exemple « Cœur aigu » (S2 → S3) : PHY02 + PHY03 (sam 10 et lun 12/10) → BIO02 Biomarqueurs cardiaques (dim 18/10) → SEM05 dyspnée (sam 17/10) → **mer 21/10 : rappel intégré** choc cardiogénique + IC aiguë + biomarqueurs + dyspnée.
 Quand la numérotation empêche un lien de tomber la même semaine (ex. SEM03 Fièvre en S1, PHY06 Thermorégulation en S4), le lien se fait par la **révision** : un rappel de SEM03 (flashcards + QCM) est placé la semaine de PHY06.
 
@@ -519,15 +504,15 @@ Stage ≈ ½ journée toutes les 2 semaines, dates inconnues → **bloc « STAGE
 
 | Créneau | Semaine normale | **Semaine avec stage (mardi)** |
 |---|---|---|
-| VEN | Pharma + rappel intégré + bilan | identique |
+| VEN | Cours léger + rappel intégré + bilan | identique |
 | SAM | Physio + Sémio A + Micro | identique |
 | DIM | Bio/Psy + C2 | identique |
-| LUN | Sémio B + Radio | identique |
-| **MAR** | Para + C2 | **STAGE** → soir : **flashcards + C2 courte** (1 bloc max) |
-| MER | Rappel intégré + Micro 2/C2 | Rappel intégré **court** + Micro n°2 (si semaine à 2 cours) |
+| LUN | Sémio B + Pharma | identique |
+| **MAR** | Radio + Para | **STAGE** → soir : **flashcards + C2 courte** (1 bloc max) |
+| MER | Rappel intégré + Micro 2/C2 | **Radio** + rappel intégré **court** (Micro n°2 reportée à la semaine suivante) |
 | **JEU** | Tampon / repos | **Para (séance courte)** le matin · soir repos |
 
-Nouveaux cours : inchangés (la Para glisse au jeudi) ; seule la C2 du mardi est raccourcie. Si le stage tombe un **lundi**, c'est la Radio qui glisse au mardi (après l'amphi : accepté une fois).
+Nouveaux cours : 8 au lieu de 9. **C'est voulu.**
 
 ---
 
@@ -731,11 +716,11 @@ L'ancienne semaine 1 (02/10 → 08/10) n'a pas pu être faite (maladie + chirurg
 
 | Créneau | Contenu |
 |---|---|
-| VEN 16 *(faible)* | **PHA01** Introduction à la pharmacologie (module léger) · C2 SEM04 (+ PSY01 si fait) · bilan |
+| VEN 16 *(faible)* | **BIO01** Biochimie de l'homme sain (léger) · C2 SEM04 (+ PSY01 si fait) · bilan |
 | SAM 17 | **PHY04** Choc anaphylactique · **SEM05** SF respiratoires I · **BAC01** Introduction au monde microbien |
-| DIM 18 | **BIO01** Biochimie de l'homme sain (léger) · C2 SEM05 + PHY04 |
-| LUN 19 | **SEM06** SF respiratoires II · **RAD01** Tube à rayons X (la veille de l'amphi d'imagerie) |
-| MAR 20 | **BIO02** Biomarqueurs cardiaques · C2 SEM06 + RAD01 |
+| DIM 18 | **BIO02** Biomarqueurs cardiaques · C2 SEM05 · C3 SEM01 / PHY01 |
+| LUN 19 | **SEM06** SF respiratoires II · **PHA01** Introduction à la pharmacologie |
+| MAR 20 | **RAD01** Tube à rayons X · C2 PHY04 + SEM06 |
 | MER 21 | **SEM07** Examen physique respiratoire I · rappel intégré « Cœur aigu » (PHY02-03 + BIO02) |
 | JEU 22 | Tampon (PSY01 si pas encore fait) · soir repos |
 
