@@ -6,10 +6,10 @@
 
 | Jalon | Objectif (cours en couche 1, cumulés) | Statut |
 |---|---:|---|
-| Arrêt mi-S7 (dim 15/11) | **7 / 19** | ☐ |
-| Sprint post-examen (dim 13/12) | **8 / 19** | ☐ |
-| Fin S13 (jeu 31/12) | **14 / 19** | ☐ |
-| Fin S15 (jeu 14/01) | **19 / 19** | ☐ |
+| Arrêt mi-S7 (dim 15/11) | **4 / 19** | ☐ |
+| Sprint post-examen (dim 13/12) | **6 / 19** | ☐ |
+| Fin S13 (jeu 31/12) | **12 / 19** | ☐ |
+| Fin S15 (jeu 14/01) | **16 / 19** | ☐ |
 | Fin S17 (mer 27/01, veille du J-14 UEI2) | **19 / 19** | ☐ |
 | Fin S18 (jeu 04/02) | **19 / 19** | ☐ |
 | 11/02/2027 (examen UEI 2) | **Tous en couche 3** (C3) | ☐ |
@@ -35,69 +35,69 @@ Arrêt **total** des modules du **lundi 16/11** au **jeudi 10/12** (examen UEI 1
 ### T01 · Fondations pharmaco
 *Lien avec l'unité : Prérequis de toute la pharmaco · Objectif : Expliquer ADME, PK et PD avec 1 schéma chacun · À produire : Schéma ADME + courbe concentration/temps + tableau agoniste/antagoniste*
 
-- [ ] **PHA01** · Introduction à la pharmacologie — *S1*
-- [ ] **PHA02** · ADME — *S2*
-- [ ] **PHA03** · Pharmacocinétique — *S3*
-- [ ] **PHA04** · Pharmacodynamie — *S4*
+- [ ] **PHA01** · Introduction à la pharmacologie — *S3*
+- [ ] **PHA02** · ADME — *S4*
+- [ ] **PHA03** · Pharmacocinétique — *S5*
+- [ ] **PHA04** · Pharmacodynamie — *S6*
 
 ### T05 · SNA I — cœur & vaisseaux
 *Lien avec l'unité : PHY02–05 Chocs · PHY04 Anaphylaxie (adrénaline) · PHY08 HTA · Objectif : Savoir quels récepteurs agissent sur cœur et vaisseaux · À produire : Tableau récepteurs α/β → effets → médicaments*
 
-- [ ] **PHA08** · Présentation du SNA — *S5*
-- [ ] **PHA09** · Sympathomimétiques — *S6*
-- [ ] **PHA10** · Sympatholytiques — *S7 (dim 15/11)*
+- [ ] **PHA08** · Présentation du SNA — *13/12*
+- [ ] **PHA09** · Sympathomimétiques — *13/12*
+- [ ] **PHA10** · Sympatholytiques — *S11*
 
 ### T08 · Antibiotiques (Micro + Pharma)
 *Lien avec l'unité : PHY05 Choc septique · Objectif : Classe → mécanisme → spectre → résistance → suivi · À produire : UN SEUL tableau commun Micro + Pharma* · **Même thème dans un autre module : BAC07, BAC08, BAC09**
 
-- [ ] **PHA14** · Introduction à l'étude des antibiotiques — *13/12*
-- [ ] **PHA15** · Les antibiotiques — *S11*
+- [ ] **PHA14** · Introduction à l'étude des antibiotiques — *S12*
+- [ ] **PHA15** · Les antibiotiques — *S12*
 
 ### T09 · Toxicité & vigilance
 *Lien avec l'unité : PSY05 Psychologie de la prescription · Objectif : Toxicité → effets indésirables → déclaration · À produire : Arbre « effet indésirable → que faire »*
 
 - [ ] **PHA05** · Toxicologie générale — *S12*
-- [ ] **PHA06** · Effets secondaires et médicaments — *S12*
-- [ ] **PHA07** · Pharmacovigilance — *S12*
+- [ ] **PHA06** · Effets secondaires et médicaments — *S13*
+- [ ] **PHA07** · Pharmacovigilance — *S13*
 
 ### T11 · SNA II — neuro & muscle
 *Lien avec l'unité : UEI 2 (neurologique, locomoteur) · Objectif : Système parasympathique + jonction neuromusculaire · À produire : Tableau muscarinique/nicotinique → effets → médicaments*
 
-- [ ] **PHA11** · Parasympathomimétiques — *S13*
-- [ ] **PHA12** · Parasympatholytiques — *S13*
+- [ ] **PHA11** · Parasympathomimétiques — *S14*
+- [ ] **PHA12** · Parasympatholytiques — *S14*
 - [ ] **PHA13** · Myorelaxants — *S14*
 
 ### T14 · Inflammation, allergie & hormones
 *Lien avec l'unité : PHY04 Anaphylaxie · PSY06 Douleur · UEI 2 locomoteur · Objectif : Mécanismes, indications, effets indésirables · À produire : Tableau AINS vs corticoïdes + antihistaminiques*
 
 - [ ] **PHA16** · Les anti-inflammatoires non stéroïdiens — *S15*
-- [ ] **PHA17** · Les corticoïdes — *S15*
-- [ ] **PHA18** · Les antidiabétiques — *S15*
-- [ ] **PHA19** · Les antihistaminiques — *S15*
+- [ ] **PHA17** · Les corticoïdes — *S16*
+- [ ] **PHA18** · Les antidiabétiques — *S16*
+- [ ] **PHA19** · Les antihistaminiques — *S16*
 
 ## 📊 Suivi par couches
 
 | Cours | Semaine | État | C1 | C2 | C3 | C4 | Flashcards | QCM % | Maîtrise |
 |---|---|---|---|---|---|---|---|---|---|
-| PHA01 Introduction à la pharmacologie | S1 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA02 ADME | S2 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA03 Pharmacocinétique | S3 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA04 Pharmacodynamie | S4 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
+| PHA01 Introduction à la pharmacologie | S3 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
+| PHA02 ADME | S4 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
+| PHA03 Pharmacocinétique | S5 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
+| PHA04 Pharmacodynamie | S6 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
 | PHA05 Toxicologie générale | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA06 Effets secondaires et médicaments | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA07 Pharmacovigilance | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA08 Présentation du SNA | S5 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA09 Sympathomimétiques | S6 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA10 Sympatholytiques | S7 (dim 15/11) | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA11 Parasympathomimétiques | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA12 Parasympatholytiques | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
+| PHA06 Effets secondaires et médicaments | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
+| PHA07 Pharmacovigilance | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
+| PHA08 Présentation du SNA | 13/12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
+| PHA09 Sympathomimétiques | 13/12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
+| PHA10 Sympatholytiques | S11 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
+| PHA11 Parasympathomimétiques | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
+| PHA12 Parasympatholytiques | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
 | PHA13 Myorelaxants | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA14 Introduction à l'étude des antibiotiques | 13/12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA15 Les antibiotiques | S11 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
+| PHA14 Introduction à l'étude des antibiotiques | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
+| PHA15 Les antibiotiques | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
 | PHA16 Les anti-inflammatoires non stéroïdiens | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA17 Les corticoïdes | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA18 Les antidiabétiques | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA19 Les antihistaminiques | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
+| PHA17 Les corticoïdes | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
+| PHA18 Les antidiabétiques | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
+| PHA19 Les antihistaminiques | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
 
 ## 🏁 Fin de semestre (proposition)
 

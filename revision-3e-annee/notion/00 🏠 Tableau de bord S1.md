@@ -6,11 +6,13 @@
 
 | Échéance | Date | Ce qu'il faut avoir fait |
 |---|---|---|
+| 🩹 Reprise après chirurgie | **mer 07/10/2026** | Mode convalescence jusqu'au 15/10 · Cardio seul |
+| 🦠 Démarrage des modules | sam 17/10/2026 (S3) | BAC01, PHA01 |
 | ⛔ Arrêt total des modules | **lun 16/11/2026** | Dernières séances de modules : sam 14/11 et dim 15/11 |
 | 🧱 Fin des couches 1 de l'UEI 1 | **mer 25/11/2026** | Les 50 cours de Cardio en couche 1 au minimum |
 | 🔁 Début du recouchage (J-14) | **jeu 26/11/2026** | Plus aucun nouveau cours : C3 puis C4 de toute l'unité |
 | 🫀 **EXAMEN UEI 1** | **jeu 10/12/2026** | |
-| 🦠 Reprise des modules | sam 12/12/2026 | Bloc Antibiotiques (Micro + Pharma) |
+| 🦠 Reprise des modules après l'arrêt | sam 12/12/2026 | BAC04 · PHA08 · PHA09 |
 | 🧠 **EXAMEN UEI 2** | **jeu 11/02/2027** | Recouchage J-14 dès jeu 28/01/2027 |
 | 🦠 **EXAMEN MICROBIOLOGIE** | **dim 14/02/2027** | |
 | 💊 **EXAMEN PHARMACOLOGIE** | **mar 16/02/2027** | |
@@ -26,11 +28,12 @@
 
 | Phase | Dates | Mode |
 |---|---|---|
-| A · Lancement | S1 · 02/10 → 08/10 | Cardio + 1 module |
-| B · Montée | S2–S3 · 09/10 → 22/10 | Cardio + 3 modules/sem. |
-| C · Croisière + avance | S4–S6 · 23/10 → 12/11 | Cardio + 3–4 modules/sem. |
+| A · Convalescence | S1 · 07/10 → 08/10 | Cardio très léger, séances de 30–45 min |
+| A' · Reprise progressive | S2 · 09/10 → 15/10 | Cardio seul, ~75 % de la capacité |
+| B · Montée | S3–S4 · 16/10 → 29/10 | Cardio + 2–3 modules/sem. |
+| C · Croisière + avance | S5–S6 · 30/10 → 12/11 | Cardio + 3 modules/sem. |
 | C' · Arrêt des modules | S7 · 13/11 → 19/11 | Modules jusqu'au dim 15/11, puis **Cardio seul** (C3 anticipées) |
-| C' · Fin des C1 | S8 · 20/11 → 25/11 | Cardio seul : 4 dernières C1 + C3 |
+| C' · Fin des C1 | S8 · 20/11 → 25/11 | Cardio seul : 8 dernières C1 (dont 4 légères) + C3 · réserve : recouchage à J-12 |
 | D · Recouchage passage 1 (C3) | 26/11 → 03/12 | Cardio seul |
 | E · Recouchage passage 2 (C4) | 04/12 → 09/12 | Cardio seul |
 | Sprint modules + UEI 2 | 12/12 → 27/01 | UEI 2 + ~6–7 modules/sem. (parcours thématique) |
@@ -39,6 +42,7 @@
 
 ## 📌 Règles d'or
 
+- **Convalescence (07/10 → 15/10)** : les consignes médicales passent d'abord · séances courtes · douleur, fièvre ou grosse fatigue → mode minimum (10 min de flashcards) et repos.
 - **2–3 cours par jour maximum** (4 seulement pour réviser des petits cours déjà étudiés).
 - **Vendredi = jour faible** : révisions, QCM, flashcards, cours léger, bilan.
 - **Repos protégé** : jeudi soir + vendredi matin + samedi soir.
