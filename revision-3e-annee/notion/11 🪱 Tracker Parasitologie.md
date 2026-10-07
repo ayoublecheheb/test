@@ -26,7 +26,7 @@ Arrêt **total** des modules du **lundi 16/11** au **jeudi 10/12** (examen UEI 1
 - **1 nouveau cours de Para par jour maximum**, jamais le même jour qu'un P1 de Cardio.
 - Séance nouvelle = **45–60 min max**, terminée par un **tableau comparatif**.
 - **Micro-reprises de 15 min** 2×/semaine (mercredi et vendredi) : flashcards + reconstruire le tableau de mémoire.
-- C2 à J+2, C3 à J+7 (intervalles plus serrés que les autres modules).
+- C2 à J+2 (plus serré que les autres modules) ; C3 entre le 28/01 et le 11/02, Para en premier.
 - Pendant 28/01 → 11/02, la Para passe **en premier** dans le bloc modules (module le plus difficile).
 
 ## 🧩 Parcours thématique (ordre proposé)

@@ -32,10 +32,10 @@
 | A' · Reprise progressive | S2 · 09/10 → 15/10 | Cardio seul, ~75 % de la capacité |
 | B · Montée | S3–S4 · 16/10 → 29/10 | Cardio + 2–3 modules/sem. |
 | C · Croisière + avance | S5–S6 · 30/10 → 12/11 | Cardio + 3 modules/sem. |
-| C' · Arrêt des modules | S7 · 13/11 → 19/11 | Modules jusqu'au dim 15/11, puis **Cardio seul** (C3 anticipées) |
-| C' · Fin des C1 | S8 · 20/11 → 25/11 | Cardio seul : 8 dernières C1 (dont 4 légères) + C3 · réserve : recouchage à J-12 |
+| C' · Arrêt des modules | S7 · 13/11 → 19/11 | Modules jusqu'au dim 15/11, puis **Cardio seul** (C2 + rattrapage) |
+| C' · Fin des C1 | S8 · 20/11 → 25/11 | Cardio seul : 8 dernières C1 (dont 4 légères) + toutes les C2 · réserve : recouchage à J-12 |
 | D · Recouchage passage 1 (C3) | 26/11 → 03/12 | Cardio seul |
-| E · Recouchage passage 2 (C4) | 04/12 → 09/12 | Cardio seul |
+| E · Recouchage passage 2 (C4) | 04/12 → 09/12 | **Semaine INTENSE dès jeu 03/12** : Cardio seul, pas de repos |
 | Sprint modules + UEI 2 | 12/12 → 27/01 | UEI 2 + ~6–7 modules/sem. (parcours thématique) |
 | Recouchage UEI 2 + C3 modules | 28/01 → 11/02 | UEI 2 + 1 bloc modules/jour |
 | C4 modules | 12/02 → 18/02 | Modules seuls |
@@ -45,7 +45,8 @@
 - **Convalescence (07/10 → 15/10)** : les consignes médicales passent d'abord · séances courtes · douleur, fièvre ou grosse fatigue → mode minimum (10 min de flashcards) et repos.
 - **2–3 cours par jour maximum** (4 seulement pour réviser des petits cours déjà étudiés).
 - **Vendredi = jour faible** : révisions, QCM, flashcards, cours léger, bilan.
-- **Repos protégé** : jeudi soir + vendredi matin + samedi soir.
+- **Repos protégé** : jeudi soir + vendredi matin + samedi soir · **sauf la dernière semaine (03/12 → 09/12) : intense, pas de repos.**
+- **Couches** : C1 + C2 pendant le semestre, C3 + C4 au recouchage (voir 🧱 *Système de couches*).
 - **Jeudi matin = tampon** : on y rattrape, on n'y planifie rien d'avance.
 - **Stage** : ce jour-là, 1 bloc maximum ; le cours déplacé va au tampon.
 - **Flashcards chaque jour** (15–20 min, jamais plus de 25 nouvelles cartes par jour).
@@ -74,6 +75,8 @@
 - 🧩 **Parcours thématique des modules** (21 thèmes)
 - 📅 **Tableau de bord hebdomadaire** (S1 → examens de février)
 - 🔁 **Recouchage J-14 UEI1** (14 jours)
+- 🧱 **Système de couches (C1–C4)** : règles + calendrier de chaque couche pour les 50 cours de Cardio
+- 🗓 **Calendrier des couches — Modules** : C1, C2, C3 et C4 des 73 cours de modules
 - 🧱 **Système de couches (C1–C4)** : quand et comment faire chaque couche, tes premières C2
 - 🦠 Tracker Microbiologie · 🪱 Tracker Parasitologie · 💊 Tracker Pharmacologie
 - ⚙️ Guide d'installation Notion

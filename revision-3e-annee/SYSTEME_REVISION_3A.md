@@ -203,7 +203,7 @@ Modules Micro / Para / Pharma : enseignés sur les 19 semaines (27/09 → 05/02)
 
 | Matière | Nb de cours | Part des cours | QCM recensés 2019-25 [CARDIO] | **Part des QCM** | QCM / cours (moyenne) | Difficulté | **Part du temps Cardio recommandée** | Fréquence de révision |
 |---|---:|---:|---:|---:|---:|---|---:|---|
-| **Sémiologie** | 18 | 36 % | **373** + 25 QCS (6 cas cliniques) | **41,7 %** | 20,7 | non indiquée | **~39 %** | Élevée : C2 à J+1/2, C3 à J+7/10, C4 obligatoire, cas cliniques |
+| **Sémiologie** | 18 | 36 % | **373** + 25 QCS (6 cas cliniques) | **41,7 %** | 20,7 | non indiquée | **~39 %** | Élevée : C2 à J+1/2, C3 + C4 au recouchage, cas cliniques |
 | **Physiopathologie** | 9 | 18 % | 185 | 20,7 % | 20,6 | non indiquée | **~19 %** | Élevée |
 | **Radiologie** | 10 | 20 % | 153 | 17,1 % | 15,3 | non indiquée | **~19 %** | Moyenne |
 | **Biochimie** | 6 | 12 % | 115 | 12,9 % | **19,2** | non indiquée | **~12 %** | Moyenne-élevée (bon rendement par cours) |
@@ -258,11 +258,11 @@ Pas de score décimal (les sources ne le permettent pas). Un niveau P1–P4 bas�
 | **A. Convalescence** | **S1** : mer 07/10 → jeu 08/10 | Mise en place + SEM01 (déjà vu) + PHY01, séances courtes | 2 |
 | **A'. Reprise progressive** | **S2** : 09/10 → 15/10 | ~75 % de la capacité, **Cardio seul** | 5 (+1 bonus) |
 | **B. Montée** | **S3–S4** : 16/10 → 29/10 | Démarrage des modules · synchronisation avec l'hôpital en S4 | 6–7 |
-| **C. Croisière + avance** | **S5–S6** : 30/10 → 12/11 | 1 cours d'avance en sémio ; C3 des premiers cours | 6–8 |
-| **C'. Arrêt des modules** | **S7** : 13/11 → 19/11 | Modules jusqu'au dim 15/11, puis **Cardio seul** : le temps libéré va aux **C3 anticipées** | 6 |
-| **C'. Fin des C1** | **S8** : ven 20/11 → mer 25/11 | 8 dernières C1 (dont 4 légères) **avant mer 25/11** + C3 · 0 module · réserve : recouchage à J-12 | 8 |
+| **C. Croisière + avance** | **S5–S6** : 30/10 → 12/11 | 1 cours d'avance en sémio ; C1 + C2 de chaque cours | 6–8 |
+| **C'. Arrêt des modules** | **S7** : 13/11 → 19/11 | Modules jusqu'au dim 15/11, puis **Cardio seul** : le temps libéré va aux C2 en retard, aux flashcards et au rattrapage | 6 |
+| **C'. Fin des C1** | **S8** : ven 20/11 → mer 25/11 | 8 dernières C1 (dont 4 légères) **avant mer 25/11** + toutes les C2 · 0 module · réserve : recouchage à J-12 | 8 |
 | **D. Recouchage — passage 1 (C3)** | **jeu 26/11 (J-14) → jeu 03/12 (J-7)** | Repasser **toute** l'unité en C3 + 6 cas cliniques (25 QCS) | 0 |
-| **E. Recouchage — passage 2 (C4)** | **ven 04/12 (J-6) → mer 09/12 (J-1)** | C4 de toute l'unité · passage éclair P1 la veille | 0 |
+| **E. Recouchage — passage 2 (C4)** | **ven 04/12 (J-6) → mer 09/12 (J-1)** | C4 de toute l'unité · passage éclair P1 la veille · **semaine INTENSE dès jeu 03/12, sans repos** | 0 |
 | **EXAMEN** | **jeu 10/12/2026** | | |
 
 ### 5.2 Plan de référence semaine par semaine (couche 1)
@@ -299,7 +299,7 @@ S5 et S8 sont les semaines Cardio les plus denses : elles portent le retard de l
 
 ### 5.4 Recouchage de l'unité : 14 jours (J-14 → J-1)
 
-Règles : **aucun nouveau cours** à partir du jeu 26/11 · **aucun module** · deux passages complets sur les 50 cours (C3 puis C4) · la Sémiologie reçoit ~40 % du temps · repos réduit à **½ journée/semaine** (vendredis matin 27/11 et 04/12).
+Règles : **aucun nouveau cours** à partir du jeu 26/11 · **aucun module** · deux passages complets sur les 50 cours (C3 puis C4) · la Sémiologie reçoit ~40 % du temps · repos réduit au **vendredi matin 27/11** ; **la dernière semaine (jeu 03/12 → mer 09/12) est INTENSE : pas de repos le jeudi ni le vendredi matin** (seul le sommeil est protégé, coucher tôt le 09/12). **C'est au recouchage que se font toutes les C3 et C4** (pendant le semestre : C1 + C2 uniquement).
 
 | J- | Jour | Type | Passage | Contenu | Cours | Objectif | Charge |
 |---|---|---|---|---|---|---|---|
@@ -310,16 +310,16 @@ Règles : **aucun nouveau cours** à partir du jeu 26/11 · **aucun module** · 
 | J-10 | Lun 30/11 | SOIR | Passage 1 · C3 | Physiopathologie (suite) | PHY06–PHY09 | PHY07 (P1) en premier | Normale |
 | J-9 | Mar 01/12 | SOIR | Passage 1 · C3 | Biochimie + imagerie (techniques) | BIO04–06 · RAD01–RAD04 | BIO04 (P1) en premier | Normale |
 | J-8 | Mer 02/12 | SOIR | Passage 1 · C3 | Sémiologie cardiaque | SEM11–SEM15 | SP cardiaques (48) + SF cardiaques (36) | Normale |
-| J-7 | Jeu 03/12 | SOUPLE → début révision officielle | Passage 1 · C3 | Fin du passage 1 + cas cliniques | SEM16–18 · RAD09–10 · 6 cas cliniques (25 QCS) | Plus aucun cours nouveau | Élevée |
-| J-6 | Ven 04/12 | FAIBLE (matin repos) | Passage 2 · C4 | Psychologie + tous les P4 (flash) | PSY01–07 · SEM17 · RAD04 · RAD10 · BIO03 | Flash + QCM | Légère |
+| J-7 | Jeu 03/12 | INTENSE (pas de repos) | Passage 1 · C3 | Fin du passage 1 + cas cliniques | SEM16–18 · RAD09–10 · 6 cas cliniques (25 QCS) | Plus aucun cours nouveau | Élevée |
+| J-6 | Ven 04/12 | INTENSE (pas de repos) | Passage 2 · C4 | Psychologie + tous les P4 (flash) + 1er bloc de QCM mixtes | PSY01–07 · SEM17 · RAD04 · RAD10 · BIO03 | Flash + QCM | Élevée |
 | J-5 | Sam 05/12 | FORT (journée) | Passage 2 · C4 | Sémiologie respiratoire | SEM01–SEM10 | QCM chronométrés + carnet d'erreurs | Élevée |
 | J-4 | Dim 06/12 | FORT (journée) | Passage 2 · C4 | Sémiologie cardio-vasculaire + cas cliniques | SEM11–SEM18 | SEM14–15, 16, 18 en priorité | Élevée |
 | J-3 | Lun 07/12 | FORT (journée) | Passage 2 · C4 | Physiopathologie complète + cas cliniques | PHY01–PHY09 | Mécanismes → signes | Normale |
 | J-2 | Mar 08/12 | FORT (journée) | Passage 2 · C4 | Radiologie + Biochimie | RAD01–10 · BIO01–06 | BIO04, RAD05, RAD08 en priorité | Normale |
-| J-1 | Mer 09/12 | LÉGER | Passage éclair | P1 + carnet d'erreurs + QCM mixtes (matin) · après-midi léger · coucher tôt | SEM10 · SEM16 · SEM18 · PHY07 · BIO04 | Confiance, pas de nouveauté | Légère |
+| J-1 | Mer 09/12 | INTENSE puis coucher tôt | Passage éclair | P1 + carnet d'erreurs + QCM mixtes chronométrés (matin) · après-midi : QCM ciblés sur tes erreurs · coucher tôt (le sommeil fait partie de la révision) | SEM10 · SEM16 · SEM18 · PHY07 · BIO04 | Confiance, pas de nouveauté | Légère |
 | J0 | Jeu 10/12 | EXAMEN | — | EXAMEN UEI 1 | — | — | — |
 
-Du 26/11 au 03/12, l'hôpital et les amphis continuent : ce sont des soirs à 2 blocs (samedi = 4–5 blocs). Du 04/12 au 09/12 (révision officielle), journées complètes. Les C3 déjà faites en S4–S8 rendent le passage 1 plus rapide pour les premiers cours.
+Du 26/11 au 03/12, l'hôpital et les amphis continuent : ce sont des soirs à 2 blocs (samedi = 4–5 blocs). Du 04/12 au 09/12 (révision officielle), journées complètes. Les flashcards quotidiennes entre la C2 et le recouchage rendent le passage 1 plus rapide.
 
 ---
 
@@ -469,7 +469,7 @@ Les jours ne portent **pas** de matière fixe : ils portent un **type** et des *
 
 | Créneau | Bloc 1 | Bloc 2 | Bloc 3 | Flashcards (15–20 min) | Nb de cours |
 |---|---|---|---|---|---:|
-| **VEN — FAIBLE** | Cours léger (Psy, P4) ou rattrapage | **Rappel intégré** du thème de la semaine passée (QCM + restitution) + C3 | Bilan 20 min + plan de la semaine | ☐ réviser | 2 |
+| **VEN — FAIBLE** | Cours léger (Psy, P4) ou rattrapage | **Rappel intégré** du thème de la semaine passée (QCM + restitution) + C2 en retard | Bilan 20 min + plan de la semaine | ☐ réviser | 2 |
 | **SAM — FORT** | **Physiopathologie** (thème de la semaine) | **Sémiologie A** (même thème) | **Microbiologie** | ☐ créer ×3 | 3 |
 | **DIM — SOIR** | **Biochimie** ou **Psycho** (standard) | Révisions C2 (J+1/J+2 du samedi) | — | ☐ créer + réviser | 2 |
 | **LUN — SOIR** | **Sémiologie B** | **Pharmacologie** (plus léger après le lourd) | — | ☐ créer ×2 | 2 |
@@ -540,24 +540,28 @@ Tes fiches imprimées ont 5 cases (C1–C5) + Q. Voici comment les cocher avec t
 | **3 — Maîtrise** | Rapidité, pièges, tableaux, points très tombables | QCM d'annales du cours → noter chaque erreur dans le **carnet d'erreurs** → tableaux comparatifs | ~30 % du temps de C1 |
 | **4 — Pré-examen** | Ultra-rapide, intégration | Fiche 1 page + carnet d'erreurs + cas cliniques + QCM chronométrés | 15–30 min/cours |
 
-### 9.3 Intervalles selon la priorité (calculés à partir de la date de C1)
+### 9.3 Quand faire chaque couche
 
-| Niveau | C2 | C3 | Rappel intermédiaire | C4 |
-|---|---|---|---|---|
-| **P1** | J+1 / J+2 | J+7 | Flashcards J+14 et J+21 | **Obligatoire** + cas cliniques |
-| **P2** (et n.i.) | J+2 / J+3 | J+10 | Flashcards J+21 | **Obligatoire** |
-| **P3** | J+3 / J+5 | J+14 ou S9 | Flashcards | Rapide (flash + QCM) |
-| **P4** | J+5 / J+7 (groupée avec d'autres) | S9 (flash) | — | Non (sauf 🔥) |
-| **Parasitologie** | J+2 | J+7 | Micro-reprises 2×/sem. | Obligatoire avant le 18/02 |
+**Règle : pendant le semestre, C1 + C2 seulement. Toutes les C3 et C4 se font au recouchage** (passage 1 = C3 du jeu 26/11 au jeu 03/12 · passage 2 = C4 du ven 04/12 au mer 09/12). Entre la C2 et le recouchage, le cours reste vivant grâce aux flashcards quotidiennes et aux rappels intégrés du mercredi.
+
+| Niveau | C2 (après la C1) | C3 | C4 |
+|---|---|---|---|
+| **P1** | J+1 / J+2 | Recouchage passage 1 | Recouchage passage 2 + cas cliniques + passage éclair le 09/12 |
+| **P2** (et n.i.) | J+2 / J+3 | Recouchage passage 1 | Recouchage passage 2 |
+| **P3** | J+3 / J+5 | Recouchage passage 1 | Recouchage passage 2 (rapide) |
+| **P4** | J+5 / J+7 (groupée) | Recouchage passage 1 (flash) | Flash le ven 04/12 |
+| **Modules** | J+3 (Para : J+2) | 28/01 → 10/02, par thème | Juste avant chaque examen (12 → 17/02) |
+
+Le calendrier daté de chaque couche, cours par cours, est dans les pages Notion **🧱 Système de couches** (Cardio) et **🗓 Calendrier des couches — Modules**.
 
 **Ajustement par la maîtrise (après chaque couche) :**
-- QCM ≥ 85 % **et** page blanche complète → l'intervalle suivant **× 1,5** (le cours s'espace).
-- QCM 60–85 % → intervalle normal.
+- QCM ≥ 85 % **et** page blanche complète → le cours attend le recouchage avec ses flashcards.
+- QCM 60–85 % → flashcards ciblées sur les erreurs.
 - QCM < 60 % **ou** page blanche < 50 % → statut **🔥** : **C2 bis à J+2**, le cours monte d'un niveau.
 
-**Ajustement par le volume :** un cours au volume « élevé » (> 25 p.) reçoit un **rappel intermédiaire de plus** (flashcards ciblées entre C2 et C3).
+**Ajustement par le volume :** un cours au volume « élevé » (> 25 p.) reçoit un **rappel intermédiaire** (flashcards ciblées + 10 QCM) entre sa C2 et le recouchage.
 
-**Ajustement par l'examen :** dès le lun 16/11, plus aucun module : le temps libéré va aux C3 de Cardio. À J-14 (jeu 26/11), plus aucun nouveau cours : recouchage (Partie 5.4).
+**Ajustement par l'examen :** dès le lun 16/11, plus aucun module : le temps libéré va aux C2 en retard et au rattrapage. À J-14 (jeu 26/11), plus aucun nouveau cours : recouchage (Partie 5.4).
 
 ---
 
@@ -718,7 +722,7 @@ L'ancienne semaine 1 (02/10 → 08/10) n'a pas pu être faite (maladie + chirurg
 |---|---|
 | VEN 16 *(faible)* | **BIO01** Biochimie de l'homme sain (léger) · C2 SEM04 (+ PSY01 si fait) · bilan |
 | SAM 17 | **PHY04** Choc anaphylactique · **SEM05** SF respiratoires I · **BAC01** Introduction au monde microbien |
-| DIM 18 | **BIO02** Biomarqueurs cardiaques · C2 SEM05 · C3 SEM01 / PHY01 |
+| DIM 18 | **BIO02** Biomarqueurs cardiaques · C2 SEM05 |
 | LUN 19 | **SEM06** SF respiratoires II · **PHA01** Introduction à la pharmacologie |
 | MAR 20 | **RAD01** Tube à rayons X · C2 PHY04 + SEM06 |
 | MER 21 | **SEM07** Examen physique respiratoire I · rappel intégré « Cœur aigu » (PHY02-03 + BIO02) |
@@ -733,60 +737,60 @@ Maîtrise : 1 = fragile · 2 = correct · 3 = solide (auto-évaluation après QC
 
 ### 12.1 Tableau central de contrôle — UEI 1 Cardio-respiratoire
 
-*Tombabilité = chiffre brut de la fiche [CARDIO] (Medspace 2019-25). Part UEI 1 = chiffre ÷ 894 (calcul). Volume (pages) et difficulté : non fournis par les sources → à remplir. P1/P2 = dates de recouchage.*
+*Tombabilité = chiffre brut de la fiche [CARDIO] (Medspace 2019-25). Part UEI 1 = chiffre ÷ 894 (calcul). Volume (pages) et difficulté : non fournis par les sources → à remplir. Dates prévues de chaque couche : C1 + C2 pendant le semestre, C3 + C4 au recouchage.*
 
-| ID | Cours | Matière | Thème intégré | Volume | Difficulté | Tombabilité | Part UEI 1 | Priorité | C1 prévue | Dernière révision | Prochaine révision | Couche actuelle | Recouchage P1 · P2 |
+| ID | Cours | Matière | Thème intégré | Volume | Difficulté | Tombabilité | Part UEI 1 | Priorité | C1 prévue | C2 prévue | C3 (recouchage) | C4 (recouchage) | Couche actuelle |
 |---|---|---|---|---|---|---:|---:|---|---|---|---|---|---|
-| SEM01 | Introduction à la sémiologie médicale + anamnèse | Sémiologie | Rencontre avec le patient | ? p. · 1 bloc | à évaluer | non indiquée | — | P2 (défaut) | S1 · 07/10 | — | C2 09/10 | 🟡 Vu | 28/11 · 05/12 |
-| SEM02 | Sémiologie pondérale | Sémiologie | Volume, eau & sodium | ? p. · 1 bloc | à évaluer | 43 (commun 02+03) | 4,8 % | P2 | S2 · 10/10 | — | C2 11/10 | ⬜ | 28/11 · 05/12 |
-| SEM03 | Fièvre | Sémiologie | Fièvre & infection | ? p. · 1 bloc | à évaluer | 43 (commun 02+03) | 4,8 % | P2 | S2 · 11/10 | — | C2 13/10 | ⬜ | 28/11 · 05/12 |
-| SEM04 | Topographie du thorax | Sémiologie | Respiratoire clinique | ? p. · 1 bloc | à évaluer | non indiquée | — | P2 (défaut) | S2 · 13/10 | — | C2 16/10 | ⬜ | 28/11 · 05/12 |
-| SEM05 | SF respiratoires I : dyspnée, douleurs thoraciques | Sémiologie | Respiratoire clinique | ? p. · 1 bloc | à évaluer | 46 (commun 05+06) | 5,1 % | P2 | S3 | — | selon date de C1 | ⬜ | 28/11 · 05/12 |
-| SEM06 | SF respiratoires II : toux, expectoration, vomique, hémoptysie, troubles de la voix | Sémiologie | Respiratoire clinique | ? p. · 1 bloc | à évaluer | 46 (commun 05+06) | 5,1 % | P2 | S3 | — | selon date de C1 | ⬜ | 28/11 · 05/12 |
-| SEM07 | Examen physique de l'appareil respiratoire I | Sémiologie | Respiratoire clinique | ? p. · 1 bloc | à évaluer | 27 (commun 07+08) | 3,0 % | P3 | S3 | — | selon date de C1 | ⬜ | 28/11 · 05/12 |
-| SEM08 | Examen physique de l'appareil respiratoire II | Sémiologie | Respiratoire clinique | ? p. · 1 bloc | à évaluer | 27 (commun 07+08) | 3,0 % | P3 | S4 | — | selon date de C1 | ⬜ | 28/11 · 05/12 |
-| SEM09 | Explorations respiratoires | Sémiologie | Respiratoire clinique | ? p. · 1 bloc | à évaluer | 22 | 2,5 % | P2 | S4 | — | selon date de C1 | ⬜ | 28/11 · 05/12 |
-| SEM10 | Étude synthétique de l'appareil respiratoire | Sémiologie | Respiratoire clinique | ? p. · 2 blocs (synthèse) | à évaluer | 73 | 8,2 % | P1 | S4 | — | selon date de C1 | ⬜ | 29/11 · 05/12 |
-| SEM11 | Hémodynamique intracardiaque | Sémiologie | Chocs & cœur aigu | ? p. · 1 bloc | à évaluer | non indiquée | — | P2 (défaut) | S5 | — | selon date de C1 | ⬜ | 02/12 · 06/12 |
-| SEM12 | SF cardiaques I : dyspnée, précordialgies | Sémiologie | Cœur clinique | ? p. · 1 bloc | à évaluer | 36 (commun 12+13) | 4,0 % | P3 | S5 | — | selon date de C1 | ⬜ | 02/12 · 06/12 |
-| SEM13 | SF cardiaques II : palpitations, syncopes, lipothymies | Sémiologie | Cœur clinique | ? p. · 1 bloc | à évaluer | 36 (commun 12+13) | 4,0 % | P3 | S5 | — | selon date de C1 | ⬜ | 02/12 · 06/12 |
-| SEM14 | Signes physiques cardiaques I : palpation, inspection | Sémiologie | Cœur clinique | ? p. · 1 bloc | à évaluer | 48 (commun 14+15) | 5,4 % | P2 | S6 | — | selon date de C1 | ⬜ | 02/12 · 06/12 |
-| SEM15 | Signes physiques cardiaques II : percussion, auscultation | Sémiologie | Cœur clinique | ? p. · 1 bloc | à évaluer | 48 (commun 14+15) | 5,4 % | P2 | S6 | — | selon date de C1 | ⬜ | 02/12 · 06/12 |
-| SEM16 | Sémiologie artérielle et veineuse | Sémiologie | Vaisseaux & athérosclérose | ? p. · 1,5–2 blocs | à évaluer | 39 | 4,4 % | P1 | S7 | — | selon date de C1 | ⬜ | 03/12 · 06/12 |
-| SEM17 | Exploration cardiaque | Sémiologie | Cœur clinique | ? p. · ½ bloc (C1 ciblée) | à évaluer | 2 | 0,2 % | P4 | S7 | — | selon date de C1 | ⬜ | 03/12 · 06/12 |
-| SEM18 | Étude synthétique de l'appareil cardio-vasculaire | Sémiologie | Cœur clinique | ? p. · 2 blocs (synthèse) | à évaluer | 37 | 4,1 % | P1 | S8 | — | selon date de C1 | ⬜ | 03/12 · 06/12 |
-| PHY01 | Choc hypovolémique | Physiopathologie | Volume, eau & sodium | ? p. · 1 bloc | à évaluer | 13 | 1,5 % | P3 | S1 · 08/10 | — | C2 09/10 | ⬜ | 26/11 · 07/12 |
-| PHY02 | Choc cardiogénique | Physiopathologie | Chocs & cœur aigu | ? p. · 1 bloc | à évaluer | 22 | 2,5 % | P2 | S2 · 10/10 | — | C2 12/10 | ⬜ | 26/11 · 07/12 |
-| PHY03 | Insuffisance cardiaque aiguë | Physiopathologie | Chocs & cœur aigu | ? p. · 1 bloc | à évaluer | 18 | 2,0 % | P3 | S2 · 12/10 | — | C2 14/10 | ⬜ | 26/11 · 07/12 |
-| PHY04 | Choc anaphylactique | Physiopathologie | Chocs & cœur aigu | ? p. · 1 bloc | à évaluer | 20 | 2,2 % | P2 | S3 | — | selon date de C1 | ⬜ | 26/11 · 07/12 |
-| PHY05 | Choc septique | Physiopathologie | Fièvre & infection | ? p. · 1 bloc | à évaluer | 23 | 2,6 % | P2 | S4 | — | selon date de C1 | ⬜ | 26/11 · 07/12 |
-| PHY06 | Thermorégulation | Physiopathologie | Fièvre & infection | ? p. · 1 bloc | à évaluer | 18 | 2,0 % | P3 | S4 | — | selon date de C1 | ⬜ | 30/11 · 07/12 |
-| PHY07 | Troubles hydro-sodés | Physiopathologie | Volume, eau & sodium | ? p. · 1,5–2 blocs | à évaluer | 36 | 4,0 % | P1 | S5 | — | selon date de C1 | ⬜ | 30/11 · 07/12 |
-| PHY08 | Hypertension artérielle | Physiopathologie | Vaisseaux & athérosclérose | ? p. · 1 bloc | à évaluer | 17 | 1,9 % | P3 | S6 | — | selon date de C1 | ⬜ | 30/11 · 07/12 |
-| PHY09 | Maladie thromboembolique | Physiopathologie | Vaisseaux & athérosclérose | ? p. · 1 bloc | à évaluer | 18 | 2,0 % | P3 | S7 | — | selon date de C1 | ⬜ | 30/11 · 07/12 |
-| RAD01 | Tube à rayons X, formation de l'image radiologique | Radiologie | Imagerie : bases & techniques | ? p. · 1 bloc | à évaluer | 19 | 2,1 % | P3 | S3 | — | selon date de C1 | ⬜ | 01/12 · 08/12 |
-| RAD02 | Initiation à l'imagerie en coupe : TDM et IRM | Radiologie | Imagerie : bases & techniques | ? p. · 1 bloc | à évaluer | 15 | 1,7 % | P3 | S4 | — | selon date de C1 | ⬜ | 01/12 · 08/12 |
-| RAD03 | Échographie | Radiologie | Imagerie : bases & techniques | ? p. · 1 bloc | à évaluer | 15 | 1,7 % | P3 | S5 | — | selon date de C1 | ⬜ | 01/12 · 08/12 |
-| RAD04 | Exploration du cœur et des gros vaisseaux | Radiologie | Imagerie : bases & techniques | ? p. · ½ bloc (C1 ciblée) | à évaluer | 3 | 0,3 % | P4 | S5 | — | selon date de C1 | ⬜ | 01/12 · 08/12 |
-| RAD05 | Techniques d'examens radiologiques du thorax | Radiologie | Imagerie : bases & techniques | ? p. · 1 bloc | à évaluer | 26 | 2,9 % | P2 | S6 | — | selon date de C1 | ⬜ | 29/11 · 08/12 |
-| RAD06 | Anatomie lobaire et segmentaire | Radiologie | Thorax : imagerie, plèvre & épanchements | ? p. · 1 bloc | à évaluer | 15 | 1,7 % | P3 | S7 | — | selon date de C1 | ⬜ | 29/11 · 08/12 |
-| RAD07 | Signe du bronchogramme aérique | Radiologie | Thorax : imagerie, plèvre & épanchements | ? p. · 1 bloc | à évaluer | 12 | 1,3 % | P3 | S7 | — | selon date de C1 | ⬜ | 29/11 · 08/12 |
-| RAD08 | Signe de la silhouette | Radiologie | Thorax : imagerie, plèvre & épanchements | ? p. · 1 bloc | à évaluer | 21 | 2,3 % | P2 | S8 | — | selon date de C1 | ⬜ | 29/11 · 08/12 |
-| RAD09 | Atélectasie lobaire et segmentaire | Radiologie | Thorax : imagerie, plèvre & épanchements | ? p. · 1 bloc | à évaluer | 19 | 2,1 % | P3 | S8 | — | selon date de C1 | ⬜ | 03/12 · 08/12 |
-| RAD10 | Pathologie pleurale et extra-pleurale | Radiologie | Thorax : imagerie, plèvre & épanchements | ? p. · ½ bloc (C1 ciblée) | à évaluer | 8 | 0,9 % | P4 | S8 | — | selon date de C1 | ⬜ | 03/12 · 08/12 |
-| BIO01 | Biochimie de l'homme sain | Biochimie | Volume, eau & sodium | ? p. · 1 bloc | à évaluer | 13 | 1,5 % | P3 | S3 | — | selon date de C1 | ⬜ | 27/11 · 08/12 |
-| BIO02 | Biomarqueurs cardiaques | Biochimie | Chocs & cœur aigu | ? p. · 1 bloc | à évaluer | 24 | 2,7 % | P2 | S3 | — | selon date de C1 | ⬜ | 27/11 · 08/12 |
-| BIO03 | L'acte biochimique et pièges d'interprétation | Biochimie | Biologie : interprétation | ? p. · ½ bloc (C1 ciblée) | à évaluer | 9 | 1,0 % | P4 | S5 | — | selon date de C1 | ⬜ | 27/11 · 08/12 |
-| BIO04 | Dyslipidémies et athérosclérose | Biochimie | Vaisseaux & athérosclérose | ? p. · 1,5–2 blocs | à évaluer | 35 | 3,9 % | P1 | S6 | — | selon date de C1 | ⬜ | 01/12 · 08/12 |
-| BIO05 | Stress oxydant | Biochimie | Vaisseaux & athérosclérose | ? p. · 1 bloc | à évaluer | 21 | 2,3 % | P2 | S7 | — | selon date de C1 | ⬜ | 01/12 · 08/12 |
-| BIO06 | Liquides d'épanchement | Biochimie | Thorax : imagerie, plèvre & épanchements | ? p. · 1 bloc | à évaluer | 13 | 1,5 % | P3 | S8 | — | selon date de C1 | ⬜ | 01/12 · 08/12 |
-| PSY01 | Aspects communicationnels de la rencontre avec le malade et sa famille, examen mental | Psychologie | Rencontre avec le patient | ? p. · 1 bloc | à évaluer | 24 | 2,7 % | P2 | S2 (bonus) · 14/10 | — | C2 16/10 | ⬜ | 27/11 · 04/12 |
-| PSY02 | Problèmes particuliers de l'entrevue | Psychologie | Rencontre avec le patient | ? p. · 1 bloc | à évaluer | 11 | 1,2 % | P3 | S5 | — | selon date de C1 | ⬜ | 27/11 · 04/12 |
-| PSY03 | Stress et maladies psychosomatiques | Psychologie | Rencontre avec le patient | ? p. · ½ bloc (C1 ciblée) | à évaluer | 7 | 0,8 % | P4 | S6 | — | selon date de C1 | ⬜ | 27/11 · 04/12 |
-| PSY04 | Fonctionnement de la personnalité | Psychologie | Rencontre avec le patient | ? p. · 1 bloc | à évaluer | 11 | 1,2 % | P3 | S7 | — | selon date de C1 | ⬜ | 27/11 · 04/12 |
-| PSY05 | Psychologie de la prescription | Psychologie | Prescription & douleur | ? p. · ½ bloc (C1 ciblée) | à évaluer | 4 | 0,4 % | P4 | S8 | — | selon date de C1 | ⬜ | 27/11 · 04/12 |
-| PSY06 | Psychologie de la douleur | Psychologie | Prescription & douleur | ? p. · ½ bloc (C1 ciblée) | à évaluer | 7 | 0,8 % | P4 | S8 | — | selon date de C1 | ⬜ | 27/11 · 04/12 |
-| PSY07 | L'annonce d'une maladie grave | Psychologie | Rencontre avec le patient | ? p. · ½ bloc (C1 ciblée) | à évaluer | 4 | 0,4 % | P4 | S8 | — | selon date de C1 | ⬜ | 27/11 · 04/12 |
+| SEM01 | Introduction à la sémiologie médicale + anamnèse | Sémiologie | Rencontre avec le patient | ? p. · 1 bloc | à évaluer | non indiquée | — | P2 (défaut) | mer 07/10 | ven 09/10 | sam 28/11 | sam 05/12 | 🟡 Vu |
+| SEM02 | Sémiologie pondérale | Sémiologie | Volume, eau & sodium | ? p. · 1 bloc | à évaluer | 43 (commun 02+03) | 4,8 % | P2 | sam 10/10 | dim 11/10 | sam 28/11 | sam 05/12 | ⬜ |
+| SEM03 | Fièvre | Sémiologie | Fièvre & infection | ? p. · 1 bloc | à évaluer | 43 (commun 02+03) | 4,8 % | P2 | dim 11/10 | mar 13/10 | sam 28/11 | sam 05/12 | ⬜ |
+| SEM04 | Topographie du thorax | Sémiologie | Respiratoire clinique | ? p. · 1 bloc | à évaluer | non indiquée | — | P2 (défaut) | mar 13/10 | ven 16/10 | sam 28/11 | sam 05/12 | ⬜ |
+| SEM05 | SF respiratoires I : dyspnée, douleurs thoraciques | Sémiologie | Respiratoire clinique | ? p. · 1 bloc | à évaluer | 46 (commun 05+06) | 5,1 % | P2 | sam 17/10 | mar 20/10 | sam 28/11 | sam 05/12 | ⬜ |
+| SEM06 | SF respiratoires II : toux, expectoration, vomique, hémoptysie, troubles de la voix | Sémiologie | Respiratoire clinique | ? p. · 1 bloc | à évaluer | 46 (commun 05+06) | 5,1 % | P2 | lun 19/10 | mer 21/10 | sam 28/11 | sam 05/12 | ⬜ |
+| SEM07 | Examen physique de l'appareil respiratoire I | Sémiologie | Respiratoire clinique | ? p. · 1 bloc | à évaluer | 27 (commun 07+08) | 3,0 % | P3 | mer 21/10 | sam 24/10 | sam 28/11 | sam 05/12 | ⬜ |
+| SEM08 | Examen physique de l'appareil respiratoire II | Sémiologie | Respiratoire clinique | ? p. · 1 bloc | à évaluer | 27 (commun 07+08) | 3,0 % | P3 | sam 24/10 | dim 01/11 | sam 28/11 | sam 05/12 | ⬜ |
+| SEM09 | Explorations respiratoires | Sémiologie | Respiratoire clinique | ? p. · 1 bloc | à évaluer | 22 | 2,5 % | P2 | lun 26/10 | ven 30/10 | sam 28/11 | sam 05/12 | ⬜ |
+| SEM10 | Étude synthétique de l'appareil respiratoire | Sémiologie | Respiratoire clinique | ? p. · 2 blocs (synthèse) | à évaluer | 73 | 8,2 % | P1 | mer 28/10 | ven 30/10 | dim 29/11 | sam 05/12 | ⬜ |
+| SEM11 | Hémodynamique intracardiaque | Sémiologie | Chocs & cœur aigu | ? p. · 1 bloc | à évaluer | non indiquée | — | P2 (défaut) | sam 31/10 | mar 03/11 | mer 02/12 | dim 06/12 | ⬜ |
+| SEM12 | SF cardiaques I : dyspnée, précordialgies | Sémiologie | Cœur clinique | ? p. · 1 bloc | à évaluer | 36 (commun 12+13) | 4,0 % | P3 | dim 01/11 | mer 04/11 | mer 02/12 | dim 06/12 | ⬜ |
+| SEM13 | SF cardiaques II : palpitations, syncopes, lipothymies | Sémiologie | Cœur clinique | ? p. · 1 bloc | à évaluer | 36 (commun 12+13) | 4,0 % | P3 | lun 02/11 | ven 06/11 | mer 02/12 | dim 06/12 | ⬜ |
+| SEM14 | Signes physiques cardiaques I : palpation, inspection | Sémiologie | Cœur clinique | ? p. · 1 bloc | à évaluer | 48 (commun 14+15) | 5,4 % | P2 | sam 07/11 | mar 10/11 | mer 02/12 | dim 06/12 | ⬜ |
+| SEM15 | Signes physiques cardiaques II : percussion, auscultation | Sémiologie | Cœur clinique | ? p. · 1 bloc | à évaluer | 48 (commun 14+15) | 5,4 % | P2 | lun 09/11 | mer 11/11 | mer 02/12 | dim 06/12 | ⬜ |
+| SEM16 | Sémiologie artérielle et veineuse | Sémiologie | Vaisseaux & athérosclérose | ? p. · 1,5–2 blocs | à évaluer | 39 | 4,4 % | P1 | sam 14/11 | lun 16/11 | jeu 03/12 | dim 06/12 | ⬜ |
+| SEM17 | Exploration cardiaque | Sémiologie | Cœur clinique | ? p. · ½ bloc (C1 ciblée) | à évaluer | 2 | 0,2 % | P4 | ven 13/11 | mer 18/11 | jeu 03/12 | ven 04/12 (flash) | ⬜ |
+| SEM18 | Étude synthétique de l'appareil cardio-vasculaire | Sémiologie | Cœur clinique | ? p. · 2 blocs (synthèse) | à évaluer | 37 | 4,1 % | P1 | sam 21/11 | dim 22/11 | jeu 03/12 | dim 06/12 | ⬜ |
+| PHY01 | Choc hypovolémique | Physiopathologie | Volume, eau & sodium | ? p. · 1 bloc | à évaluer | 13 | 1,5 % | P3 | jeu 08/10 | ven 09/10 | jeu 26/11 | lun 07/12 | ⬜ |
+| PHY02 | Choc cardiogénique | Physiopathologie | Chocs & cœur aigu | ? p. · 1 bloc | à évaluer | 22 | 2,5 % | P2 | sam 10/10 | lun 12/10 | jeu 26/11 | lun 07/12 | ⬜ |
+| PHY03 | Insuffisance cardiaque aiguë | Physiopathologie | Chocs & cœur aigu | ? p. · 1 bloc | à évaluer | 18 | 2,0 % | P3 | lun 12/10 | mer 14/10 | jeu 26/11 | lun 07/12 | ⬜ |
+| PHY04 | Choc anaphylactique | Physiopathologie | Chocs & cœur aigu | ? p. · 1 bloc | à évaluer | 20 | 2,2 % | P2 | sam 17/10 | mar 20/10 | jeu 26/11 | lun 07/12 | ⬜ |
+| PHY05 | Choc septique | Physiopathologie | Fièvre & infection | ? p. · 1 bloc | à évaluer | 23 | 2,6 % | P2 | sam 24/10 | mar 27/10 | jeu 26/11 | lun 07/12 | ⬜ |
+| PHY06 | Thermorégulation | Physiopathologie | Fièvre & infection | ? p. · 1 bloc | à évaluer | 18 | 2,0 % | P3 | dim 25/10 | dim 01/11 | lun 30/11 | lun 07/12 | ⬜ |
+| PHY07 | Troubles hydro-sodés | Physiopathologie | Volume, eau & sodium | ? p. · 1,5–2 blocs | à évaluer | 36 | 4,0 % | P1 | dim 01/11 | mer 04/11 | lun 30/11 | lun 07/12 | ⬜ |
+| PHY08 | Hypertension artérielle | Physiopathologie | Vaisseaux & athérosclérose | ? p. · 1 bloc | à évaluer | 17 | 1,9 % | P3 | sam 07/11 | mer 11/11 | lun 30/11 | lun 07/12 | ⬜ |
+| PHY09 | Maladie thromboembolique | Physiopathologie | Vaisseaux & athérosclérose | ? p. · 1 bloc | à évaluer | 18 | 2,0 % | P3 | sam 14/11 | mar 17/11 | lun 30/11 | lun 07/12 | ⬜ |
+| RAD01 | Tube à rayons X, formation de l'image radiologique | Radiologie | Imagerie : bases & techniques | ? p. · 1 bloc | à évaluer | 19 | 2,1 % | P3 | mar 20/10 | ven 23/10 | mar 01/12 | mar 08/12 | ⬜ |
+| RAD02 | Initiation à l'imagerie en coupe : TDM et IRM | Radiologie | Imagerie : bases & techniques | ? p. · 1 bloc | à évaluer | 15 | 1,7 % | P3 | mar 27/10 | mer 04/11 | mar 01/12 | mar 08/12 | ⬜ |
+| RAD03 | Échographie | Radiologie | Imagerie : bases & techniques | ? p. · 1 bloc | à évaluer | 15 | 1,7 % | P3 | mar 03/11 | ven 06/11 | mar 01/12 | mar 08/12 | ⬜ |
+| RAD04 | Exploration du cœur et des gros vaisseaux | Radiologie | Imagerie : bases & techniques | ? p. · ½ bloc (C1 ciblée) | à évaluer | 3 | 0,3 % | P4 | ven 30/10 | ven 06/11 | mar 01/12 | ven 04/12 (flash) | ⬜ |
+| RAD05 | Techniques d'examens radiologiques du thorax | Radiologie | Imagerie : bases & techniques | ? p. · 1 bloc | à évaluer | 26 | 2,9 % | P2 | mar 10/11 | ven 13/11 | dim 29/11 | mar 08/12 | ⬜ |
+| RAD06 | Anatomie lobaire et segmentaire | Radiologie | Thorax : imagerie, plèvre & épanchements | ? p. · 1 bloc | à évaluer | 15 | 1,7 % | P3 | mar 17/11 | sam 21/11 | dim 29/11 | mar 08/12 | ⬜ |
+| RAD07 | Signe du bronchogramme aérique | Radiologie | Thorax : imagerie, plèvre & épanchements | ? p. · 1 bloc | à évaluer | 12 | 1,3 % | P3 | mer 18/11 | sam 21/11 | dim 29/11 | mar 08/12 | ⬜ |
+| RAD08 | Signe de la silhouette | Radiologie | Thorax : imagerie, plèvre & épanchements | ? p. · 1 bloc | à évaluer | 21 | 2,3 % | P2 | sam 21/11 | lun 23/11 | dim 29/11 | mar 08/12 | ⬜ |
+| RAD09 | Atélectasie lobaire et segmentaire | Radiologie | Thorax : imagerie, plèvre & épanchements | ? p. · 1 bloc | à évaluer | 19 | 2,1 % | P3 | lun 23/11 | mer 25/11 | jeu 03/12 | mar 08/12 | ⬜ |
+| RAD10 | Pathologie pleurale et extra-pleurale | Radiologie | Thorax : imagerie, plèvre & épanchements | ? p. · ½ bloc (C1 ciblée) | à évaluer | 8 | 0,9 % | P4 | mar 24/11 | mer 25/11 | jeu 03/12 | ven 04/12 (flash) | ⬜ |
+| BIO01 | Biochimie de l'homme sain | Biochimie | Volume, eau & sodium | ? p. · 1 bloc | à évaluer | 13 | 1,5 % | P3 | ven 16/10 | mer 21/10 | ven 27/11 | mar 08/12 | ⬜ |
+| BIO02 | Biomarqueurs cardiaques | Biochimie | Chocs & cœur aigu | ? p. · 1 bloc | à évaluer | 24 | 2,7 % | P2 | dim 18/10 | mar 20/10 | ven 27/11 | mar 08/12 | ⬜ |
+| BIO03 | L'acte biochimique et pièges d'interprétation | Biochimie | Biologie : interprétation | ? p. · ½ bloc (C1 ciblée) | à évaluer | 9 | 1,0 % | P4 | ven 30/10 | mer 04/11 | ven 27/11 | ven 04/12 (flash) | ⬜ |
+| BIO04 | Dyslipidémies et athérosclérose | Biochimie | Vaisseaux & athérosclérose | ? p. · 1,5–2 blocs | à évaluer | 35 | 3,9 % | P1 | dim 08/11 | mer 11/11 | mar 01/12 | mar 08/12 | ⬜ |
+| BIO05 | Stress oxydant | Biochimie | Vaisseaux & athérosclérose | ? p. · 1 bloc | à évaluer | 21 | 2,3 % | P2 | dim 15/11 | mar 17/11 | mar 01/12 | mar 08/12 | ⬜ |
+| BIO06 | Liquides d'épanchement | Biochimie | Thorax : imagerie, plèvre & épanchements | ? p. · 1 bloc | à évaluer | 13 | 1,5 % | P3 | dim 22/11 | mer 25/11 | mar 01/12 | mar 08/12 | ⬜ |
+| PSY01 | Aspects communicationnels de la rencontre avec le malade et sa famille, examen mental | Psychologie | Rencontre avec le patient | ? p. · 1 bloc | à évaluer | 24 | 2,7 % | P2 | mer 14/10 | ven 16/10 | ven 27/11 | ven 04/12 | ⬜ |
+| PSY02 | Problèmes particuliers de l'entrevue | Psychologie | Rencontre avec le patient | ? p. · 1 bloc | à évaluer | 11 | 1,2 % | P3 | sam 31/10 | mer 04/11 | ven 27/11 | ven 04/12 | ⬜ |
+| PSY03 | Stress et maladies psychosomatiques | Psychologie | Rencontre avec le patient | ? p. · ½ bloc (C1 ciblée) | à évaluer | 7 | 0,8 % | P4 | ven 06/11 | mer 11/11 | ven 27/11 | ven 04/12 (flash) | ⬜ |
+| PSY04 | Fonctionnement de la personnalité | Psychologie | Rencontre avec le patient | ? p. · 1 bloc | à évaluer | 11 | 1,2 % | P3 | lun 16/11 | ven 20/11 | ven 27/11 | ven 04/12 | ⬜ |
+| PSY05 | Psychologie de la prescription | Psychologie | Prescription & douleur | ? p. · ½ bloc (C1 ciblée) | à évaluer | 4 | 0,4 % | P4 | ven 20/11 | mer 25/11 | ven 27/11 | ven 04/12 (flash) | ⬜ |
+| PSY06 | Psychologie de la douleur | Psychologie | Prescription & douleur | ? p. · ½ bloc (C1 ciblée) | à évaluer | 7 | 0,8 % | P4 | ven 20/11 | mer 25/11 | ven 27/11 | ven 04/12 (flash) | ⬜ |
+| PSY07 | L'annonce d'une maladie grave | Psychologie | Rencontre avec le patient | ? p. · ½ bloc (C1 ciblée) | à évaluer | 4 | 0,4 % | P4 | ven 20/11 | mer 25/11 | ven 27/11 | ven 04/12 (flash) | ⬜ |
 
 ### 12.2 Tableau de progression — UEI 1
 
@@ -942,10 +946,10 @@ Maîtrise : 1 = fragile · 2 = correct · 3 = solide (auto-évaluation après QC
 | **S4** | 23/10 → 29/10 | B · Montée | SEM10 (P1, 73) en 2 blocs · Infection & température · synchro avec l'hôpital | 6 | 3 |  |  |  |  |  |  | ☐ |  |  |
 | **S5** | 30/10 → 05/11 | C · Croisière + avance | Dim 01/11 férié = jour fort → PHY07 (P1) · semaine Cardio la plus dense (8 cours dont 3 légers) | 8 | 3 |  |  |  |  |  |  | ☐ |  |  |
 | **S6** | 06/11 → 12/11 | C · Croisière + avance | BIO04 (P1) · examen physique du cœur · HTA | 6 | 3 |  |  |  |  |  |  | ☐ |  |  |
-| **S7** | 13/11 → 19/11 | C' · Arrêt des modules mi-S7 | Modules jusqu'au dim 15/11 puis STOP · temps libéré → C3 anticipées | 7 | 2 |  |  |  |  |  |  | ☐ |  |  |
-| **S8** | 20/11 → 26/11 | C' · Fin des C1 + C3 | 8 dernières C1 (dont 4 légères) avant mer 25/11 · jeu 26/11 = J-14 : début du recouchage · réserve : démarrer le recouchage sam 28/11 (J-12) | 8 | 0 |  |  |  |  |  |  | ☐ |  |  |
+| **S7** | 13/11 → 19/11 | C' · Arrêt des modules mi-S7 | Modules jusqu'au dim 15/11 puis STOP · temps libéré → C2 en retard, flashcards, rattrapage | 7 | 2 |  |  |  |  |  |  | ☐ |  |  |
+| **S8** | 20/11 → 26/11 | C' · Fin des C1 + C2 | 8 dernières C1 (dont 4 légères) avant mer 25/11 · jeu 26/11 = J-14 : début du recouchage · réserve : démarrer le recouchage sam 28/11 (J-12) | 8 | 0 |  |  |  |  |  |  | ☐ |  |  |
 | **S9** | 27/11 → 03/12 | D · Recouchage passage 1 (C3) | Repasser TOUTE l'unité en C3 + 6 cas cliniques | 0 | 0 |  |  |  |  |  |  | ☐ |  |  |
-| **S10** | 04/12 → 09/12 · EXAMEN jeu 10/12 | E · Recouchage passage 2 (C4) | C4 complète + passage éclair P1 · examen jeu 10/12 | 0 | 0 |  |  |  |  |  |  | ☐ |  |  |
+| **S10** | 04/12 → 09/12 · EXAMEN jeu 10/12 | E · Recouchage passage 2 (C4) · semaine INTENSE | C4 complète + passage éclair P1 · examen jeu 10/12 | 0 | 0 |  |  |  |  |  |  | ☐ |  |  |
 | **S11** | 11/12 → 17/12 | Repos + sprint modules + début UEI2 (lun 14/12) | Ven 11/12 repos · 12–13/12 : fin Hôte ↔ microbes + SNA I · puis virus (bases) + paludisme | ? | 8 |  |  |  |  |  |  | ☐ |  |  |
 | **S12** | 18/12 → 24/12 | UEI2 + modules | Antibiotiques (Micro + Pharma) · Toxicité & vigilance · Prévention, hygiène & diagnostic | ? | 7 |  |  |  |  |  |  | ☐ |  |  |
 | **S13** | 25/12 → 31/12 | UEI2 + modules | Toxicité & vigilance · Peau & muqueuses · Prévention, hygiène & diagnostic | ? | 7 |  |  |  |  |  |  | ☐ |  |  |
@@ -1005,8 +1009,8 @@ Non fait :        ...  → envoyé au tampon / vendredi
 | **Pages relevées** | Volume faible → ½ bloc ; élevé → 2 blocs sur 2 jours ; je recalcule les semaines. |
 | **Retard > 1 semaine dans une matière** | Le créneau Bio/Psy du dimanche passe à la matière en retard (pondérée par son poids) jusqu'au rattrapage. |
 | **Vacances annoncées** | Mode vacances (Partie 6.5). |
-| **Mi-S7** (lun 16/11) | **Arrêt total des modules** jusqu'au 10/12. Créneaux modules → C3 Cardio. |
-| **J-14** (jeu 26/11) | Plus aucun nouveau cours ; recouchage en 2 passages (C3 puis C4). Si une C1 n'est pas finie le 25/11 : C1 ciblée le 26/11 au lieu de sa C3. |
+| **Mi-S7** (lun 16/11) | **Arrêt total des modules** jusqu'au 10/12. Créneaux modules → C2 en retard + rattrapage Cardio. |
+| **J-14** (jeu 26/11) | Plus aucun nouveau cours ; recouchage en 2 passages (C3 puis C4). Si une C1 n'est pas finie le 25/11 : C1 ciblée le 26/11 avant sa C3. **Jeu 03/12 → mer 09/12 : semaine intense, pas de repos.** |
 
 ### 13.3 Contrôle automatique de chaque semaine (avant de la valider)
 
@@ -1039,7 +1043,7 @@ Envoie-moi simplement, par exemple :
 - **S5 et S8 sont les semaines les plus denses** (8 cours de Cardio chacune, dont 3–4 légers) : elles portent le retard de la convalescence. Soupapes : PSY02 → S6 ; en S8, la réserve du recouchage (démarrage à J-12).
 - **Les modules ne seront pas en avance au 10/12** (≈ 16/73 au 13/12, à cause de la convalescence et de l'arrêt à mi-S7 ; 6 cours sans créneau). C'est le risque n°1 du semestre : ~6–7 cours de modules/semaine pendant l'UEI 2, examens de février juste après l'UEI 2, probable début de Ramadan. Il faudra des vacances, les stats Medspace des modules, ou la liste de l'UEI 2 pour équilibrer.
 - **Convalescence** : le planning de reprise (07/10 → 15/10) est volontairement léger. Si la récupération est plus lente, on étale S2 sur S3 et on utilise la réserve du recouchage (J-12), **jamais** des soirées plus longues.
-- **Le gain** : 14 jours pleins de recouchage + ~1,5 semaine de C3 anticipées → chaque cours de Cardio passe au moins 4 fois (C1, C2, C3, C4), les P1 5 fois (+ passage éclair).
+- **Le gain** : 14 jours pleins de recouchage (dont une dernière semaine intense) → chaque cours de Cardio passe au moins 4 fois (C1 et C2 pendant le semestre, C3 et C4 au recouchage), les P1 5 fois (+ passage éclair).
 - **Le volume réel (pages) est inconnu** : le temps par cours est provisoire jusqu'à ton relevé de vendredi.
 
 **Version de survie** (semaine malade / imprévu) : Sémio ×2 + Physio ×1 + 1 module (priorité Para) + flashcards chaque jour. On coupe dans cet ordre : Psycho → P4 → C2 des modules (sauf Para) → Radio P3. **On ne coupe jamais : Sémio, flashcards, repos.**

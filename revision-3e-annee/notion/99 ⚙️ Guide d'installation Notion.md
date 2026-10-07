@@ -31,11 +31,11 @@ Notion importe tout en texte. Clique sur le nom de chaque colonne → **Type de 
 | Flashcards | Sélection | À créer · Créées · Complétées · En révision |
 | QCM (%) | Nombre | — |
 | Maîtrise | Sélection | 1 · fragile · 2 · correct · 3 · solide |
-| Date C1, Prochaine révision, Recouchage P1 (C3), Recouchage P2 (C4) | Date | — |
+| Date C1 (date réelle), Prochaine révision, C1 prévue, C2 prévue, C3 prévue (recouchage), C4 prévue (recouchage) | Date | Les dates « prévue » viennent du plan ; « Date C1 » = le jour où tu l'as vraiment faite |
 
 ### 🦠 Modules S1
 
-Mêmes types que ci-dessus, plus : **Module** (Sélection), **Partie** (Sélection), **Thème** (Sélection), **Ordre thématique** (Nombre), **Semaine prévue** (Sélection), **Vu en amphi** (Case à cocher).
+Mêmes types que ci-dessus (dont **C1 prévue → C4 prévue** en Date), plus : **Module** (Sélection), **Partie** (Sélection), **Thème** (Sélection), **Ordre thématique** (Nombre), **Semaine prévue** (Sélection), **Vu en amphi** (Case à cocher).
 
 ### 📅 Tableau de bord hebdomadaire
 
@@ -65,23 +65,25 @@ ifs(prop("Priorité") == "P1", 4, prop("Priorité") == "P2", 3, prop("Priorité"
 ```
 Plus le score est haut, plus le cours passe tôt. (Si tu renommes les options P1–P4 avec des emojis, adapte le texte entre guillemets.)
 
-### Dans 🫀 UEI1 — `Révision conseillée` (rappel des intervalles)
+### Dans 🫀 UEI1 — `Révision conseillée` (rappel des couches)
+
+Pendant le semestre : C1 + C2. Les C3 et C4 se font au recouchage.
 
 ```
-if(empty(prop("Date C1")), "—",
- if(not prop("C2"), "C2 le " + formatDate(dateAdd(prop("Date C1"), ifs(prop("Priorité") == "P1", 2, prop("Priorité") == "P2", 3, prop("Priorité") == "P3", 4, 6), "days"), "DD/MM"),
- if(not prop("C3"), "C3 le " + formatDate(dateAdd(prop("Date C1"), ifs(prop("Priorité") == "P1", 7, prop("Priorité") == "P2", 10, 14), "days"), "DD/MM"),
- if(not prop("C4"), "C4 au recouchage (" + formatDate(prop("Recouchage P2 (C4)"), "DD/MM") + ")", "✅ Couches terminées"))))
+if(empty(prop("Date C1")), "C1 prévue le " + formatDate(prop("C1 prévue"), "DD/MM"),
+ if(not prop("C2"), "C2 le " + formatDate(dateAdd(prop("Date C1"), ifs(prop("Priorité") == "P1", 1, prop("Priorité") == "P2", 2, prop("Priorité") == "P3", 3, 5), "days"), "DD/MM"),
+ if(not prop("C3"), "C3 au recouchage : " + formatDate(prop("C3 prévue (recouchage)"), "DD/MM"),
+ if(not prop("C4"), "C4 au recouchage : " + formatDate(prop("C4 prévue (recouchage)"), "DD/MM"), "✅ Couches terminées"))))
 ```
-Recopie ensuite la date proposée dans **Prochaine révision** : c'est elle qui alimente le calendrier.
+Recopie la date de C2 proposée dans **Prochaine révision** si ton C1 a glissé.
 
 ### Dans 🦠 Modules — `Révision conseillée`
 
 ```
-if(empty(prop("Date C1")), "—",
+if(empty(prop("Date C1")), "C1 prévue le " + formatDate(prop("C1 prévue"), "DD/MM"),
  if(not prop("C2"), "C2 le " + formatDate(dateAdd(prop("Date C1"), if(prop("Module") == "Parasitologie", 2, 3), "days"), "DD/MM"),
- if(not prop("C3"), "C3 le " + formatDate(dateAdd(prop("Date C1"), if(prop("Module") == "Parasitologie", 7, 10), "days"), "DD/MM"),
- if(not prop("C4"), "C4 avant l'examen", "✅ Couches terminées"))))
+ if(not prop("C3"), "C3 le " + formatDate(prop("C3 prévue"), "DD/MM"),
+ if(not prop("C4"), "C4 le " + formatDate(prop("C4 prévue"), "DD/MM"), "✅ Couches terminées"))))
 ```
 
 ### Dans 🫀 UEI1 — `J avant examen`
@@ -117,7 +119,7 @@ if(toNumber(prop("Unité — nb nouveaux")) + toNumber(prop("Modules — nb nouv
 | 🧱 **Kanban des couches** | Tableau Kanban | Groupé par **État** |
 | 📅 **Révisions** | Calendrier | Par **Prochaine révision** |
 | 🗓 **Par semaine** | Tableau Kanban | Groupé par **Semaine C1** |
-| 🔁 **Recouchage** | Calendrier | Par **Recouchage P1 (C3)**, puis une 2e vue par **Recouchage P2 (C4)** |
+| 🗓 **Plan C1 / C2 / C3 / C4** | Calendrier | 4 vues : par **C1 prévue**, **C2 prévue**, **C3 prévue (recouchage)**, **C4 prévue (recouchage)** |
 | 🔥 **À revoir** | Tableau | Filtre : État = 🔥 À revoir **ou** Maîtrise = 1 · fragile |
 | 🧩 **Par thème** | Tableau | Groupé par **Thème intégré** |
 
@@ -130,6 +132,7 @@ if(toNumber(prop("Unité — nb nouveaux")) + toNumber(prop("Modules — nb nouv
 | 🗓 **Cette semaine** | Tableau | Filtre : Semaine prévue = semaine en cours |
 | 🧱 **Kanban des couches** | Tableau Kanban | Groupé par **État** |
 | 📅 **Révisions** | Calendrier | Par **Prochaine révision** |
+| 🗓 **Plan C1 / C2 / C3 / C4** | Calendrier | 4 vues : par **C1 prévue**, **C2 prévue**, **C3 prévue**, **C4 prévue** |
 
 ### 📅 Tableau de bord hebdomadaire
 
