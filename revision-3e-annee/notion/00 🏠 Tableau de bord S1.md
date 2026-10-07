@@ -47,6 +47,7 @@
 - **Vendredi = jour faible** : révisions, QCM, flashcards, cours léger, bilan.
 - **Repos protégé** : jeudi soir + vendredi matin + samedi soir · **sauf la dernière semaine (03/12 → 09/12) : intense, pas de repos.**
 - **Couches** : C1 + C2 pendant le semestre, C3 + C4 au recouchage (voir 🧱 *Système de couches*).
+- **Recouchage de bloc** : dès qu'un bloc (ex. toute la Radio-techniques, les Chocs) ou un thème de module est fini → repassage complet dans la case du **mercredi** ou un **vendredi**. **Modules = 3 passages complets** (thèmes · C3 · C4).
 - **Jeudi matin = tampon** : on y rattrape, on n'y planifie rien d'avance.
 - **Stage** : ce jour-là, 1 bloc maximum ; le cours déplacé va au tampon.
 - **Flashcards chaque jour** (15–20 min, jamais plus de 25 nouvelles cartes par jour).

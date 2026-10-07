@@ -75,6 +75,25 @@ Arrêt **total** des modules du **lundi 16/11** au **jeudi 10/12** (examen UEI 1
 - [ ] **PHA18** · Les antidiabétiques — *S16*
 - [ ] **PHA19** · Les antihistaminiques — *S16*
 
+## 🔁 3 repassages complets du module
+
+| Passage | Quand | Comment |
+|---|---|---|
+| **1 · Recouchage par thème** | Dès qu'un thème est fini (C1 + C2) → dans la case révision du **mercredi** ou un **vendredi** (jour léger) | QCM mixtes du thème + reconstruire le tableau comparatif de mémoire |
+| **2 · C3 complète** | 28/01 → 10/02 (1 bloc/jour, par thème) | Annales + carnet d'erreurs |
+| **3 · C4 complète** | Les 2 derniers jours avant l'examen | Fiches 1 page + QCM chronométrés |
+
+**Passage 1 — dates des recouchages de thème :**
+
+- [ ] **T01 · Fondations pharmaco** — **mer 16/12**
+- [ ] **T05 · SNA I — cœur & vaisseaux** — **mer 30/12**
+- [ ] **T08 · Antibiotiques (Micro + Pharma)** — **ven 08/01**
+- [ ] **T09 · Toxicité & vigilance** — **mer 13/01**
+- [ ] **T11 · SNA II — neuro & muscle** — **mer 20/01**
+- [ ] **T14 · Inflammation, allergie & hormones** — *fini trop tard → fondu dans le passage 2 (C3)*
+
+*Les thèmes finis après le 25/01 n'ont pas de recouchage séparé : leur C2 récente + le passage 2 en tiennent lieu.*
+
 ## 📊 Suivi par couches
 
 | Cours | Semaine | État | C1 | C2 | C3 | C4 | Flashcards | QCM % | Maîtrise |

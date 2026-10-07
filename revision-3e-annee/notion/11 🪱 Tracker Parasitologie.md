@@ -94,6 +94,28 @@ Arrêt **total** des modules du **lundi 16/11** au **jeudi 10/12** (examen UEI 1
 
 - [ ] **PAR25** · SIDA et parasitoses, SIDA et mycoses — *⚠️ Sans créneau*
 
+## 🔁 3 repassages complets du module
+
+| Passage | Quand | Comment |
+|---|---|---|
+| **1 · Recouchage par thème** | Dès qu'un thème est fini (C1 + C2) → dans la case révision du **mercredi** ou un **vendredi** (jour léger) | QCM mixtes du thème + reconstruire le tableau comparatif de mémoire |
+| **2 · C3 complète** | 28/01 → 10/02 (1 bloc/jour, par thème) | Annales + carnet d'erreurs |
+| **3 · C4 complète** | Les 2 derniers jours avant l'examen | Fiches 1 page + QCM chronométrés |
+
+**Passage 1 — dates des recouchages de thème :**
+
+- [ ] **T03 · Hôte ↔ microbes** — **mer 23/12**
+- [ ] **T04 · Protozoaires intestinaux** — **ven 25/12**
+- [ ] **T07 · Fièvre & paludisme** — **mer 06/01**
+- [ ] **T10 · Peau & muqueuses** — **ven 15/01**
+- [ ] **T12 · Vecteurs & protozoaires sanguins/tissulaires** — **ven 22/01**
+- [ ] **T15 · Plathelminthes (cestodes & trématodes)** — *fini trop tard → fondu dans le passage 2 (C3)*
+- [ ] **T17 · Nématodes** — *fini trop tard → fondu dans le passage 2 (C3)*
+- [ ] **T19 · Mycoses profondes** — *fini trop tard → fondu dans le passage 2 (C3)*
+- [ ] **T21 · Immunodéprimé (synthèse)** — *fini trop tard → fondu dans le passage 2 (C3)*
+
+*Les thèmes finis après le 25/01 n'ont pas de recouchage séparé : leur C2 récente + le passage 2 en tiennent lieu.*
+
 ## 📊 Suivi par couches
 
 | Cours | Semaine | État | C1 | C2 | C3 | C4 | Flashcards | QCM % | Maîtrise |

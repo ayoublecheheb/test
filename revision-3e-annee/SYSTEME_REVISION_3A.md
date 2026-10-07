@@ -565,6 +565,42 @@ Le calendrier daté de chaque couche, cours par cours, est dans les pages Notion
 
 ---
 
+### 9.4 Recouchages de bloc et 3 passages complets
+
+**Principe (SMART) :** dès qu'un **bloc entier** est terminé (toutes ses C1 + C2), il est repassé **en entier** en 1 bloc de travail (QCM mixtes + tableau ou schéma de synthèse refait de mémoire), **dans une case déjà prévue** : le rappel intégré du **mercredi** ou le **vendredi** (jour léger). Il remplace le rappel de la semaine → aucune charge en plus. Les C2 ont été recalculées pour laisser ces cases libres.
+
+**UEI 1 — recouchages de bloc :**
+
+| Bloc | Fini le | Recouchage |
+|---|---|---|
+| U1 · Chocs (Physio) | mar 27/10 | **ven 30/10** |
+| U2 · Sémiologie respiratoire | mer 04/11 | **ven 06/11** |
+| U3 · Biochimie : bases | mer 04/11 | **mer 11/11** |
+| U4 · Imagerie : bases & techniques | sam 14/11 | **mer 18/11** |
+| U5 · Sémiologie cardiaque (signes) | mer 11/11 | **ven 13/11** |
+| U6 · Physiopathologie complète | mar 17/11 | **ven 20/11** |
+| U7 · Biochimie : athérosclérose & stress oxydant | mar 17/11 | fondu dans le recouchage de 14 jours |
+| U8 · Psychologie complète | mer 25/11 | fondu dans le recouchage de 14 jours |
+| U9 · Biochimie complète | mer 25/11 | fondu dans le recouchage de 14 jours |
+| U10 · Sémiologie vasculaire + synthèse CV | dim 22/11 | fondu dans le recouchage de 14 jours |
+| U11 · Imagerie du thorax (signes) | mer 25/11 | fondu dans le recouchage de 14 jours |
+
+→ Physio, Sémio respiratoire, Sémio cardiaque, Imagerie (techniques) et Biochimie (bases) ont **3 passages complets** (bloc + C3 + C4) ; les blocs finis après le 24/11 en ont 2, plus le passage éclair pour les P1.
+
+**Modules — 3 passages complets de chaque module :**
+
+| Passage | Quand |
+|---|---|
+| **1 · Recouchage par thème** | Dès qu'un thème est fini → case du mercredi ou vendredi (jamais pendant l'arrêt 16/11 → 11/12) |
+| **2 · C3 complète** | 28/01 → 10/02 (1 bloc/jour, par thème, Para en premier) |
+| **3 · C4 complète** | 12/02 → 17/02, juste avant chaque examen |
+
+Thèmes avec recouchage séparé : T01 (16/12) · T02 (18/12) · T03 (23/12) · T04 (25/12) · T05 (30/12) · T06 (01/01) · T07 (06/01) · T08 (08/01) · T09 (13/01) · T10 (15/01) · T11 (20/01) · T12 (22/01) · T13 (27/01). Les thèmes finis après le 25/01 (T14, T15, T16, T17, T18, T19, T20, T21) n'en ont pas : leur C2 récente + le passage 2 en tiennent lieu.
+
+Le détail daté est dans les pages Notion **🧱 Système de couches** et **🗓 Calendrier des couches — Modules**, et dans les trackers de chaque module.
+
+---
+
 ## PARTIE 10 — FLASHCARDS + QCM
 
 ### 10.1 Flashcards
@@ -1010,6 +1046,7 @@ Non fait :        ...  → envoyé au tampon / vendredi
 | **Retard > 1 semaine dans une matière** | Le créneau Bio/Psy du dimanche passe à la matière en retard (pondérée par son poids) jusqu'au rattrapage. |
 | **Vacances annoncées** | Mode vacances (Partie 6.5). |
 | **Mi-S7** (lun 16/11) | **Arrêt total des modules** jusqu'au 10/12. Créneaux modules → C2 en retard + rattrapage Cardio. |
+| **Un bloc est fini** (toutes ses C1 + C2) | **Recouchage de bloc** dans la prochaine case du mercredi (rappel) ou du vendredi (jour léger), 1 bloc de travail. Modules : jamais pendant l'arrêt. |
 | **J-14** (jeu 26/11) | Plus aucun nouveau cours ; recouchage en 2 passages (C3 puis C4). Si une C1 n'est pas finie le 25/11 : C1 ciblée le 26/11 avant sa C3. **Jeu 03/12 → mer 09/12 : semaine intense, pas de repos.** |
 
 ### 13.3 Contrôle automatique de chaque semaine (avant de la valider)

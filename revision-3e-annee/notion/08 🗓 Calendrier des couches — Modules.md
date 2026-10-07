@@ -8,6 +8,32 @@
 | 💊 Pharmacologie | **mar 16/02** | dim 14/02 après-midi (fondements + SNA) · lun 15/02 (classes) |
 | 🪱 Parasitologie | **jeu 18/02** | mar 16/02 après-midi (protozoaires + entomologie) · mer 17/02 (helminthes + mycologie) |
 
+## 🔁 3 passages complets par module
+
+| Passage | Quand | Comment |
+|---|---|---|
+| **1 · Recouchage par thème** | Dès qu'un thème est fini (C1 + C2) → case révision du **mercredi** ou **vendredi** (jour léger), jamais pendant l'arrêt (16/11 → 11/12) | QCM mixtes du thème + tableau comparatif refait de mémoire |
+| **2 · C3 complète** | 28/01 → 10/02, 1 bloc/jour, par thème, Para en premier | Annales + carnet d'erreurs |
+| **3 · C4 complète** | 12/02 → 17/02, juste avant chaque examen | Fiches 1 page + QCM chronométrés |
+
+### Passage 1 — recouchages de thème
+
+- [ ] **mer 16/12** · T01 Fondations pharmaco (PHA01, PHA02, PHA03, PHA04)
+- [ ] **ven 18/12** · T02 Bases bactériennes (BAC01, BAC02, BAC05, BAC06)
+- [ ] **mer 23/12** · T03 Hôte ↔ microbes (PAR01, BAC03, BAC04)
+- [ ] **ven 25/12** · T04 Protozoaires intestinaux (PAR02, PAR03, PAR04)
+- [ ] **mer 30/12** · T05 SNA I — cœur & vaisseaux (PHA08, PHA09, PHA10)
+- [ ] **ven 01/01** · T06 Virus : bases (VIR01, VIR02, VIR03)
+- [ ] **mer 06/01** · T07 Fièvre & paludisme (PAR07)
+- [ ] **ven 08/01** · T08 Antibiotiques (Micro + Pharma) (BAC07, PHA14, PHA15, BAC08, BAC09)
+- [ ] **mer 13/01** · T09 Toxicité & vigilance (PHA05, PHA06, PHA07)
+- [ ] **ven 15/01** · T10 Peau & muqueuses (BAC15, VIR04, PAR17, PAR18, PAR20, PAR22, VIR05)
+- [ ] **mer 20/01** · T11 SNA II — neuro & muscle (PHA11, PHA12, PHA13)
+- [ ] **ven 22/01** · T12 Vecteurs & protozoaires sanguins/tissulaires (PAR16, PAR05, PAR06, PAR08)
+- [ ] **mer 27/01** · T13 Virus respiratoires & éruptifs (VIR08)
+
+*Thèmes finis trop tard pour un recouchage séparé (leur C2 récente + le passage 2 en tiennent lieu) : T14 Inflammation, allergie & hormones, T15 Plathelminthes (cestodes & trématodes), T16 Bactéries pathogènes (agents), T17 Nématodes, T18 Virus à ARN & hépatites, T19 Mycoses profondes, T20 Prévention, hygiène & diagnostic, T21 Immunodéprimé (synthèse).*
+
 ## 🔵 C1 — Apprentissage
 
 ### S3 · 16/10 → 22/10
@@ -113,22 +139,22 @@
 
 ### S5 · 30/10 → 05/11
 - [ ] **sam 31/10** · 🦠 BAC02 Structure bactérienne
-- [ ] **sam 31/10** · 🪱 PAR01 Introduction à la parasitologie
+- [ ] **dim 01/11** · 🪱 PAR01 Introduction à la parasitologie
 - [ ] **dim 01/11** · 💊 PHA02 ADME
 
 ### S6 · 06/11 → 12/11
 - [ ] **ven 06/11** · 🪱 PAR02 Amibes, amoebose, amibes libres
-- [ ] **sam 07/11** · 🦠 BAC05 Physiologie bactérienne
-- [ ] **dim 08/11** · 💊 PHA03 Pharmacocinétique
-- [ ] **mer 11/11** · 🦠 BAC06 Génétique bactérienne
+- [ ] **sam 07/11** · 💊 PHA03 Pharmacocinétique
+- [ ] **dim 08/11** · 🦠 BAC05 Physiologie bactérienne
 
 ### S7 · 13/11 → 19/11
 - [ ] **ven 13/11** · 🪱 PAR03 Flagellés intestinaux et urogénitaux, ciliés
-- [ ] **ven 13/11** · 💊 PHA04 Pharmacodynamie
+- [ ] **sam 14/11** · 🦠 BAC06 Génétique bactérienne
 
 ### S11 · 11/12 → 17/12
 - [ ] **sam 12/12** · 🦠 BAC03 Microbiote humain
 - [ ] **sam 12/12** · 🪱 PAR04 Cryptosporidiose, isosporose, sarcocystose, cyclosporose, blastocytose
+- [ ] **sam 12/12** · 💊 PHA04 Pharmacodynamie
 - [ ] **mar 15/12** · 🦠 BAC04 Manifestation du conflit hôte–bactérie
 - [ ] **mer 16/12** · 💊 PHA08 Présentation du SNA
 - [ ] **mer 16/12** · 💊 PHA09 Sympathomimétiques
