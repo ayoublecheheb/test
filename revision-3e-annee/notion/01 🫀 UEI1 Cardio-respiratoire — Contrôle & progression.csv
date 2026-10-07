@@ -1,5 +1,5 @@
 Cours,ID,Matière,Thème intégré,Semaine C1,Priorité,Tombabilité (QCM 2019-25),Note tombabilité,Part UEI1 (%),Charge C1 prévue,Pages,Difficulté,État,Vu à l'hôpital,C1,C2,C3,C4,Flashcards,QCM (%),Maîtrise,Date C1,Prochaine révision,Recouchage P1 (C3),Recouchage P2 (C4),Notes
-SEM01 · Introduction à la sémiologie médicale + anamnèse,SEM01,Sémiologie,Rencontre avec le patient,S1,P2,,non indiquée dans les sources → P2 par défaut,,1 bloc,,,🟡 Vu (non étudié),Yes,No,No,No,No,À créer,,,2026-10-07,2026-10-09,2026-11-28,2026-12-05,Hypothèse : cours vu = n°01 (à confirmer)
+SEM01 · Introduction à la sémiologie médicale + anamnèse,SEM01,Sémiologie,Rencontre avec le patient,S1,P2,,non indiquée dans les sources → P2 par défaut,,1 bloc,,,🟡 Vu (non étudié),Yes,No,No,No,No,À créer,,,2026-10-07,2026-10-09,2026-11-28,2026-12-05,Vu en amphi (cours d'introduction) · seul cours vu au 07/10
 SEM02 · Sémiologie pondérale,SEM02,Sémiologie,"Volume, eau & sodium",S2,P2,43,chiffre commun 02+03,4.8,1 bloc,,,⬜ Non commencé,No,No,No,No,No,À créer,,,2026-10-10,2026-10-11,2026-11-28,2026-12-05,
 SEM03 · Fièvre,SEM03,Sémiologie,Fièvre & infection,S2,P2,43,chiffre commun 02+03,4.8,1 bloc,,,⬜ Non commencé,No,No,No,No,No,À créer,,,2026-10-11,2026-10-13,2026-11-28,2026-12-05,
 SEM04 · Topographie du thorax,SEM04,Sémiologie,Respiratoire clinique,S2,P2,,non indiquée dans les sources → P2 par défaut,,1 bloc,,,⬜ Non commencé,No,No,No,No,No,À créer,,,2026-10-13,2026-10-16,2026-11-28,2026-12-05,
@@ -17,7 +17,7 @@ SEM11 · Hémodynamique intracardiaque,SEM11,Sémiologie,Chocs & cœur aigu,S5,P
 SEM16 · Sémiologie artérielle et veineuse,SEM16,Sémiologie,Vaisseaux & athérosclérose,S7,P1,39,,4.4,"1,5–2 blocs",,,⬜ Non commencé,No,No,No,No,No,À créer,,,,,2026-12-03,2026-12-06,
 SEM17 · Exploration cardiaque,SEM17,Sémiologie,Cœur clinique,S7,P4,2,,0.2,½ bloc (C1 ciblée),,,⬜ Non commencé,No,No,No,No,No,À créer,,,,,2026-12-03,2026-12-06,
 SEM18 · Étude synthétique de l'appareil cardio-vasculaire,SEM18,Sémiologie,Cœur clinique,S8,P1,37,,4.1,2 blocs (synthèse),,,⬜ Non commencé,No,No,No,No,No,À créer,,,,,2026-12-03,2026-12-06,
-PHY01 · Choc hypovolémique,PHY01,Physiopathologie,"Volume, eau & sodium",S1,P3,13,,1.5,1 bloc,,,🟡 Vu (non étudié),Yes,No,No,No,No,À créer,,,2026-10-08,2026-10-09,2026-11-26,2026-12-07,Hypothèse : cours vu = n°01 (à confirmer)
+PHY01 · Choc hypovolémique,PHY01,Physiopathologie,"Volume, eau & sodium",S1,P3,13,,1.5,1 bloc,,,⬜ Non commencé,No,No,No,No,No,À créer,,,2026-10-08,2026-10-09,2026-11-26,2026-12-07,
 PHY02 · Choc cardiogénique,PHY02,Physiopathologie,Chocs & cœur aigu,S2,P2,22,,2.5,1 bloc,,,⬜ Non commencé,No,No,No,No,No,À créer,,,2026-10-10,2026-10-12,2026-11-26,2026-12-07,
 PHY03 · Insuffisance cardiaque aiguë,PHY03,Physiopathologie,Chocs & cœur aigu,S2,P3,18,,2.0,1 bloc,,,⬜ Non commencé,No,No,No,No,No,À créer,,,2026-10-12,2026-10-14,2026-11-26,2026-12-07,
 PHY04 · Choc anaphylactique,PHY04,Physiopathologie,Chocs & cœur aigu,S3,P2,20,,2.2,1 bloc,,,⬜ Non commencé,No,No,No,No,No,À créer,,,,,2026-11-26,2026-12-07,

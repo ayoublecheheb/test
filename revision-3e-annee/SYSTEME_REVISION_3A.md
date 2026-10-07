@@ -44,12 +44,12 @@ Document construit le **jeudi 01/10/2026**. Le programme démarre **demain, vend
 | Enseignement UEI 1 | du dim 27/09/2026 au jeu 03/12/2026 → **la semaine 1 d'enseignement est terminée** | [PROG] |
 | Révision officielle | du 03/12 au 09/12/2026 | [PROG] |
 | **Examen UEI 1** | **jeudi 10/12/2026** → **J-64** au mercredi 07/10 (reprise) | [PROG] |
-| Cours vus à l'hôpital / en amphi | ~1 Physiopathologie, ~1 Sémiologie | toi |
+| Cours vus à l'hôpital / en amphi | **1 seul** : SEM01 Introduction à la sémiologie (cours d'introduction) | toi (confirmé le 07/10) |
 | Cours réellement étudiés | **0** | toi |
 | **Santé** | Maladie + chirurgie jusqu'au 07/10 → **reprise progressive à partir du mer 07/10** ; cours manqués pendant l'absence = ⬜ *non vus* | toi |
 | Modules en parallèle | Microbiologie, Parasitologie, Pharmacologie (examens en février 2027) | [PROG] |
 
-**Statut de départ :** tu pars de zéro avec un léger retard structurel (la semaine 1 est passée). Les 2 cours vus sont classés 🟡 *Vu mais non étudié*. Hypothèse provisoire : ce sont **PHY01 Choc hypovolémique** et **SEM01 Introduction + anamnèse** (premiers de la liste) → **à confirmer**.
+**Statut de départ (confirmé le 07/10) :** tu pars de **zéro dans toutes les matières et tous les modules**. Seul **SEM01 Introduction + anamnèse** a été vu en amphi → 🟡 *Vu mais non étudié*. Tous les autres cours, y compris ceux présentés pendant ton absence, sont ⬜ *non commencés / non vus*.
 
 ### 1.2 ⚠️ Incohérences détectées dans les sources
 
@@ -235,7 +235,7 @@ Pas de score décimal (les sources ne le permettent pas). Un niveau P1–P4 bas�
 
 | Phase | Semaines (ven → jeu) | Objectif | Nouveaux cours Cardio/sem. |
 |---|---|---|---:|
-| **A. Convalescence** | **S1** : mer 07/10 → jeu 08/10 | Mise en place + les 2 cours déjà vus, séances courtes | 2 |
+| **A. Convalescence** | **S1** : mer 07/10 → jeu 08/10 | Mise en place + SEM01 (déjà vu) + PHY01, séances courtes | 2 |
 | **A'. Reprise progressive** | **S2** : 09/10 → 15/10 | ~75 % de la capacité, **Cardio seul** | 5 (+1 bonus) |
 | **B. Montée** | **S3–S4** : 16/10 → 29/10 | Démarrage des modules · synchronisation avec l'hôpital en S4 | 6–7 |
 | **C. Croisière + avance** | **S5–S6** : 30/10 → 12/11 | 1 cours d'avance en sémio ; C3 des premiers cours | 6–8 |
@@ -602,7 +602,7 @@ L'ancienne semaine 1 (02/10 → 08/10) n'a pas pu être faite (maladie + chirurg
 | 2 (10 min) | Flashcards : créer PHY01 · réviser SEM01 | Création + révision | — | Faible | Mémoire |
 | Soir | **REPOS** | | | | |
 
-**Cours 1 : PHY01** · C1 (déjà 🟡 vu) · Physiopathologie · Volume : à mesurer · Difficulté : à auto-évaluer · **Tombabilité : 13** (1,5 %) · *Pourquoi aujourd'hui ?* Déjà vu, et c'est la base de tous les chocs (PHY02, 04, 05).
+**Cours 1 : PHY01** · C1 (non vu : première découverte) · Physiopathologie · Volume : à mesurer · Difficulté : à auto-évaluer · **Tombabilité : 13** (1,5 %) · *Pourquoi aujourd'hui ?* Cours peu tombable donc sans pression un jour de convalescence, et c'est la base de tous les chocs (PHY02, 04, 05). Commence par une vidéo ou une lecture rapide du poly (= case C1 de ta fiche), puis étudie-le.
 **Flashcards :** ☑ À créer ☐ À compléter ☑ À réviser · **QCM :** ☑ Oui (5 QCM) · **Charge : très légère**
 
 ### Vendredi 09/10 — JOUR FAIBLE (reprise)
@@ -624,7 +624,7 @@ L'ancienne semaine 1 (02/10 → 08/10) n'a pas pu être faite (maladie + chirurg
 | 2 | **SEM02** Sémiologie pondérale | Nouveau (C1) | P2 | à mesurer | Relier à la volémie (hypovolémie ↔ poids) |
 | 3 (court) | Flashcards : créer PHY02 + SEM02 | Création | — | Faible | Mémoire |
 
-- **Cours 1 : PHY02** · C1 · Physiopathologie · **Tombabilité : 22** (2,5 %) · *Pourquoi ?* Thème « chocs » avec PHY01 (vu jeudi) ; prépare PHY03 de lundi.
+- **Cours 1 : PHY02** · C1 · Physiopathologie · **Tombabilité : 22** (2,5 %) · *Pourquoi ?* Thème « chocs » avec PHY01 (étudié jeudi) ; prépare PHY03 de lundi.
 - **Cours 2 : SEM02** · C1 · Sémiologie · **Tombabilité : 43 (commun avec SEM03)** · *Pourquoi ?* Thème « volume » avec PHY01 ; ouvre la paire SEM02-03.
 - **Flashcards :** ☑ À créer ×2 · **QCM :** ☑ Oui · **Charge : normale (allégée)**
 
@@ -735,7 +735,7 @@ Maîtrise : 1 = fragile · 2 = correct · 3 = solide (auto-évaluation après QC
 | SEM16 | Sémiologie artérielle et veineuse | Sémiologie | Vaisseaux & athérosclérose | ? p. · 1,5–2 blocs | à évaluer | 39 | 4,4 % | P1 | S7 | — | selon date de C1 | ⬜ | 03/12 · 06/12 |
 | SEM17 | Exploration cardiaque | Sémiologie | Cœur clinique | ? p. · ½ bloc (C1 ciblée) | à évaluer | 2 | 0,2 % | P4 | S7 | — | selon date de C1 | ⬜ | 03/12 · 06/12 |
 | SEM18 | Étude synthétique de l'appareil cardio-vasculaire | Sémiologie | Cœur clinique | ? p. · 2 blocs (synthèse) | à évaluer | 37 | 4,1 % | P1 | S8 | — | selon date de C1 | ⬜ | 03/12 · 06/12 |
-| PHY01 | Choc hypovolémique | Physiopathologie | Volume, eau & sodium | ? p. · 1 bloc | à évaluer | 13 | 1,5 % | P3 | S1 · 08/10 | — | C2 09/10 | 🟡 Vu | 26/11 · 07/12 |
+| PHY01 | Choc hypovolémique | Physiopathologie | Volume, eau & sodium | ? p. · 1 bloc | à évaluer | 13 | 1,5 % | P3 | S1 · 08/10 | — | C2 09/10 | ⬜ | 26/11 · 07/12 |
 | PHY02 | Choc cardiogénique | Physiopathologie | Chocs & cœur aigu | ? p. · 1 bloc | à évaluer | 22 | 2,5 % | P2 | S2 · 10/10 | — | C2 12/10 | ⬜ | 26/11 · 07/12 |
 | PHY03 | Insuffisance cardiaque aiguë | Physiopathologie | Chocs & cœur aigu | ? p. · 1 bloc | à évaluer | 18 | 2,0 % | P3 | S2 · 12/10 | — | C2 14/10 | ⬜ | 26/11 · 07/12 |
 | PHY04 | Choc anaphylactique | Physiopathologie | Chocs & cœur aigu | ? p. · 1 bloc | à évaluer | 20 | 2,2 % | P2 | S3 | — | selon date de C1 | ⬜ | 26/11 · 07/12 |
@@ -790,7 +790,7 @@ Maîtrise : 1 = fragile · 2 = correct · 3 = solide (auto-évaluation après QC
 | Sémiologie | SEM16 Sémiologie artérielle et veineuse | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
 | Sémiologie | SEM17 Exploration cardiaque | ⬜ | ? p. | ☐ | ☐ | ☐ | — (flash) | ☐ | ☐ | –/3 |
 | Sémiologie | SEM18 Étude synthétique de l'appareil cardio-vasculaire | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Physiopathologie | PHY01 Choc hypovolémique | 🟡 | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| Physiopathologie | PHY01 Choc hypovolémique | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
 | Physiopathologie | PHY02 Choc cardiogénique | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
 | Physiopathologie | PHY03 Insuffisance cardiaque aiguë | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
 | Physiopathologie | PHY04 Choc anaphylactique | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
@@ -1029,7 +1029,7 @@ Envoie-moi simplement, par exemple :
 ### Ce qu'il me faut de ta part pour affiner
 
 1. Ta **section** (A/B/C/D) et ton **service de sémiologie** → jours exacts des amphis/sémio.
-2. **Les 2 cours vus** : est-ce bien PHY01 et SEM01 ? Et quels cours de modules ont déjà été présentés en amphi ?
+2. ~~Les cours vus~~ ✅ confirmé : seul SEM01. Dis-moi seulement **quel cours de Micro a été présenté en premier en amphi** (pour l'ordre de la file).
 3. **Le nombre de pages** de chaque cours (relevé de vendredi).
 4. Les **dates de stage** et d'éventuelles **vacances** dès qu'elles sont annoncées.
 5. Si possible : les **statistiques Medspace des modules** et la **liste des cours de l'UEI 2**.
