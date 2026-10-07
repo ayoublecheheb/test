@@ -116,35 +116,35 @@ Arrêt **total** des modules du **lundi 16/11** au **jeudi 10/12** (examen UEI 1
 
 *Les thèmes finis après le 25/01 n'ont pas de recouchage séparé : leur C2 récente + le passage 2 en tiennent lieu.*
 
-## 📊 Suivi par couches
+## 📊 Suivi par couches (dates prévues)
 
-| Cours | Semaine | État | C1 | C2 | C3 | C4 | Flashcards | QCM % | Maîtrise |
+| Cours | C1 | C2 | Recouchage du thème | C3 | C4 | État | Flashcards | QCM % | Maîtrise |
 |---|---|---|---|---|---|---|---|---|---|
-| PAR01 Introduction à la parasitologie | S4 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR02 Amibes, amoebose, amibes libres | S5 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR03 Flagellés intestinaux et urogénitaux, ciliés | S6 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR04 Cryptosporidiose, isosporose, sarcocystose, cyclosporose, blastocytose | S7 (dim 15/11) | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR05 Flagellés sanguicoles et tissulaires I : leishmanies et leishmanioses | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR06 Flagellés sanguicoles et tissulaires II : trypanosomes – trypanosomoses | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR07 Plasmodiums – paludisme | S11 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR08 Toxoplasme – toxoplasmose | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR09 Généralités sur les helminthes, cestodes adultes | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR10 Cestodes à l'état larvaire | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR11 Douves – distomatoses | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR12 Schistosomes – schistosomoses | S17 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR13 Nématodes à transmission per-os | S17 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR14 Nématodes à transmission transcutanée | S18 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR15 Filaires – filarioses | S18 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR16 Notion d'entomologie médicale | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR17 Introduction à la mycologie | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR18 Candida – candidoses, malasseziose | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR19 Cryptococcose, pneumocystose, microsporidioses | ⚠️ Sans créneau | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR20 Dermatophytes – dermatophyties | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR21 Aspergillus – aspergilloses | ⚠️ Sans créneau | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR22 Mycétomes, sporotrichose | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR23 Histoplasmoses, blastomycoses, coccidioïdomycose, paracoccidioïdomycose | ⚠️ Sans créneau | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR24 Mucormycoses, fusarioses, zygomycoses | ⚠️ Sans créneau | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PAR25 SIDA et parasitoses, SIDA et mycoses | ⚠️ Sans créneau | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
+| PAR01 Introduction à la parasitologie | ☐ mar 27/10 | ☐ dim 01/11 | ☐ mer 23/12 | ☐ jeu 28/01 | ☐ mar 16/02 | ⬜ | ☐ |  |  |
+| PAR02 Amibes, amoebose, amibes libres | ☐ mar 03/11 | ☐ ven 06/11 | ☐ ven 25/12 | ☐ ven 29/01 | ☐ mar 16/02 | ⬜ | ☐ |  |  |
+| PAR03 Flagellés intestinaux et urogénitaux, ciliés | ☐ mar 10/11 | ☐ ven 13/11 | ☐ ven 25/12 | ☐ ven 29/01 | ☐ mar 16/02 | ⬜ | ☐ |  |  |
+| PAR04 Cryptosporidiose, isosporose, sarcocystose, cyclosporose, blastocytose | ☐ dim 15/11 | ☐ sam 12/12 | ☐ ven 25/12 | ☐ ven 29/01 | ☐ mar 16/02 | ⬜ | ☐ |  |  |
+| PAR07 Plasmodiums – paludisme | ☐ mer 16/12 | ☐ ven 18/12 | ☐ mer 06/01 | ☐ sam 30/01 | ☐ mar 16/02 | ⬜ | ☐ |  |  |
+| PAR17 Introduction à la mycologie | ☐ mar 29/12 | ☐ ven 01/01 | ☐ ven 15/01 | ☐ lun 01/02 | ☐ mer 17/02 | ⬜ | ☐ |  |  |
+| PAR18 Candida – candidoses, malasseziose | ☐ mer 30/12 | ☐ ven 01/01 | ☐ ven 15/01 | ☐ lun 01/02 | ☐ mer 17/02 | ⬜ | ☐ |  |  |
+| PAR20 Dermatophytes – dermatophyties | ☐ sam 02/01 | ☐ lun 04/01 | ☐ ven 15/01 | ☐ lun 01/02 | ☐ mer 17/02 | ⬜ | ☐ |  |  |
+| PAR22 Mycétomes, sporotrichose | ☐ sam 02/01 | ☐ lun 04/01 | ☐ ven 15/01 | ☐ lun 01/02 | ☐ mer 17/02 | ⬜ | ☐ |  |  |
+| PAR16 Notion d'entomologie médicale | ☐ sam 09/01 | ☐ lun 11/01 | ☐ ven 22/01 | ☐ mar 02/02 | ☐ mar 16/02 | ⬜ | ☐ |  |  |
+| PAR05 Flagellés sanguicoles et tissulaires I : leishmanies et leishmanioses | ☐ sam 09/01 | ☐ lun 11/01 | ☐ ven 22/01 | ☐ mar 02/02 | ☐ mar 16/02 | ⬜ | ☐ |  |  |
+| PAR06 Flagellés sanguicoles et tissulaires II : trypanosomes – trypanosomoses | ☐ dim 10/01 | ☐ mar 12/01 | ☐ ven 22/01 | ☐ mar 02/02 | ☐ mar 16/02 | ⬜ | ☐ |  |  |
+| PAR08 Toxoplasme – toxoplasmose | ☐ lun 11/01 | ☐ mer 13/01 | ☐ ven 22/01 | ☐ mar 02/02 | ☐ mar 16/02 | ⬜ | ☐ |  |  |
+| PAR09 Généralités sur les helminthes, cestodes adultes | ☐ lun 18/01 | ☐ mer 20/01 | — (fondu dans C3) | ☐ mer 03/02 | ☐ mer 17/02 | ⬜ | ☐ |  |  |
+| PAR10 Cestodes à l'état larvaire | ☐ mar 19/01 | ☐ ven 22/01 | — (fondu dans C3) | ☐ mer 03/02 | ☐ mer 17/02 | ⬜ | ☐ |  |  |
+| PAR11 Douves – distomatoses | ☐ mer 20/01 | ☐ ven 22/01 | — (fondu dans C3) | ☐ mer 03/02 | ☐ mer 17/02 | ⬜ | ☐ |  |  |
+| PAR12 Schistosomes – schistosomoses | ☐ sam 23/01 | ☐ lun 25/01 | — (fondu dans C3) | ☐ mer 03/02 | ☐ mer 17/02 | ⬜ | ☐ |  |  |
+| PAR13 Nématodes à transmission per-os | ☐ mer 27/01 | ☐ ven 29/01 | — (fondu dans C3) | ☐ ven 05/02 | ☐ mer 17/02 | ⬜ | ☐ |  |  |
+| PAR14 Nématodes à transmission transcutanée | ☐ sam 30/01 | ☐ lun 01/02 | — (fondu dans C3) | ☐ ven 05/02 | ☐ mer 17/02 | ⬜ | ☐ |  |  |
+| PAR15 Filaires – filarioses | ☐ sam 30/01 | ☐ lun 01/02 | — (fondu dans C3) | ☐ ven 05/02 | ☐ mer 17/02 | ⬜ | ☐ |  |  |
+| PAR19 Cryptococcose, pneumocystose, microsporidioses | ☐ *(à placer)* | ☐ *(à placer)* | — (fondu dans C3) | ☐ sam 06/02 | ☐ mer 17/02 | ⬜ | ☐ |  |  |
+| PAR21 Aspergillus – aspergilloses | ☐ *(à placer)* | ☐ *(à placer)* | — (fondu dans C3) | ☐ sam 06/02 | ☐ mer 17/02 | ⬜ | ☐ |  |  |
+| PAR23 Histoplasmoses, blastomycoses, coccidioïdomycose, paracoccidioïdomycose | ☐ *(à placer)* | ☐ *(à placer)* | — (fondu dans C3) | ☐ sam 06/02 | ☐ mer 17/02 | ⬜ | ☐ |  |  |
+| PAR24 Mucormycoses, fusarioses, zygomycoses | ☐ *(à placer)* | ☐ *(à placer)* | — (fondu dans C3) | ☐ sam 06/02 | ☐ mer 17/02 | ⬜ | ☐ |  |  |
+| PAR25 SIDA et parasitoses, SIDA et mycoses | ☐ *(à placer)* | ☐ *(à placer)* | — (fondu dans C3) | ☐ dim 07/02 | ☐ mer 17/02 | ⬜ | ☐ |  |  |
 
 ## 🏁 Fin de semestre (proposition)
 

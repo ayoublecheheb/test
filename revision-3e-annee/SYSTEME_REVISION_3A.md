@@ -754,15 +754,17 @@ L'ancienne semaine 1 (02/10 → 08/10) n'a pas pu être faite (maladie + chirurg
 
 ### Semaine 3 en aperçu (ven 16/10 → jeu 22/10)
 
-| Créneau | Contenu |
-|---|---|
-| VEN 16 *(faible)* | **BIO01** Biochimie de l'homme sain (léger) · C2 SEM04 (+ PSY01 si fait) · bilan |
-| SAM 17 | **PHY04** Choc anaphylactique · **SEM05** SF respiratoires I · **BAC01** Introduction au monde microbien |
-| DIM 18 | **BIO02** Biomarqueurs cardiaques · C2 SEM05 |
-| LUN 19 | **SEM06** SF respiratoires II · **PHA01** Introduction à la pharmacologie |
-| MAR 20 | **RAD01** Tube à rayons X · C2 PHY04 + SEM06 |
-| MER 21 | **SEM07** Examen physique respiratoire I · rappel intégré « Cœur aigu » (PHY02-03 + BIO02) |
-| JEU 22 | Tampon (PSY01 si pas encore fait) · soir repos |
+*Mêmes dates que le calendrier des couches (page Notion 🧱 Système de couches).*
+
+| Créneau | Nouveaux cours (C1) | Révisions (C2 / bloc) |
+|---|---|---|
+| VEN 16 *(faible)* | **BIO01** Biochimie de l'homme sain | C2 SEM04 · C2 PSY01 · bilan |
+| SAM 17 | **SEM05** SF respiratoires I : dyspnée, douleurs thoraciques · **PHY04** Choc anaphylactique · **BAC01** Introduction au monde microbien | — |
+| DIM 18 | **BIO02** Biomarqueurs cardiaques | — |
+| LUN 19 | **SEM06** SF respiratoires II : toux, expectoration, vomique, hémoptysie, troubles de la voix · **PHA01** Introduction à la pharmacologie | — |
+| MAR 20 | **RAD01** Tube à rayons X, formation de l'image radiologique | C2 SEM05 · C2 PHY04 · C2 BIO02 |
+| MER 21 | **SEM07** Examen physique de l'appareil respiratoire I | C2 SEM06 · C2 BIO01 · C2 BAC01 |
+| JEU 22 | Tampon (PSY01 si pas encore fait) | soir repos |
 
 ## PARTIE 12 — TABLEAUX DE SUIVI
 
@@ -830,58 +832,58 @@ Maîtrise : 1 = fragile · 2 = correct · 3 = solide (auto-évaluation après QC
 
 ### 12.2 Tableau de progression — UEI 1
 
-| Matière | Cours | État | Volume | Couche 1 | Couche 2 | Couche 3 | Couche 4 | Flashcards | QCM | Maîtrise |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Sémiologie | SEM01 Introduction à la sémiologie médicale + anamnèse | 🟡 | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Sémiologie | SEM02 Sémiologie pondérale | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Sémiologie | SEM03 Fièvre | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Sémiologie | SEM04 Topographie du thorax | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Sémiologie | SEM05 SF respiratoires I : dyspnée, douleurs thoraciques | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Sémiologie | SEM06 SF respiratoires II : toux, expectoration, vomique, hémoptysie, troubles de la voix | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Sémiologie | SEM07 Examen physique de l'appareil respiratoire I | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Sémiologie | SEM08 Examen physique de l'appareil respiratoire II | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Sémiologie | SEM09 Explorations respiratoires | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Sémiologie | SEM10 Étude synthétique de l'appareil respiratoire | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Sémiologie | SEM11 Hémodynamique intracardiaque | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Sémiologie | SEM12 SF cardiaques I : dyspnée, précordialgies | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Sémiologie | SEM13 SF cardiaques II : palpitations, syncopes, lipothymies | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Sémiologie | SEM14 Signes physiques cardiaques I : palpation, inspection | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Sémiologie | SEM15 Signes physiques cardiaques II : percussion, auscultation | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Sémiologie | SEM16 Sémiologie artérielle et veineuse | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Sémiologie | SEM17 Exploration cardiaque | ⬜ | ? p. | ☐ | ☐ | ☐ | — (flash) | ☐ | ☐ | –/3 |
-| Sémiologie | SEM18 Étude synthétique de l'appareil cardio-vasculaire | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Physiopathologie | PHY01 Choc hypovolémique | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Physiopathologie | PHY02 Choc cardiogénique | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Physiopathologie | PHY03 Insuffisance cardiaque aiguë | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Physiopathologie | PHY04 Choc anaphylactique | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Physiopathologie | PHY05 Choc septique | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Physiopathologie | PHY06 Thermorégulation | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Physiopathologie | PHY07 Troubles hydro-sodés | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Physiopathologie | PHY08 Hypertension artérielle | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Physiopathologie | PHY09 Maladie thromboembolique | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Radiologie | RAD01 Tube à rayons X, formation de l'image radiologique | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Radiologie | RAD02 Initiation à l'imagerie en coupe : TDM et IRM | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Radiologie | RAD03 Échographie | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Radiologie | RAD04 Exploration du cœur et des gros vaisseaux | ⬜ | ? p. | ☐ | ☐ | ☐ | — (flash) | ☐ | ☐ | –/3 |
-| Radiologie | RAD05 Techniques d'examens radiologiques du thorax | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Radiologie | RAD06 Anatomie lobaire et segmentaire | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Radiologie | RAD07 Signe du bronchogramme aérique | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Radiologie | RAD08 Signe de la silhouette | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Radiologie | RAD09 Atélectasie lobaire et segmentaire | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Radiologie | RAD10 Pathologie pleurale et extra-pleurale | ⬜ | ? p. | ☐ | ☐ | ☐ | — (flash) | ☐ | ☐ | –/3 |
-| Biochimie | BIO01 Biochimie de l'homme sain | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Biochimie | BIO02 Biomarqueurs cardiaques | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Biochimie | BIO03 L'acte biochimique et pièges d'interprétation | ⬜ | ? p. | ☐ | ☐ | ☐ | — (flash) | ☐ | ☐ | –/3 |
-| Biochimie | BIO04 Dyslipidémies et athérosclérose | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Biochimie | BIO05 Stress oxydant | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Biochimie | BIO06 Liquides d'épanchement | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Psychologie | PSY01 Aspects communicationnels de la rencontre avec le malade et sa famille, examen mental | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Psychologie | PSY02 Problèmes particuliers de l'entrevue | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Psychologie | PSY03 Stress et maladies psychosomatiques | ⬜ | ? p. | ☐ | ☐ | ☐ | — (flash) | ☐ | ☐ | –/3 |
-| Psychologie | PSY04 Fonctionnement de la personnalité | ⬜ | ? p. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| Psychologie | PSY05 Psychologie de la prescription | ⬜ | ? p. | ☐ | ☐ | ☐ | — (flash) | ☐ | ☐ | –/3 |
-| Psychologie | PSY06 Psychologie de la douleur | ⬜ | ? p. | ☐ | ☐ | ☐ | — (flash) | ☐ | ☐ | –/3 |
-| Psychologie | PSY07 L'annonce d'une maladie grave | ⬜ | ? p. | ☐ | ☐ | ☐ | — (flash) | ☐ | ☐ | –/3 |
+| Matière | Cours | État | Volume | C1 | C2 | Recouchage de bloc | C3 (recouchage) | C4 (recouchage) | Flashcards | QCM | Maîtrise |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Sémiologie | SEM01 Introduction à la sémiologie médicale + anamnèse | 🟡 | ? p. | ☐ mer 07/10 | ☐ ven 09/10 | ☐ ven 06/11 | ☐ sam 28/11 | ☐ sam 05/12 | ☐ | ☐ | –/3 |
+| Sémiologie | SEM02 Sémiologie pondérale | ⬜ | ? p. | ☐ sam 10/10 | ☐ dim 11/10 | ☐ ven 06/11 | ☐ sam 28/11 | ☐ sam 05/12 | ☐ | ☐ | –/3 |
+| Sémiologie | SEM03 Fièvre | ⬜ | ? p. | ☐ dim 11/10 | ☐ mar 13/10 | ☐ ven 06/11 | ☐ sam 28/11 | ☐ sam 05/12 | ☐ | ☐ | –/3 |
+| Sémiologie | SEM04 Topographie du thorax | ⬜ | ? p. | ☐ mar 13/10 | ☐ ven 16/10 | ☐ ven 06/11 | ☐ sam 28/11 | ☐ sam 05/12 | ☐ | ☐ | –/3 |
+| Sémiologie | SEM05 SF respiratoires I : dyspnée, douleurs thoraciques | ⬜ | ? p. | ☐ sam 17/10 | ☐ mar 20/10 | ☐ ven 06/11 | ☐ sam 28/11 | ☐ sam 05/12 | ☐ | ☐ | –/3 |
+| Sémiologie | SEM06 SF respiratoires II : toux, expectoration, vomique, hémoptysie, troubles de la voix | ⬜ | ? p. | ☐ lun 19/10 | ☐ mer 21/10 | ☐ ven 06/11 | ☐ sam 28/11 | ☐ sam 05/12 | ☐ | ☐ | –/3 |
+| Sémiologie | SEM07 Examen physique de l'appareil respiratoire I | ⬜ | ? p. | ☐ mer 21/10 | ☐ sam 24/10 | ☐ ven 06/11 | ☐ sam 28/11 | ☐ sam 05/12 | ☐ | ☐ | –/3 |
+| Sémiologie | SEM08 Examen physique de l'appareil respiratoire II | ⬜ | ? p. | ☐ sam 24/10 | ☐ mer 04/11 | ☐ ven 06/11 | ☐ sam 28/11 | ☐ sam 05/12 | ☐ | ☐ | –/3 |
+| Sémiologie | SEM09 Explorations respiratoires | ⬜ | ? p. | ☐ lun 26/10 | ☐ dim 01/11 | ☐ ven 06/11 | ☐ sam 28/11 | ☐ sam 05/12 | ☐ | ☐ | –/3 |
+| Sémiologie | SEM10 Étude synthétique de l'appareil respiratoire | ⬜ | ? p. | ☐ mer 28/10 | ☐ sam 31/10 | ☐ ven 06/11 | ☐ dim 29/11 | ☐ sam 05/12 | ☐ | ☐ | –/3 |
+| Sémiologie | SEM11 Hémodynamique intracardiaque | ⬜ | ? p. | ☐ sam 31/10 | ☐ mar 03/11 | ☐ ven 13/11 | ☐ mer 02/12 | ☐ dim 06/12 | ☐ | ☐ | –/3 |
+| Sémiologie | SEM12 SF cardiaques I : dyspnée, précordialgies | ⬜ | ? p. | ☐ dim 01/11 | ☐ sam 07/11 | ☐ ven 13/11 | ☐ mer 02/12 | ☐ dim 06/12 | ☐ | ☐ | –/3 |
+| Sémiologie | SEM13 SF cardiaques II : palpitations, syncopes, lipothymies | ⬜ | ? p. | ☐ lun 02/11 | ☐ dim 08/11 | ☐ ven 13/11 | ☐ mer 02/12 | ☐ dim 06/12 | ☐ | ☐ | –/3 |
+| Sémiologie | SEM14 Signes physiques cardiaques I : palpation, inspection | ⬜ | ? p. | ☐ sam 07/11 | ☐ mar 10/11 | ☐ ven 13/11 | ☐ mer 02/12 | ☐ dim 06/12 | ☐ | ☐ | –/3 |
+| Sémiologie | SEM15 Signes physiques cardiaques II : percussion, auscultation | ⬜ | ? p. | ☐ lun 09/11 | ☐ mer 11/11 | ☐ ven 13/11 | ☐ mer 02/12 | ☐ dim 06/12 | ☐ | ☐ | –/3 |
+| Sémiologie | SEM16 Sémiologie artérielle et veineuse | ⬜ | ? p. | ☐ sam 14/11 | ☐ lun 16/11 | — (au recouchage) | ☐ jeu 03/12 | ☐ dim 06/12 | ☐ | ☐ | –/3 |
+| Sémiologie | SEM17 Exploration cardiaque | ⬜ | ? p. | ☐ ven 13/11 | ☐ mer 18/11 | — (au recouchage) | ☐ jeu 03/12 | ☐ ven 04/12 flash | ☐ | ☐ | –/3 |
+| Sémiologie | SEM18 Étude synthétique de l'appareil cardio-vasculaire | ⬜ | ? p. | ☐ sam 21/11 | ☐ dim 22/11 | — (au recouchage) | ☐ jeu 03/12 | ☐ dim 06/12 | ☐ | ☐ | –/3 |
+| Physiopathologie | PHY01 Choc hypovolémique | ⬜ | ? p. | ☐ jeu 08/10 | ☐ ven 09/10 | ☐ ven 30/10 + ☐ ven 20/11 | ☐ jeu 26/11 | ☐ lun 07/12 | ☐ | ☐ | –/3 |
+| Physiopathologie | PHY02 Choc cardiogénique | ⬜ | ? p. | ☐ sam 10/10 | ☐ lun 12/10 | ☐ ven 30/10 + ☐ ven 20/11 | ☐ jeu 26/11 | ☐ lun 07/12 | ☐ | ☐ | –/3 |
+| Physiopathologie | PHY03 Insuffisance cardiaque aiguë | ⬜ | ? p. | ☐ lun 12/10 | ☐ mer 14/10 | ☐ ven 30/10 + ☐ ven 20/11 | ☐ jeu 26/11 | ☐ lun 07/12 | ☐ | ☐ | –/3 |
+| Physiopathologie | PHY04 Choc anaphylactique | ⬜ | ? p. | ☐ sam 17/10 | ☐ mar 20/10 | ☐ ven 30/10 + ☐ ven 20/11 | ☐ jeu 26/11 | ☐ lun 07/12 | ☐ | ☐ | –/3 |
+| Physiopathologie | PHY05 Choc septique | ⬜ | ? p. | ☐ sam 24/10 | ☐ mar 27/10 | ☐ ven 30/10 + ☐ ven 20/11 | ☐ jeu 26/11 | ☐ lun 07/12 | ☐ | ☐ | –/3 |
+| Physiopathologie | PHY06 Thermorégulation | ⬜ | ? p. | ☐ dim 25/10 | ☐ mer 04/11 | ☐ ven 20/11 | ☐ lun 30/11 | ☐ lun 07/12 | ☐ | ☐ | –/3 |
+| Physiopathologie | PHY07 Troubles hydro-sodés | ⬜ | ? p. | ☐ dim 01/11 | ☐ mer 04/11 | ☐ ven 20/11 | ☐ lun 30/11 | ☐ lun 07/12 | ☐ | ☐ | –/3 |
+| Physiopathologie | PHY08 Hypertension artérielle | ⬜ | ? p. | ☐ sam 07/11 | ☐ dim 15/11 | ☐ ven 20/11 | ☐ lun 30/11 | ☐ lun 07/12 | ☐ | ☐ | –/3 |
+| Physiopathologie | PHY09 Maladie thromboembolique | ⬜ | ? p. | ☐ sam 14/11 | ☐ mar 17/11 | ☐ ven 20/11 | ☐ lun 30/11 | ☐ lun 07/12 | ☐ | ☐ | –/3 |
+| Radiologie | RAD01 Tube à rayons X, formation de l'image radiologique | ⬜ | ? p. | ☐ mar 20/10 | ☐ ven 23/10 | ☐ mer 18/11 | ☐ mar 01/12 | ☐ mar 08/12 | ☐ | ☐ | –/3 |
+| Radiologie | RAD02 Initiation à l'imagerie en coupe : TDM et IRM | ⬜ | ? p. | ☐ mar 27/10 | ☐ mer 04/11 | ☐ mer 18/11 | ☐ mar 01/12 | ☐ mar 08/12 | ☐ | ☐ | –/3 |
+| Radiologie | RAD03 Échographie | ⬜ | ? p. | ☐ mar 03/11 | ☐ sam 14/11 | ☐ mer 18/11 | ☐ mar 01/12 | ☐ mar 08/12 | ☐ | ☐ | –/3 |
+| Radiologie | RAD04 Exploration du cœur et des gros vaisseaux | ⬜ | ? p. | ☐ ven 30/10 | ☐ lun 09/11 | ☐ mer 18/11 | ☐ mar 01/12 | ☐ ven 04/12 flash | ☐ | ☐ | –/3 |
+| Radiologie | RAD05 Techniques d'examens radiologiques du thorax | ⬜ | ? p. | ☐ mar 10/11 | ☐ ven 13/11 | ☐ mer 18/11 | ☐ dim 29/11 | ☐ mar 08/12 | ☐ | ☐ | –/3 |
+| Radiologie | RAD06 Anatomie lobaire et segmentaire | ⬜ | ? p. | ☐ mar 17/11 | ☐ sam 21/11 | — (au recouchage) | ☐ dim 29/11 | ☐ mar 08/12 | ☐ | ☐ | –/3 |
+| Radiologie | RAD07 Signe du bronchogramme aérique | ⬜ | ? p. | ☐ mer 18/11 | ☐ dim 22/11 | — (au recouchage) | ☐ dim 29/11 | ☐ mar 08/12 | ☐ | ☐ | –/3 |
+| Radiologie | RAD08 Signe de la silhouette | ⬜ | ? p. | ☐ sam 21/11 | ☐ lun 23/11 | — (au recouchage) | ☐ dim 29/11 | ☐ mar 08/12 | ☐ | ☐ | –/3 |
+| Radiologie | RAD09 Atélectasie lobaire et segmentaire | ⬜ | ? p. | ☐ lun 23/11 | ☐ mer 25/11 | — (au recouchage) | ☐ jeu 03/12 | ☐ mar 08/12 | ☐ | ☐ | –/3 |
+| Radiologie | RAD10 Pathologie pleurale et extra-pleurale | ⬜ | ? p. | ☐ mar 24/11 | ☐ mer 25/11 | — (au recouchage) | ☐ jeu 03/12 | ☐ ven 04/12 flash | ☐ | ☐ | –/3 |
+| Biochimie | BIO01 Biochimie de l'homme sain | ⬜ | ? p. | ☐ ven 16/10 | ☐ mer 21/10 | ☐ mer 11/11 | ☐ ven 27/11 | ☐ mar 08/12 | ☐ | ☐ | –/3 |
+| Biochimie | BIO02 Biomarqueurs cardiaques | ⬜ | ? p. | ☐ dim 18/10 | ☐ mar 20/10 | ☐ mer 11/11 | ☐ ven 27/11 | ☐ mar 08/12 | ☐ | ☐ | –/3 |
+| Biochimie | BIO03 L'acte biochimique et pièges d'interprétation | ⬜ | ? p. | ☐ ven 30/10 | ☐ mer 04/11 | ☐ mer 11/11 | ☐ ven 27/11 | ☐ ven 04/12 flash | ☐ | ☐ | –/3 |
+| Biochimie | BIO04 Dyslipidémies et athérosclérose | ⬜ | ? p. | ☐ dim 08/11 | ☐ mer 11/11 | — (au recouchage) | ☐ mar 01/12 | ☐ mar 08/12 | ☐ | ☐ | –/3 |
+| Biochimie | BIO05 Stress oxydant | ⬜ | ? p. | ☐ dim 15/11 | ☐ mar 17/11 | — (au recouchage) | ☐ mar 01/12 | ☐ mar 08/12 | ☐ | ☐ | –/3 |
+| Biochimie | BIO06 Liquides d'épanchement | ⬜ | ? p. | ☐ dim 22/11 | ☐ mer 25/11 | — (au recouchage) | ☐ mar 01/12 | ☐ mar 08/12 | ☐ | ☐ | –/3 |
+| Psychologie | PSY01 Aspects communicationnels de la rencontre avec le malade et sa famille, examen mental | ⬜ | ? p. | ☐ mer 14/10 | ☐ ven 16/10 | — (au recouchage) | ☐ ven 27/11 | ☐ ven 04/12 | ☐ | ☐ | –/3 |
+| Psychologie | PSY02 Problèmes particuliers de l'entrevue | ⬜ | ? p. | ☐ sam 31/10 | ☐ ven 06/11 | — (au recouchage) | ☐ ven 27/11 | ☐ ven 04/12 | ☐ | ☐ | –/3 |
+| Psychologie | PSY03 Stress et maladies psychosomatiques | ⬜ | ? p. | ☐ ven 06/11 | ☐ mer 11/11 | — (au recouchage) | ☐ ven 27/11 | ☐ ven 04/12 flash | ☐ | ☐ | –/3 |
+| Psychologie | PSY04 Fonctionnement de la personnalité | ⬜ | ? p. | ☐ lun 16/11 | ☐ sam 21/11 | — (au recouchage) | ☐ ven 27/11 | ☐ ven 04/12 | ☐ | ☐ | –/3 |
+| Psychologie | PSY05 Psychologie de la prescription | ⬜ | ? p. | ☐ ven 20/11 | ☐ mer 25/11 | — (au recouchage) | ☐ ven 27/11 | ☐ ven 04/12 flash | ☐ | ☐ | –/3 |
+| Psychologie | PSY06 Psychologie de la douleur | ⬜ | ? p. | ☐ ven 20/11 | ☐ mer 25/11 | — (au recouchage) | ☐ ven 27/11 | ☐ ven 04/12 flash | ☐ | ☐ | –/3 |
+| Psychologie | PSY07 L'annonce d'une maladie grave | ⬜ | ? p. | ☐ ven 20/11 | ☐ mer 25/11 | — (au recouchage) | ☐ ven 27/11 | ☐ ven 04/12 flash | ☐ | ☐ | –/3 |
 
 ### 12.3 Tableau central + progression — UEI 2 Neuro-locomoteur-cutané
 
@@ -896,81 +898,81 @@ Maîtrise : 1 = fragile · 2 = correct · 3 = solide (auto-évaluation après QC
 
 *Tombabilité : non indiquée dans les sources pour les trois modules. VIR = Virologie, BAC = Bactériologie.*
 
-| # | Cours | Module | Thème | Semaine | État | C1 | C2 | C3 | C4 | Flashcards | QCM | Maîtrise |
+| # | Cours | Module | Thème | C1 | C2 | Recouchage du thème | C3 | C4 | État | Flashcards | QCM | Maîtrise |
 |---:|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | PHA01 Introduction à la pharmacologie | Pharmacologie | T01 Fondations pharmaco | S3 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 2 | PHA02 ADME | Pharmacologie | T01 Fondations pharmaco | S4 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 3 | PHA03 Pharmacocinétique | Pharmacologie | T01 Fondations pharmaco | S5 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 4 | PHA04 Pharmacodynamie | Pharmacologie | T01 Fondations pharmaco | S6 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 5 | BAC01 Introduction au monde microbien | Microbiologie | T02 Bases bactériennes | S3 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 6 | BAC02 Structure bactérienne | Microbiologie | T02 Bases bactériennes | S4 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 7 | BAC05 Physiologie bactérienne | Microbiologie | T02 Bases bactériennes | S5 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 8 | BAC06 Génétique bactérienne | Microbiologie | T02 Bases bactériennes | S6 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 9 | PAR01 Introduction à la parasitologie | Parasitologie | T03 Hôte ↔ microbes | S4 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 10 | BAC03 Microbiote humain | Microbiologie | T03 Hôte ↔ microbes | S7 (sam 14/11) | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 11 | BAC04 Manifestation du conflit hôte–bactérie | Microbiologie | T03 Hôte ↔ microbes | 12/12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 12 | PAR02 Amibes, amoebose, amibes libres | Parasitologie | T04 Protozoaires intestinaux | S5 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 13 | PAR03 Flagellés intestinaux et urogénitaux, ciliés | Parasitologie | T04 Protozoaires intestinaux | S6 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 14 | PAR04 Cryptosporidiose, isosporose, sarcocystose, cyclosporose, blastocytose | Parasitologie | T04 Protozoaires intestinaux | S7 (dim 15/11) | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 15 | PHA08 Présentation du SNA | Pharmacologie | T05 SNA I — cœur & vaisseaux | 13/12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 16 | PHA09 Sympathomimétiques | Pharmacologie | T05 SNA I — cœur & vaisseaux | 13/12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 17 | PHA10 Sympatholytiques | Pharmacologie | T05 SNA I — cœur & vaisseaux | S11 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 18 | VIR01 Virus : définition, structure et classification | Microbiologie | T06 Virus : bases | S11 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 19 | VIR02 Multiplication des virus dans l'organisme | Microbiologie | T06 Virus : bases | S11 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 20 | VIR03 Physiopathologie des infections virales | Microbiologie | T06 Virus : bases | S11 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 21 | PAR07 Plasmodiums – paludisme | Parasitologie | T07 Fièvre & paludisme | S11 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 22 | BAC07 Les antibiotiques : classification | Microbiologie | T08 Antibiotiques (Micro + Pharma) | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 23 | PHA14 Introduction à l'étude des antibiotiques | Pharmacologie | T08 Antibiotiques (Micro + Pharma) | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 24 | PHA15 Les antibiotiques | Pharmacologie | T08 Antibiotiques (Micro + Pharma) | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 25 | BAC08 Les antibiotiques : résistance | Microbiologie | T08 Antibiotiques (Micro + Pharma) | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 26 | BAC09 Rôle du laboratoire dans le suivi du traitement antibiotique | Microbiologie | T08 Antibiotiques (Micro + Pharma) | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 27 | PHA05 Toxicologie générale | Pharmacologie | T09 Toxicité & vigilance | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 28 | PHA06 Effets secondaires et médicaments | Pharmacologie | T09 Toxicité & vigilance | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 29 | PHA07 Pharmacovigilance | Pharmacologie | T09 Toxicité & vigilance | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 30 | BAC15 Cocci à Gram (+) et Gram (–) | Microbiologie | T10 Peau & muqueuses | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 31 | VIR04 Virus à ADN (I) : herpesviridae | Microbiologie | T10 Peau & muqueuses | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 32 | PAR17 Introduction à la mycologie | Parasitologie | T10 Peau & muqueuses | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 33 | PAR18 Candida – candidoses, malasseziose | Parasitologie | T10 Peau & muqueuses | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 34 | PAR20 Dermatophytes – dermatophyties | Parasitologie | T10 Peau & muqueuses | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 35 | PAR22 Mycétomes, sporotrichose | Parasitologie | T10 Peau & muqueuses | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 36 | VIR05 Virus à ADN (II) : adénovirus, papillomavirus, hepadnavirus | Microbiologie | T10 Peau & muqueuses | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 37 | PHA11 Parasympathomimétiques | Pharmacologie | T11 SNA II — neuro & muscle | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 38 | PHA12 Parasympatholytiques | Pharmacologie | T11 SNA II — neuro & muscle | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 39 | PHA13 Myorelaxants | Pharmacologie | T11 SNA II — neuro & muscle | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 40 | PAR16 Notion d'entomologie médicale | Parasitologie | T12 Vecteurs & protozoaires sanguins/tissulaires | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 41 | PAR05 Flagellés sanguicoles et tissulaires I : leishmanies et leishmanioses | Parasitologie | T12 Vecteurs & protozoaires sanguins/tissulaires | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 42 | PAR06 Flagellés sanguicoles et tissulaires II : trypanosomes – trypanosomoses | Parasitologie | T12 Vecteurs & protozoaires sanguins/tissulaires | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 43 | PAR08 Toxoplasme – toxoplasmose | Parasitologie | T12 Vecteurs & protozoaires sanguins/tissulaires | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 44 | VIR08 Virus à ARN (III) : orthomyxoviridae, paramyxoviridae | Microbiologie | T13 Virus respiratoires & éruptifs | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 45 | PHA16 Les anti-inflammatoires non stéroïdiens | Pharmacologie | T14 Inflammation, allergie & hormones | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 46 | PHA17 Les corticoïdes | Pharmacologie | T14 Inflammation, allergie & hormones | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 47 | PHA18 Les antidiabétiques | Pharmacologie | T14 Inflammation, allergie & hormones | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 48 | PHA19 Les antihistaminiques | Pharmacologie | T14 Inflammation, allergie & hormones | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 49 | PAR09 Généralités sur les helminthes, cestodes adultes | Parasitologie | T15 Plathelminthes (cestodes & trématodes) | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 50 | PAR10 Cestodes à l'état larvaire | Parasitologie | T15 Plathelminthes (cestodes & trématodes) | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 51 | PAR11 Douves – distomatoses | Parasitologie | T15 Plathelminthes (cestodes & trématodes) | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 52 | PAR12 Schistosomes – schistosomoses | Parasitologie | T15 Plathelminthes (cestodes & trématodes) | S17 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 53 | BAC16 Bacilles à Gram (–) I : entérobactéries, Pseudomonas, vibrionaceae | Microbiologie | T16 Bactéries pathogènes (agents) | S17 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 54 | BAC17 Bacilles à Gram (–) II : Haemophilus, Bordetella, Brucella, Campylobacter, Helicobacter, légionelles | Microbiologie | T16 Bactéries pathogènes (agents) | S17 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 55 | BAC18 Bacilles à Gram (+) : Listeria, Corynebacterium, Bacillus, mycobactéries | Microbiologie | T16 Bactéries pathogènes (agents) | S17 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 56 | BAC11 Les bactéries anaérobies | Microbiologie | T16 Bactéries pathogènes (agents) | S17 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 57 | PAR13 Nématodes à transmission per-os | Parasitologie | T17 Nématodes | S17 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 58 | PAR14 Nématodes à transmission transcutanée | Parasitologie | T17 Nématodes | S18 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 59 | PAR15 Filaires – filarioses | Parasitologie | T17 Nématodes | S18 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 60 | VIR06 Virus à ARN (I) : virus des hépatites C, A, D et E | Microbiologie | T18 Virus à ARN & hépatites | S18 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 61 | VIR07 Virus à ARN (II) : picornaviridae, rétroviridae | Microbiologie | T18 Virus à ARN & hépatites | S18 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 62 | PAR19 Cryptococcose, pneumocystose, microsporidioses | Parasitologie | T19 Mycoses profondes | ⚠️ Sans créneau | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 63 | PAR21 Aspergillus – aspergilloses | Parasitologie | T19 Mycoses profondes | ⚠️ Sans créneau | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 64 | PAR23 Histoplasmoses, blastomycoses, coccidioïdomycose, paracoccidioïdomycose | Parasitologie | T19 Mycoses profondes | ⚠️ Sans créneau | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 65 | PAR24 Mucormycoses, fusarioses, zygomycoses | Parasitologie | T19 Mycoses profondes | ⚠️ Sans créneau | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 66 | BAC10 Antiseptiques, désinfectants et stérilisation | Microbiologie | T20 Prévention, hygiène & diagnostic | Ven S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 67 | BAC12 Les vaccins bactériens | Microbiologie | T20 Prévention, hygiène & diagnostic | Ven S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 68 | BAC13 Hygiène hospitalière | Microbiologie | T20 Prévention, hygiène & diagnostic | Ven S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 69 | BAC14 Biosécurité et biosûreté dans un laboratoire de microbiologie | Microbiologie | T20 Prévention, hygiène & diagnostic | Ven S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 70 | VIR10 Traitement et prévention des infections virales | Microbiologie | T20 Prévention, hygiène & diagnostic | Ven S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 71 | BAC19 Diagnostic bactériologique | Microbiologie | T20 Prévention, hygiène & diagnostic | Ven S17 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 72 | VIR09 Diagnostic virologique | Microbiologie | T20 Prévention, hygiène & diagnostic | ⚠️ Sans créneau | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
-| 73 | PAR25 SIDA et parasitoses, SIDA et mycoses | Parasitologie | T21 Immunodéprimé (synthèse) | ⚠️ Sans créneau | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | –/3 |
+| 1 | PHA01 Introduction à la pharmacologie | Pharmacologie | T01 Fondations pharmaco | ☐ lun 19/10 | ☐ ven 23/10 | ☐ mer 16/12 | ☐ jeu 28/01 | ☐ dim 14/02 | ⬜ | ☐ | ☐ | –/3 |
+| 2 | PHA02 ADME | Pharmacologie | T01 Fondations pharmaco | ☐ lun 26/10 | ☐ dim 01/11 | ☐ mer 16/12 | ☐ jeu 28/01 | ☐ dim 14/02 | ⬜ | ☐ | ☐ | –/3 |
+| 3 | PHA03 Pharmacocinétique | Pharmacologie | T01 Fondations pharmaco | ☐ lun 02/11 | ☐ sam 07/11 | ☐ mer 16/12 | ☐ jeu 28/01 | ☐ dim 14/02 | ⬜ | ☐ | ☐ | –/3 |
+| 4 | PHA04 Pharmacodynamie | Pharmacologie | T01 Fondations pharmaco | ☐ lun 09/11 | ☐ sam 12/12 | ☐ mer 16/12 | ☐ jeu 28/01 | ☐ dim 14/02 | ⬜ | ☐ | ☐ | –/3 |
+| 5 | BAC01 Introduction au monde microbien | Microbiologie | T02 Bases bactériennes | ☐ sam 17/10 | ☐ mer 21/10 | ☐ ven 18/12 | ☐ sam 30/01 | ☐ ven 12/02 | ⬜ | ☐ | ☐ | –/3 |
+| 6 | BAC02 Structure bactérienne | Microbiologie | T02 Bases bactériennes | ☐ sam 24/10 | ☐ sam 31/10 | ☐ ven 18/12 | ☐ sam 30/01 | ☐ ven 12/02 | ⬜ | ☐ | ☐ | –/3 |
+| 7 | BAC05 Physiologie bactérienne | Microbiologie | T02 Bases bactériennes | ☐ sam 31/10 | ☐ dim 08/11 | ☐ ven 18/12 | ☐ sam 30/01 | ☐ ven 12/02 | ⬜ | ☐ | ☐ | –/3 |
+| 8 | BAC06 Génétique bactérienne | Microbiologie | T02 Bases bactériennes | ☐ sam 07/11 | ☐ sam 14/11 | ☐ ven 18/12 | ☐ sam 30/01 | ☐ ven 12/02 | ⬜ | ☐ | ☐ | –/3 |
+| 9 | PAR01 Introduction à la parasitologie | Parasitologie | T03 Hôte ↔ microbes | ☐ mar 27/10 | ☐ dim 01/11 | ☐ mer 23/12 | ☐ jeu 28/01 | ☐ mar 16/02 | ⬜ | ☐ | ☐ | –/3 |
+| 10 | BAC03 Microbiote humain | Microbiologie | T03 Hôte ↔ microbes | ☐ sam 14/11 | ☐ sam 12/12 | ☐ mer 23/12 | ☐ jeu 28/01 | ☐ ven 12/02 | ⬜ | ☐ | ☐ | –/3 |
+| 11 | BAC04 Manifestation du conflit hôte–bactérie | Microbiologie | T03 Hôte ↔ microbes | ☐ sam 12/12 | ☐ mar 15/12 | ☐ mer 23/12 | ☐ jeu 28/01 | ☐ ven 12/02 | ⬜ | ☐ | ☐ | –/3 |
+| 12 | PAR02 Amibes, amoebose, amibes libres | Parasitologie | T04 Protozoaires intestinaux | ☐ mar 03/11 | ☐ ven 06/11 | ☐ ven 25/12 | ☐ ven 29/01 | ☐ mar 16/02 | ⬜ | ☐ | ☐ | –/3 |
+| 13 | PAR03 Flagellés intestinaux et urogénitaux, ciliés | Parasitologie | T04 Protozoaires intestinaux | ☐ mar 10/11 | ☐ ven 13/11 | ☐ ven 25/12 | ☐ ven 29/01 | ☐ mar 16/02 | ⬜ | ☐ | ☐ | –/3 |
+| 14 | PAR04 Cryptosporidiose, isosporose, sarcocystose, cyclosporose, blastocytose | Parasitologie | T04 Protozoaires intestinaux | ☐ dim 15/11 | ☐ sam 12/12 | ☐ ven 25/12 | ☐ ven 29/01 | ☐ mar 16/02 | ⬜ | ☐ | ☐ | –/3 |
+| 15 | PHA08 Présentation du SNA | Pharmacologie | T05 SNA I — cœur & vaisseaux | ☐ dim 13/12 | ☐ mer 16/12 | ☐ mer 30/12 | ☐ dim 31/01 | ☐ dim 14/02 | ⬜ | ☐ | ☐ | –/3 |
+| 16 | PHA09 Sympathomimétiques | Pharmacologie | T05 SNA I — cœur & vaisseaux | ☐ dim 13/12 | ☐ mer 16/12 | ☐ mer 30/12 | ☐ dim 31/01 | ☐ dim 14/02 | ⬜ | ☐ | ☐ | –/3 |
+| 17 | PHA10 Sympatholytiques | Pharmacologie | T05 SNA I — cœur & vaisseaux | ☐ lun 14/12 | ☐ ven 18/12 | ☐ mer 30/12 | ☐ dim 31/01 | ☐ dim 14/02 | ⬜ | ☐ | ☐ | –/3 |
+| 18 | VIR01 Virus : définition, structure et classification | Microbiologie | T06 Virus : bases | ☐ lun 14/12 | ☐ ven 18/12 | ☐ ven 01/01 | ☐ lun 01/02 | ☐ ven 12/02 | ⬜ | ☐ | ☐ | –/3 |
+| 19 | VIR02 Multiplication des virus dans l'organisme | Microbiologie | T06 Virus : bases | ☐ mar 15/12 | ☐ ven 18/12 | ☐ ven 01/01 | ☐ lun 01/02 | ☐ ven 12/02 | ⬜ | ☐ | ☐ | –/3 |
+| 20 | VIR03 Physiopathologie des infections virales | Microbiologie | T06 Virus : bases | ☐ mar 15/12 | ☐ ven 18/12 | ☐ ven 01/01 | ☐ lun 01/02 | ☐ ven 12/02 | ⬜ | ☐ | ☐ | –/3 |
+| 21 | PAR07 Plasmodiums – paludisme | Parasitologie | T07 Fièvre & paludisme | ☐ mer 16/12 | ☐ ven 18/12 | ☐ mer 06/01 | ☐ sam 30/01 | ☐ mar 16/02 | ⬜ | ☐ | ☐ | –/3 |
+| 22 | BAC07 Les antibiotiques : classification | Microbiologie | T08 Antibiotiques (Micro + Pharma) | ☐ sam 19/12 | ☐ mar 22/12 | ☐ ven 08/01 | ☐ mer 03/02 | ☐ sam 13/02 | ⬜ | ☐ | ☐ | –/3 |
+| 23 | PHA14 Introduction à l'étude des antibiotiques | Pharmacologie | T08 Antibiotiques (Micro + Pharma) | ☐ sam 19/12 | ☐ mar 22/12 | ☐ ven 08/01 | ☐ mer 03/02 | ☐ lun 15/02 | ⬜ | ☐ | ☐ | –/3 |
+| 24 | PHA15 Les antibiotiques | Pharmacologie | T08 Antibiotiques (Micro + Pharma) | ☐ dim 20/12 | ☐ mer 23/12 | ☐ ven 08/01 | ☐ mer 03/02 | ☐ lun 15/02 | ⬜ | ☐ | ☐ | –/3 |
+| 25 | BAC08 Les antibiotiques : résistance | Microbiologie | T08 Antibiotiques (Micro + Pharma) | ☐ lun 21/12 | ☐ ven 25/12 | ☐ ven 08/01 | ☐ mer 03/02 | ☐ sam 13/02 | ⬜ | ☐ | ☐ | –/3 |
+| 26 | BAC09 Rôle du laboratoire dans le suivi du traitement antibiotique | Microbiologie | T08 Antibiotiques (Micro + Pharma) | ☐ mar 22/12 | ☐ ven 25/12 | ☐ ven 08/01 | ☐ mer 03/02 | ☐ sam 13/02 | ⬜ | ☐ | ☐ | –/3 |
+| 27 | PHA05 Toxicologie générale | Pharmacologie | T09 Toxicité & vigilance | ☐ mer 23/12 | ☐ sam 26/12 | ☐ mer 13/01 | ☐ jeu 04/02 | ☐ dim 14/02 | ⬜ | ☐ | ☐ | –/3 |
+| 28 | PHA06 Effets secondaires et médicaments | Pharmacologie | T09 Toxicité & vigilance | ☐ sam 26/12 | ☐ mar 29/12 | ☐ mer 13/01 | ☐ jeu 04/02 | ☐ dim 14/02 | ⬜ | ☐ | ☐ | –/3 |
+| 29 | PHA07 Pharmacovigilance | Pharmacologie | T09 Toxicité & vigilance | ☐ sam 26/12 | ☐ mar 29/12 | ☐ mer 13/01 | ☐ jeu 04/02 | ☐ dim 14/02 | ⬜ | ☐ | ☐ | –/3 |
+| 30 | BAC15 Cocci à Gram (+) et Gram (–) | Microbiologie | T10 Peau & muqueuses | ☐ dim 27/12 | ☐ mer 30/12 | ☐ ven 15/01 | ☐ lun 01/02 | ☐ sam 13/02 | ⬜ | ☐ | ☐ | –/3 |
+| 31 | VIR04 Virus à ADN (I) : herpesviridae | Microbiologie | T10 Peau & muqueuses | ☐ lun 28/12 | ☐ ven 01/01 | ☐ ven 15/01 | ☐ lun 01/02 | ☐ ven 12/02 | ⬜ | ☐ | ☐ | –/3 |
+| 32 | PAR17 Introduction à la mycologie | Parasitologie | T10 Peau & muqueuses | ☐ mar 29/12 | ☐ ven 01/01 | ☐ ven 15/01 | ☐ lun 01/02 | ☐ mer 17/02 | ⬜ | ☐ | ☐ | –/3 |
+| 33 | PAR18 Candida – candidoses, malasseziose | Parasitologie | T10 Peau & muqueuses | ☐ mer 30/12 | ☐ ven 01/01 | ☐ ven 15/01 | ☐ lun 01/02 | ☐ mer 17/02 | ⬜ | ☐ | ☐ | –/3 |
+| 34 | PAR20 Dermatophytes – dermatophyties | Parasitologie | T10 Peau & muqueuses | ☐ sam 02/01 | ☐ lun 04/01 | ☐ ven 15/01 | ☐ lun 01/02 | ☐ mer 17/02 | ⬜ | ☐ | ☐ | –/3 |
+| 35 | PAR22 Mycétomes, sporotrichose | Parasitologie | T10 Peau & muqueuses | ☐ sam 02/01 | ☐ lun 04/01 | ☐ ven 15/01 | ☐ lun 01/02 | ☐ mer 17/02 | ⬜ | ☐ | ☐ | –/3 |
+| 36 | VIR05 Virus à ADN (II) : adénovirus, papillomavirus, hepadnavirus | Microbiologie | T10 Peau & muqueuses | ☐ dim 03/01 | ☐ mer 06/01 | ☐ ven 15/01 | ☐ lun 01/02 | ☐ ven 12/02 | ⬜ | ☐ | ☐ | –/3 |
+| 37 | PHA11 Parasympathomimétiques | Pharmacologie | T11 SNA II — neuro & muscle | ☐ lun 04/01 | ☐ ven 08/01 | ☐ mer 20/01 | ☐ ven 05/02 | ☐ dim 14/02 | ⬜ | ☐ | ☐ | –/3 |
+| 38 | PHA12 Parasympatholytiques | Pharmacologie | T11 SNA II — neuro & muscle | ☐ mar 05/01 | ☐ ven 08/01 | ☐ mer 20/01 | ☐ ven 05/02 | ☐ dim 14/02 | ⬜ | ☐ | ☐ | –/3 |
+| 39 | PHA13 Myorelaxants | Pharmacologie | T11 SNA II — neuro & muscle | ☐ mer 06/01 | ☐ sam 09/01 | ☐ mer 20/01 | ☐ ven 05/02 | ☐ dim 14/02 | ⬜ | ☐ | ☐ | –/3 |
+| 40 | PAR16 Notion d'entomologie médicale | Parasitologie | T12 Vecteurs & protozoaires sanguins/tissulaires | ☐ sam 09/01 | ☐ lun 11/01 | ☐ ven 22/01 | ☐ mar 02/02 | ☐ mar 16/02 | ⬜ | ☐ | ☐ | –/3 |
+| 41 | PAR05 Flagellés sanguicoles et tissulaires I : leishmanies et leishmanioses | Parasitologie | T12 Vecteurs & protozoaires sanguins/tissulaires | ☐ sam 09/01 | ☐ lun 11/01 | ☐ ven 22/01 | ☐ mar 02/02 | ☐ mar 16/02 | ⬜ | ☐ | ☐ | –/3 |
+| 42 | PAR06 Flagellés sanguicoles et tissulaires II : trypanosomes – trypanosomoses | Parasitologie | T12 Vecteurs & protozoaires sanguins/tissulaires | ☐ dim 10/01 | ☐ mar 12/01 | ☐ ven 22/01 | ☐ mar 02/02 | ☐ mar 16/02 | ⬜ | ☐ | ☐ | –/3 |
+| 43 | PAR08 Toxoplasme – toxoplasmose | Parasitologie | T12 Vecteurs & protozoaires sanguins/tissulaires | ☐ lun 11/01 | ☐ mer 13/01 | ☐ ven 22/01 | ☐ mar 02/02 | ☐ mar 16/02 | ⬜ | ☐ | ☐ | –/3 |
+| 44 | VIR08 Virus à ARN (III) : orthomyxoviridae, paramyxoviridae | Microbiologie | T13 Virus respiratoires & éruptifs | ☐ mar 12/01 | ☐ ven 15/01 | ☐ mer 27/01 | ☐ dim 07/02 | ☐ ven 12/02 | ⬜ | ☐ | ☐ | –/3 |
+| 45 | PHA16 Les anti-inflammatoires non stéroïdiens | Pharmacologie | T14 Inflammation, allergie & hormones | ☐ mer 13/01 | ☐ sam 16/01 | — (fondu dans C3) | ☐ lun 08/02 | ☐ lun 15/02 | ⬜ | ☐ | ☐ | –/3 |
+| 46 | PHA17 Les corticoïdes | Pharmacologie | T14 Inflammation, allergie & hormones | ☐ sam 16/01 | ☐ mar 19/01 | — (fondu dans C3) | ☐ lun 08/02 | ☐ lun 15/02 | ⬜ | ☐ | ☐ | –/3 |
+| 47 | PHA18 Les antidiabétiques | Pharmacologie | T14 Inflammation, allergie & hormones | ☐ sam 16/01 | ☐ mar 19/01 | — (fondu dans C3) | ☐ lun 08/02 | ☐ lun 15/02 | ⬜ | ☐ | ☐ | –/3 |
+| 48 | PHA19 Les antihistaminiques | Pharmacologie | T14 Inflammation, allergie & hormones | ☐ dim 17/01 | ☐ mer 20/01 | — (fondu dans C3) | ☐ lun 08/02 | ☐ lun 15/02 | ⬜ | ☐ | ☐ | –/3 |
+| 49 | PAR09 Généralités sur les helminthes, cestodes adultes | Parasitologie | T15 Plathelminthes (cestodes & trématodes) | ☐ lun 18/01 | ☐ mer 20/01 | — (fondu dans C3) | ☐ mer 03/02 | ☐ mer 17/02 | ⬜ | ☐ | ☐ | –/3 |
+| 50 | PAR10 Cestodes à l'état larvaire | Parasitologie | T15 Plathelminthes (cestodes & trématodes) | ☐ mar 19/01 | ☐ ven 22/01 | — (fondu dans C3) | ☐ mer 03/02 | ☐ mer 17/02 | ⬜ | ☐ | ☐ | –/3 |
+| 51 | PAR11 Douves – distomatoses | Parasitologie | T15 Plathelminthes (cestodes & trématodes) | ☐ mer 20/01 | ☐ ven 22/01 | — (fondu dans C3) | ☐ mer 03/02 | ☐ mer 17/02 | ⬜ | ☐ | ☐ | –/3 |
+| 52 | PAR12 Schistosomes – schistosomoses | Parasitologie | T15 Plathelminthes (cestodes & trématodes) | ☐ sam 23/01 | ☐ lun 25/01 | — (fondu dans C3) | ☐ mer 03/02 | ☐ mer 17/02 | ⬜ | ☐ | ☐ | –/3 |
+| 53 | BAC16 Bacilles à Gram (–) I : entérobactéries, Pseudomonas, vibrionaceae | Microbiologie | T16 Bactéries pathogènes (agents) | ☐ sam 23/01 | ☐ mar 26/01 | — (fondu dans C3) | ☐ mar 09/02 | ☐ sam 13/02 | ⬜ | ☐ | ☐ | –/3 |
+| 54 | BAC17 Bacilles à Gram (–) II : Haemophilus, Bordetella, Brucella, Campylobacter, Helicobacter, légionelles | Microbiologie | T16 Bactéries pathogènes (agents) | ☐ dim 24/01 | ☐ mer 27/01 | — (fondu dans C3) | ☐ mar 09/02 | ☐ sam 13/02 | ⬜ | ☐ | ☐ | –/3 |
+| 55 | BAC18 Bacilles à Gram (+) : Listeria, Corynebacterium, Bacillus, mycobactéries | Microbiologie | T16 Bactéries pathogènes (agents) | ☐ lun 25/01 | ☐ ven 29/01 | — (fondu dans C3) | ☐ mar 09/02 | ☐ sam 13/02 | ⬜ | ☐ | ☐ | –/3 |
+| 56 | BAC11 Les bactéries anaérobies | Microbiologie | T16 Bactéries pathogènes (agents) | ☐ mar 26/01 | ☐ ven 29/01 | — (fondu dans C3) | ☐ mar 09/02 | ☐ sam 13/02 | ⬜ | ☐ | ☐ | –/3 |
+| 57 | PAR13 Nématodes à transmission per-os | Parasitologie | T17 Nématodes | ☐ mer 27/01 | ☐ ven 29/01 | — (fondu dans C3) | ☐ ven 05/02 | ☐ mer 17/02 | ⬜ | ☐ | ☐ | –/3 |
+| 58 | PAR14 Nématodes à transmission transcutanée | Parasitologie | T17 Nématodes | ☐ sam 30/01 | ☐ lun 01/02 | — (fondu dans C3) | ☐ ven 05/02 | ☐ mer 17/02 | ⬜ | ☐ | ☐ | –/3 |
+| 59 | PAR15 Filaires – filarioses | Parasitologie | T17 Nématodes | ☐ sam 30/01 | ☐ lun 01/02 | — (fondu dans C3) | ☐ ven 05/02 | ☐ mer 17/02 | ⬜ | ☐ | ☐ | –/3 |
+| 60 | VIR06 Virus à ARN (I) : virus des hépatites C, A, D et E | Microbiologie | T18 Virus à ARN & hépatites | ☐ dim 31/01 | ☐ mer 03/02 | — (fondu dans C3) | ☐ mar 09/02 | ☐ ven 12/02 | ⬜ | ☐ | ☐ | –/3 |
+| 61 | VIR07 Virus à ARN (II) : picornaviridae, rétroviridae | Microbiologie | T18 Virus à ARN & hépatites | ☐ lun 01/02 | ☐ ven 05/02 | — (fondu dans C3) | ☐ mar 09/02 | ☐ ven 12/02 | ⬜ | ☐ | ☐ | –/3 |
+| 62 | PAR19 Cryptococcose, pneumocystose, microsporidioses | Parasitologie | T19 Mycoses profondes | ☐ *(à placer)* | ☐ *(à placer)* | — (fondu dans C3) | ☐ sam 06/02 | ☐ mer 17/02 | ⬜ | ☐ | ☐ | –/3 |
+| 63 | PAR21 Aspergillus – aspergilloses | Parasitologie | T19 Mycoses profondes | ☐ *(à placer)* | ☐ *(à placer)* | — (fondu dans C3) | ☐ sam 06/02 | ☐ mer 17/02 | ⬜ | ☐ | ☐ | –/3 |
+| 64 | PAR23 Histoplasmoses, blastomycoses, coccidioïdomycose, paracoccidioïdomycose | Parasitologie | T19 Mycoses profondes | ☐ *(à placer)* | ☐ *(à placer)* | — (fondu dans C3) | ☐ sam 06/02 | ☐ mer 17/02 | ⬜ | ☐ | ☐ | –/3 |
+| 65 | PAR24 Mucormycoses, fusarioses, zygomycoses | Parasitologie | T19 Mycoses profondes | ☐ *(à placer)* | ☐ *(à placer)* | — (fondu dans C3) | ☐ sam 06/02 | ☐ mer 17/02 | ⬜ | ☐ | ☐ | –/3 |
+| 66 | BAC10 Antiseptiques, désinfectants et stérilisation | Microbiologie | T20 Prévention, hygiène & diagnostic | ☐ ven 18/12 | ☐ lun 21/12 | — (fondu dans C3) | ☐ mer 10/02 | ☐ sam 13/02 | ⬜ | ☐ | ☐ | –/3 |
+| 67 | BAC12 Les vaccins bactériens | Microbiologie | T20 Prévention, hygiène & diagnostic | ☐ ven 25/12 | ☐ lun 28/12 | — (fondu dans C3) | ☐ mer 10/02 | ☐ sam 13/02 | ⬜ | ☐ | ☐ | –/3 |
+| 68 | BAC13 Hygiène hospitalière | Microbiologie | T20 Prévention, hygiène & diagnostic | ☐ ven 01/01 | ☐ lun 04/01 | — (fondu dans C3) | ☐ mer 10/02 | ☐ sam 13/02 | ⬜ | ☐ | ☐ | –/3 |
+| 69 | BAC14 Biosécurité et biosûreté dans un laboratoire de microbiologie | Microbiologie | T20 Prévention, hygiène & diagnostic | ☐ ven 08/01 | ☐ lun 11/01 | — (fondu dans C3) | ☐ mer 10/02 | ☐ sam 13/02 | ⬜ | ☐ | ☐ | –/3 |
+| 70 | VIR10 Traitement et prévention des infections virales | Microbiologie | T20 Prévention, hygiène & diagnostic | ☐ ven 15/01 | ☐ lun 18/01 | — (fondu dans C3) | ☐ mer 10/02 | ☐ ven 12/02 | ⬜ | ☐ | ☐ | –/3 |
+| 71 | BAC19 Diagnostic bactériologique | Microbiologie | T20 Prévention, hygiène & diagnostic | ☐ ven 22/01 | ☐ lun 25/01 | — (fondu dans C3) | ☐ mer 10/02 | ☐ sam 13/02 | ⬜ | ☐ | ☐ | –/3 |
+| 72 | VIR09 Diagnostic virologique | Microbiologie | T20 Prévention, hygiène & diagnostic | ☐ *(à placer)* | ☐ *(à placer)* | — (fondu dans C3) | ☐ mer 10/02 | ☐ ven 12/02 | ⬜ | ☐ | ☐ | –/3 |
+| 73 | PAR25 SIDA et parasitoses, SIDA et mycoses | Parasitologie | T21 Immunodéprimé (synthèse) | ☐ *(à placer)* | ☐ *(à placer)* | — (fondu dans C3) | ☐ dim 07/02 | ☐ mer 17/02 | ⬜ | ☐ | ☐ | –/3 |
 
 ### 12.5 Tableau de bord hebdomadaire (à remplir chaque vendredi)
 

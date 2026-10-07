@@ -94,29 +94,29 @@ Arrêt **total** des modules du **lundi 16/11** au **jeudi 10/12** (examen UEI 1
 
 *Les thèmes finis après le 25/01 n'ont pas de recouchage séparé : leur C2 récente + le passage 2 en tiennent lieu.*
 
-## 📊 Suivi par couches
+## 📊 Suivi par couches (dates prévues)
 
-| Cours | Semaine | État | C1 | C2 | C3 | C4 | Flashcards | QCM % | Maîtrise |
+| Cours | C1 | C2 | Recouchage du thème | C3 | C4 | État | Flashcards | QCM % | Maîtrise |
 |---|---|---|---|---|---|---|---|---|---|
-| PHA01 Introduction à la pharmacologie | S3 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA02 ADME | S4 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA03 Pharmacocinétique | S5 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA04 Pharmacodynamie | S6 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA05 Toxicologie générale | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA06 Effets secondaires et médicaments | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA07 Pharmacovigilance | S13 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA08 Présentation du SNA | 13/12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA09 Sympathomimétiques | 13/12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA10 Sympatholytiques | S11 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA11 Parasympathomimétiques | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA12 Parasympatholytiques | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA13 Myorelaxants | S14 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA14 Introduction à l'étude des antibiotiques | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA15 Les antibiotiques | S12 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA16 Les anti-inflammatoires non stéroïdiens | S15 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA17 Les corticoïdes | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA18 Les antidiabétiques | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
-| PHA19 Les antihistaminiques | S16 | ⬜ | ☐ | ☐ | ☐ | ☐ | ☐ |  |  |
+| PHA01 Introduction à la pharmacologie | ☐ lun 19/10 | ☐ ven 23/10 | ☐ mer 16/12 | ☐ jeu 28/01 | ☐ dim 14/02 | ⬜ | ☐ |  |  |
+| PHA02 ADME | ☐ lun 26/10 | ☐ dim 01/11 | ☐ mer 16/12 | ☐ jeu 28/01 | ☐ dim 14/02 | ⬜ | ☐ |  |  |
+| PHA03 Pharmacocinétique | ☐ lun 02/11 | ☐ sam 07/11 | ☐ mer 16/12 | ☐ jeu 28/01 | ☐ dim 14/02 | ⬜ | ☐ |  |  |
+| PHA04 Pharmacodynamie | ☐ lun 09/11 | ☐ sam 12/12 | ☐ mer 16/12 | ☐ jeu 28/01 | ☐ dim 14/02 | ⬜ | ☐ |  |  |
+| PHA08 Présentation du SNA | ☐ dim 13/12 | ☐ mer 16/12 | ☐ mer 30/12 | ☐ dim 31/01 | ☐ dim 14/02 | ⬜ | ☐ |  |  |
+| PHA09 Sympathomimétiques | ☐ dim 13/12 | ☐ mer 16/12 | ☐ mer 30/12 | ☐ dim 31/01 | ☐ dim 14/02 | ⬜ | ☐ |  |  |
+| PHA10 Sympatholytiques | ☐ lun 14/12 | ☐ ven 18/12 | ☐ mer 30/12 | ☐ dim 31/01 | ☐ dim 14/02 | ⬜ | ☐ |  |  |
+| PHA14 Introduction à l'étude des antibiotiques | ☐ sam 19/12 | ☐ mar 22/12 | ☐ ven 08/01 | ☐ mer 03/02 | ☐ lun 15/02 | ⬜ | ☐ |  |  |
+| PHA15 Les antibiotiques | ☐ dim 20/12 | ☐ mer 23/12 | ☐ ven 08/01 | ☐ mer 03/02 | ☐ lun 15/02 | ⬜ | ☐ |  |  |
+| PHA05 Toxicologie générale | ☐ mer 23/12 | ☐ sam 26/12 | ☐ mer 13/01 | ☐ jeu 04/02 | ☐ dim 14/02 | ⬜ | ☐ |  |  |
+| PHA06 Effets secondaires et médicaments | ☐ sam 26/12 | ☐ mar 29/12 | ☐ mer 13/01 | ☐ jeu 04/02 | ☐ dim 14/02 | ⬜ | ☐ |  |  |
+| PHA07 Pharmacovigilance | ☐ sam 26/12 | ☐ mar 29/12 | ☐ mer 13/01 | ☐ jeu 04/02 | ☐ dim 14/02 | ⬜ | ☐ |  |  |
+| PHA11 Parasympathomimétiques | ☐ lun 04/01 | ☐ ven 08/01 | ☐ mer 20/01 | ☐ ven 05/02 | ☐ dim 14/02 | ⬜ | ☐ |  |  |
+| PHA12 Parasympatholytiques | ☐ mar 05/01 | ☐ ven 08/01 | ☐ mer 20/01 | ☐ ven 05/02 | ☐ dim 14/02 | ⬜ | ☐ |  |  |
+| PHA13 Myorelaxants | ☐ mer 06/01 | ☐ sam 09/01 | ☐ mer 20/01 | ☐ ven 05/02 | ☐ dim 14/02 | ⬜ | ☐ |  |  |
+| PHA16 Les anti-inflammatoires non stéroïdiens | ☐ mer 13/01 | ☐ sam 16/01 | — (fondu dans C3) | ☐ lun 08/02 | ☐ lun 15/02 | ⬜ | ☐ |  |  |
+| PHA17 Les corticoïdes | ☐ sam 16/01 | ☐ mar 19/01 | — (fondu dans C3) | ☐ lun 08/02 | ☐ lun 15/02 | ⬜ | ☐ |  |  |
+| PHA18 Les antidiabétiques | ☐ sam 16/01 | ☐ mar 19/01 | — (fondu dans C3) | ☐ lun 08/02 | ☐ lun 15/02 | ⬜ | ☐ |  |  |
+| PHA19 Les antihistaminiques | ☐ dim 17/01 | ☐ mer 20/01 | — (fondu dans C3) | ☐ lun 08/02 | ☐ lun 15/02 | ⬜ | ☐ |  |  |
 
 ## 🏁 Fin de semestre (proposition)
 
