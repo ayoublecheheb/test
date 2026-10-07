@@ -74,6 +74,7 @@
 - 🧩 **Parcours thématique des modules** (21 thèmes)
 - 📅 **Tableau de bord hebdomadaire** (S1 → examens de février)
 - 🔁 **Recouchage J-14 UEI1** (14 jours)
+- 🧱 **Système de couches (C1–C4)** : quand et comment faire chaque couche, tes premières C2
 - 🦠 Tracker Microbiologie · 🪱 Tracker Parasitologie · 💊 Tracker Pharmacologie
 - ⚙️ Guide d'installation Notion
 
