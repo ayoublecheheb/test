@@ -335,7 +335,7 @@ Pendant l'arrêt, **aucune séance de module** (pas même des flashcards) : c'es
 
 ### 6.2 bis Parcours thématique complet (programme proposé)
 
-Les modules sont étudiés **par thème** : les cours qui se ressemblent (même mécanisme, même famille, même organe) sont placés à quelques jours d'intervalle, souvent **entre deux modules différents** (ex. Antibiotiques en Micro + Pharma la même semaine), et alignés quand c'est possible sur l'unité en cours (Cardio-respiratoire jusqu'en novembre, Neuro-locomoteur-cutané ensuite). Les fondations passent toujours en premier. Si l'amphi présente un cours plus tôt, il passe 🟡 et garde sa place dans le parcours (ou avance si tu préfères).
+Les modules sont étudiés **par thème** : les cours qui se ressemblent (même mécanisme, même famille, même organe) sont placés à quelques jours d'intervalle, souvent **entre deux modules différents** (ex. Antibiotiques en Micro + Pharma la même semaine), et alignés quand c'est possible sur l'unité en cours (Cardio-respiratoire jusqu'en novembre, Neuro-locomoteur-cutané ensuite). Les fondations passent toujours en premier. Si l'amphi présente un cours plus tôt, il passe 🟡 et garde sa place dans le parcours (ou avance si tu préfères). **Confirmé le 07/10 :** l'amphi de Micro a commencé par BAC01 *Introduction au monde microbien* → la Micro démarre bien par la bactériologie (T02), la virologie vient ensuite.
 
 | Thème | Cours | Fenêtre | Lien avec l'unité | À produire |
 |---|---|---|---|---|
@@ -1029,7 +1029,7 @@ Envoie-moi simplement, par exemple :
 ### Ce qu'il me faut de ta part pour affiner
 
 1. Ta **section** (A/B/C/D) et ton **service de sémiologie** → jours exacts des amphis/sémio.
-2. ~~Les cours vus~~ ✅ confirmé : seul SEM01. Dis-moi seulement **quel cours de Micro a été présenté en premier en amphi** (pour l'ordre de la file).
+2. ~~Les cours vus~~ ✅ confirmé : seul SEM01. ~~Premier cours de Micro~~ ✅ : *Introduction au monde microbien* (BAC01) → l'amphi commence par la **bactériologie**, comme le parcours thématique (BAC01 en S3, virologie plus tard).
 3. **Le nombre de pages** de chaque cours (relevé de vendredi).
 4. Les **dates de stage** et d'éventuelles **vacances** dès qu'elles sont annoncées.
 5. Si possible : les **statistiques Medspace des modules** et la **liste des cours de l'UEI 2**.
